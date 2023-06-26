@@ -1,0 +1,615 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\crash_2023-06-20_07-35-34.log started at 20.06. 07:35:45
+
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:33
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:53
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:70
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:84
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:90
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:145
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:156
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:211
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:225
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:228
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:259
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:270
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:278
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:282
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:284
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:309
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:318
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:324
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:339
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:347
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:378
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:382
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:392
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:509
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:512
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:529
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:538
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:561
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:584
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:595
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:624
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:661
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:668
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:671
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:690
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:704
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:706
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:709
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:759
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:767
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:824
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:829
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:852
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:858
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:919
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:1105
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:1147
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:1178
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:1229
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:1242
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 07:35:45
+NULL pointer to instance
+Function: 'SpawnObject'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:5
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:1274
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders; 

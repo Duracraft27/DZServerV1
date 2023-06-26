@@ -1,0 +1,252 @@
+---------------------------------------------
+Log C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\config\script_2023-06-17_19-47-59.log started at 17.06. 19:48:14
+
+SCRIPT       : Registered 326 temporary action enum(s), UAN==326
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,151": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,172": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,180": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'username'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'avatar_url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'content'
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 781 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT    (E): NULL pointer to instance
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:1157
+SCRIPT       : m_EventManager NamEventManager<31fd7c60>
+SCRIPT       : MaxEventCount 2
+SCRIPT       : [Logout]: New player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= with logout time 15
+SCRIPT       : [emote] SurvivorF_Naomi:02 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= finished
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 769 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1026.91
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Blizzard because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 608 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 976.373 (sec), end: 100 (sec), TempDrop: -9.10767 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 699 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 976.373
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 965.398 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 639 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 965.398
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Blizzard because it conflicts with event Snowfall...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 645 seconds
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Snowfall as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 680 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][EVRStorm]: InitPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 1080
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 727 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Logout]: New player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= with logout time 15
+SCRIPT       : [emote] SurvivorM_Kaito:03 play emote id=14 IH=Cleaver:06284
+SCRIPT       : [Logout]: Player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= finished
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1147.28 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 797 seconds
+SCRIPT       : [Namalsk][EVRStorm]: MidPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 90
+SCRIPT       : float m_Colour_SkyOrang = 0.23
+SCRIPT       : [Namalsk][EVRStorm]: EndPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 220
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1147.28
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 0
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Blizzard because it conflicts with event Snowfall...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 713 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 641 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 981.265
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 670 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 940.468 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 779 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 940.468
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 995.648 (sec), end: 100 (sec), TempDrop: -10.9733 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 712 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 995.648
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 636 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][EVRStorm]: InitPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 1080
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 718 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1136.34 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 615 seconds
+SCRIPT       : [Namalsk][EVRStorm]: MidPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 90
+SCRIPT       : float m_Colour_SkyOrang = 0.23
+SCRIPT       : [Namalsk][EVRStorm]: EndPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 220
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1136.34
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start EVRStorm as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 676 seconds
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 0
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 667 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 957.46
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Snowfall as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 706 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 755 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1103.62
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event EVRStorm because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 600 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 907.239 (sec), end: 600 (sec), TempDrop: -15.2746 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 797 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 907.239
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 658 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 928.108
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 694 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1113.72 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 730 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1113.72
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Blizzard because it conflicts with event Snowfall...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 673 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 729 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1188.24
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 679 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1056.61 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 602 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1056.61
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 846.474 (sec), end: 100 (sec), TempDrop: -9.80581 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 745 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 846.474
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 782 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [emote] SurvivorM_Kaito:01 play emote id=11 IH=Cleaver:05459
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 745 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1114.42
+SCRIPT       : [Logout]: New player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= with logout time 15
+SCRIPT       : [emote] SurvivorM_Indar:03 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= finished
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event EVRStorm because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 676 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1087.88 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 627 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1087.88
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Blizzard because it conflicts with event Snowfall...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 687 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 1161.57 (sec), end: 100 (sec), TempDrop: -9.55821 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 646 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 1161.57
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : ~DayZGame()

@@ -1,0 +1,26 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\crash_2023-06-25_15-00-12.log started at 25.06. 16:59:54
+
+
+
+------------------------------------
+GSP-MTL-03, 25.06 2023 16:59:54
+NULL pointer to instance
+Function: 'BuildList'
+Stack trace:
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:254
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:297
+VPPAdminTools/3_Game/vppadmintools\playerlist\playerlist.c:225
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:482
+VPPAdminTools/5_Mission/vppadmintools\missionserver.c:264
+scripts/5_Mission/mission\missionserver.c:246
+scripts/5_Mission/mission\missionserver.c:98
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:58
+JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c:51
+nst/ns_dayz/scripts/5_Mission/namalsksurvival\mission\missionserver.c:114
+scripts/3_Game/dayzgame.c:2802
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:23
+VPPAdminTools/3_Game/vppadmintools\vanillaplusplus.c:211
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Spring Namalsk;@Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack;@DNA Keycards;@dbo_raptors; 

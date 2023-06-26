@@ -1,0 +1,478 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\script_2023-06-23_09-00-15.log started at 23.06. 09:00:15
+
+SCRIPT       : Registered 385 temporary action enum(s), UAN==385
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.chernarusplus exists!
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.enoch exists!
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,36": Missing ';' at the end of line
+SCRIPT    (W): @"AdvancedWeaponScopes/Scripts/4_World/actions\registeractions_playerbase.c,3": FIX-ME: Overriding function 'SetActions' but not marked as 'override'
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/eyepatch\eyepatch_dismantle.c,58": FIX-ME: Overriding function 'SetActions' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'guid'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'details'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'username'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'avatar_url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'content'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'title'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'color'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,151": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,172": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,180": Possible variable name conflict 'url'
+SCRIPT    (W): @"PseudoGiant/PseudoGiant_Scripts/scripts/4_World/entities\creatures\infected\pseudogiant.c,347": FIX-ME: Overriding function 'EEOnDamageCalculated' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\admintools\admintools.c,60": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,13": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,37": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,56": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,59": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,60": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,69": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,79": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,93": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuobjectmanager\menuobjectmanager.c,203": Missing ';' at the end of line
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\vppadminhud.c,126": Unsafe down-casting, use 'MenuObjectManager.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuesptools\esptoolsmenu.c,580": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuplayermanager\menuplayermanager.c,71": FIX-ME: Callbacks do not properly support overloaded methods 'OnUpdate'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\missiondebug.c,38": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : 16:00:28 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+SCRIPT       : 16:00:28 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<1cfa9fd0>
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [ZenChickenCoopsConfig] Init
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 749 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = '[TF]HardcoreNamalsk1PP|NoBases|CustomPvE/PvP'
+SCRIPT       : [DNA DEBUG] - {Main System} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {Container System Settings} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA_Keycards Mob System Settings} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA Keycards General Loot} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA Keycards Clothing Loot} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA Keycards Weapon Loot} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Settings Description found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Yellow Config Found.... Loading 
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Green Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Blue Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Purple Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Red Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Base Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Alarm Settings} - Alarm Settings Config Found.... Loading 
+SCRIPT       : [DNA DEBUG] - {Reset Timer} - Timer Settings found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Reset Timer} - Not in use.
+SCRIPT       : [DNA DEBUG] - {Object Spawner} - System not spawning any crates!
+SCRIPT       : [DNA DEBUG] - {Object Spawner} - System not spawning any smol crates!
+SCRIPT       : [DNA DEBUG] - {Object Spawner} - System not spawning any strongrooms!
+SCRIPT       : m_EventManager NamEventManager<409b4430>
+SCRIPT       : MaxEventCount 2
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [Drones] Found existing config. Loading config.json...
+SCRIPT       : [VPPAT] Player "FourAMbayBridge" (steamId=76561199498715649) connected to server!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [VPPAT] Player "Teddybear" (steamId=76561198190486863) connected to server!
+SCRIPT       : [PlayerListManager] AddReceiver ► added: PlayerIdentity<86d61240>
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [VPPAT] Player "Dsve" (steamId=76561198135230420) connected to server!
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland1'
+Entity id:263486
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT       : [VPPAT] Player "talonhawkbird" (steamId=76561198801193311) connected to server!
+SCRIPT       : [Logout]: New player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= with logout time 15
+SCRIPT       : Player "Teddybear" (steamid=76561198190486863) initiated disconnect process...
+SCRIPT       : [emote] SurvivorF_Eva:02 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= finished
+SCRIPT       : Player "Teddybear" (steamid=76561198190486863) disconnected from server.
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= isn't in the players list! sending a remove.
+SCRIPT       : HandleOnPlayerDisconnected -> PlayerListManager.RemoveEntry ► Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_556x45_20Rnd:05448 parent=SurvivorM_Rolf:01 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_556x45<daf59690> count=20
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 1008.54 (sec), end: 100 (sec), TempDrop: -11.5185 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 558 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 1008.54
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:010458 parent=SurvivorM_Peter:04 }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 872.066 (sec), end: 600 (sec), TempDrop: -16.7166 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 501 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=dzn_PeachesCan:010358 parent=SurvivorM_Peter:04 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=dzn_PeachesCan:010356 parent=SurvivorM_Peter:04 }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 477 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 872.066
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Logout]: New player YY8CZK1ZYEenaQ6i-aSMIxiAXEPOlufiKoGr1Ukm_LQ= with logout time 15
+SCRIPT       : Player "talonhawkbird" (steamid=76561198801193311) initiated disconnect process...
+SCRIPT       : [Logout]: Player YY8CZK1ZYEenaQ6i-aSMIxiAXEPOlufiKoGr1Ukm_LQ= finished
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: YY8CZK1ZYEenaQ6i-aSMIxiAXEPOlufiKoGr1Ukm_LQ= isn't in the players list! sending a remove.
+SCRIPT       : PlayerDisconnected -> PlayerListManager.RemoveEntry ► YY8CZK1ZYEenaQ6i-aSMIxiAXEPOlufiKoGr1Ukm_LQ=
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [VPPAT] Player "talonhawkbird" (steamId=76561198801193311) connected to server!
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:05447 parent=SurvivorM_Peter:04 }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Snowfall because it conflicts with event Blizzard...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 312 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 501 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=dzn_Pajka:010542 parent=SurvivorM_Peter:04 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=dzn_Pajka:010543 parent=SurvivorM_Peter:04 }
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1005.44
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponChambering<5fa9f0a0> closes stable state=Pistol_CLO_CHG_BU1_MA0<6058fd00> id=3
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 731 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:07927 parent=SurvivorM_Peter:04 }
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=dzn_Pajka:010541 parent=SurvivorM_Peter:04 }
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 1006.39 (sec), end: 100 (sec), TempDrop: -12.6131 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 301 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 1006.39
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 591 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1038.15
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 681 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Logout]: New player Qic5SNTY0BT56kizrfXRYlHdsMcCf1qvkmGKZpEzevE= with logout time 15
+SCRIPT       : Player "Dsve" (steamid=76561198135230420) initiated disconnect process...
+SCRIPT       : [emote] SurvivorM_Peter:05 play emote id=14 IH=null
+SCRIPT       : Player "Dsve" (steamid=76561198135230420) disconnected early from server (EXIT NOW).
+SCRIPT       : [Logout]: Player Qic5SNTY0BT56kizrfXRYlHdsMcCf1qvkmGKZpEzevE= finished
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: Qic5SNTY0BT56kizrfXRYlHdsMcCf1qvkmGKZpEzevE= isn't in the players list! sending a remove.
+SCRIPT       : PlayerDisconnected -> PlayerListManager.RemoveEntry ► Qic5SNTY0BT56kizrfXRYlHdsMcCf1qvkmGKZpEzevE=
+SCRIPT       : [VPPAT] Player "NoX" (steamId=76561198367154108) connected to server!
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Logout]: New player PCL1Yz_VZlh4t6uY2LDmY3JdvI61Z8PbjFBIbV6EOyo= with logout time 15
+SCRIPT       : Player "NoX" (steamid=76561198367154108) initiated disconnect process...
+SCRIPT       : [Logout]: Player PCL1Yz_VZlh4t6uY2LDmY3JdvI61Z8PbjFBIbV6EOyo= finished
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: PCL1Yz_VZlh4t6uY2LDmY3JdvI61Z8PbjFBIbV6EOyo= isn't in the players list! sending a remove.
+SCRIPT       : PlayerDisconnected -> PlayerListManager.RemoveEntry ► PCL1Yz_VZlh4t6uY2LDmY3JdvI61Z8PbjFBIbV6EOyo=
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [emote] SurvivorM_Cyril:02 play emote id=1 IH=null
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 356 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1061.7
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_380_35rnd:014115 parent=SurvivorM_Rolf:01 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_380<55e24360> count=35
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Snowfall because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 326 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Aurora as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 755 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 925.405 (sec), end: 600 (sec), TempDrop: -18.0646 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 791 seconds
+SCRIPT       : [VPPAT] Player "Survivor" (steamId=76561199182879356) connected to server!

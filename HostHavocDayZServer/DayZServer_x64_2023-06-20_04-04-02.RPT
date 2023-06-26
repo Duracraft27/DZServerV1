@@ -1,0 +1,212 @@
+
+
+=====================================================================
+== C:\TCAFiles\Users\ted\153052\DayZServer_x64.exe
+== "C:\TCAFiles\Users\ted\153052\DayZServer_x64.exe" -port=2322 -config=serverDZ_By_HostHavoc.cfg -profiles=C:\TCAFiles\Users\ted\153052\HostHavocDayZServer "-servermod=" "-mod=@Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@BuilderItems;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@Zen's Zombie Door Bangers;@Unknown Ghillie Mod;@Zen's Chicken Coops;@Wolf Packs;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@DroneBatteryOverride;@SmallerCrossbow;" 
+=====================================================================
+Exe timestamp: 2023/06/07 01:05:46
+Current time:  2023/06/20 04:04:10
+
+Version 1.21.156243
+ 4:04:10.969 [Inputs] Loading inputs default "bin/constants.xml"
+ 4:04:10.974 [Inputs] Loading inputs default "bin/specific.xml"
+ 4:04:10.975 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+ 4:04:10.977 !!! [Inputs] Cannot Register "UAObjectModuleDeleteOnCursor" non-existent input - Fix Preset!
+ 4:04:10.977 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+ 4:04:10.977 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+ 4:04:10.977 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 4:04:10.979 [Inputs] Loading inputs default "WindstrideClothing/Inputs.xml"
+ 4:04:10.979 [Inputs] Loading inputs default "evg_drones/Inputs.xml"
+ 4:04:10.980 [Inputs] Loading inputs default "Dayz_Dog/Data/Inputs.xml"
+ 4:04:10.980 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+ 4:04:10.987 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+ 4:04:32.893 [CE][Hive] :: Initializing OFFLINE
+ 4:04:32.893 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\
+ 4:04:32.894 [CE][Hive] :: Loading core data ... 
+ 4:04:32.895 [CE][CoreData] :: 7 root classes, 0 defaults, 0 updaters...
+ 4:04:42.565 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+ 4:04:42.567 [CE][TypeSetup] :: 556 classes setuped...
+ 4:04:57.74 [CE][RegisterBind] :: 0 classes binded...
+ 4:04:57.74 [CE][RegisterConfig] :: 16133 config classes registered, 0 sub-counters...
+ 4:04:57.74 [CE][Hive] :: Loading map data ... 
+ 4:04:57.601 !!! [CE] :: Unknown tag: 'shelves'.
+ 4:04:57.601 !!! [CE] :: Unknown category: 'books'.
+ 4:04:57.601 !!! [CE] :: Unknown tag: 'shelves'.
+ 4:04:57.601 !!! [CE] :: Unknown tag: 'shelves'.
+ 4:04:57.601 [CE][LoadPrototype] :: loaded 261 prototypes
+ 4:04:57.601   411 containers, 7544 points
+ 4:04:57.601   1 dispatches, 1 proxies
+ 4:04:57.601 !!! [CE][LoadPrototype] 1 groups have wrong points...
+ 4:04:57.601 !!! [CE][LoadPrototype] 2 groups were defined more than once and skipped...
+ 4:04:57.601 [CE][LoadPrototype] :: last group name: Land_Prison_Side...
+ 4:04:57.612 [CE][LoadPrototype] :: loaded 0 prototypes
+ 4:04:57.612   38 containers, 66 points
+ 4:04:57.612   0 dispatches, 0 proxies
+ 4:04:57.613 [CE][LoadPrototype] :: last group name: StoneLoc38...
+ 4:04:57.715 [CE][LoadMap] "Group" :: loaded 1644 groups, groups failed: 0, largest group range: 36.4
+ 4:04:57.722 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+ 4:04:57.735 [CE][Links] found 546 total links between groups, of 1644
+ 4:04:57.735 [CE][LoadClusters] "Cluster" :: Loading files...
+ 4:04:57.766 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+ 4:04:57.769 [CE][Storage] ver:21 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\types.bin"
+ 4:04:57.770 [CE][Storage] ver:21 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\types.001"
+ 4:04:57.771 [CE][Storage] ver:21 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\types.002"
+ 4:04:57.771 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\types.bin".
+ 4:04:58.161 [CE][offlineDB] :: Loaded 19 dynamic events 194 total types.
+ 4:04:58.200 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.200 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.202 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.202 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.202 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.202 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.202 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.202 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.203 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.203 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.203 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.203 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.203 !!! [CE][offlineDB] :: Type 'Leather_Cloak' will be ignored. (Type does not exist. (Typo?))
+ 4:04:58.203 !!! [CE] :: Unknown tag: 'floor'.
+ 4:04:58.204 !!! [CE][offlineDB] :: Type 'AD_LeupoldMk4' will be ignored. (Type does not exist. (Typo?))
+ 4:04:58.204 !!! [CE][offlineDB] :: Type 'AD_LeupoldMk4_MosinMount' will be ignored. (Type does not exist. (Typo?))
+ 4:04:58.204 !!! [CE][offlineDB] :: Type 'AD_LeupoldMk4_B13' will be ignored. (Type does not exist. (Typo?))
+ 4:04:58.204 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 4:04:58.230 [CE][DE][SPAWNS] :: Total positions: 254
+ 4:04:58.230 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+ 4:04:58.268 [CE][Storage] ver:21 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\events.bin"
+ 4:04:58.268 [CE][Storage] ver:21 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\events.001"
+ 4:04:58.269 [CE][Storage] ver:21 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\events.002"
+ 4:04:58.269 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\events.bin".
+ 4:04:58.269 [CE][DynamicEvent] Load  Events:[19] Primary spawners: 19 Secondary spawners: 0
+ 4:04:58.270 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.bin"
+ 4:04:58.271 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.001"
+ 4:04:58.272 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.002"
+ 4:04:58.272 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.bin" 1 items.
+ 4:04:58.273   1 items loaded. (0 failed)
+ 4:04:58.289 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.bin"
+ 4:04:58.290 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.001"
+ 4:04:58.290 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.002"
+ 4:04:58.292 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.bin" 163 items.
+ 4:04:58.845   163 items loaded. (0 failed)
+ 4:04:58.846 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.bin"
+ 4:04:58.847 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.001"
+ 4:04:58.849 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.002"
+ 4:04:58.849 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.bin" 73 items.
+ 4:04:59.134   73 items loaded. (0 failed)
+ 4:04:59.135 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.bin"
+ 4:04:59.137 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.001"
+ 4:04:59.145 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.002"
+ 4:04:59.145 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.bin" 988 items.
+ 4:05:01.00   988 items loaded. (0 failed)
+ 4:05:01.07 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.bin"
+ 4:05:01.27 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.001"
+ 4:05:01.30 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.002"
+ 4:05:01.31 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.bin" 1972 items.
+ 4:05:04.411   1972 items loaded. (0 failed)
+ 4:05:04.413 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.bin"
+ 4:05:04.414 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.001"
+ 4:05:04.416 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.002"
+ 4:05:04.417 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.bin" 932 items.
+ 4:05:05.979   932 items loaded. (0 failed)
+ 4:05:05.979 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.bin"
+ 4:05:05.980 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.001"
+ 4:05:05.981 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.002"
+ 4:05:05.981 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.bin" 2431 items.
+ 4:05:09.648   2431 items loaded. (0 failed)
+ 4:05:09.649 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.bin"
+ 4:05:09.651 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.001"
+ 4:05:09.651 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.002"
+ 4:05:09.651 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.bin" 666 items.
+ 4:05:10.615   666 items loaded. (0 failed)
+ 4:05:10.615 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.bin"
+ 4:05:10.616 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.001"
+ 4:05:10.617 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.002"
+ 4:05:10.617 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.bin" 476 items.
+ 4:05:11.328   476 items loaded. (0 failed)
+ 4:05:11.329 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.bin"
+ 4:05:11.330 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.001"
+ 4:05:11.330 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.002"
+ 4:05:11.330 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.bin" 0 items.
+ 4:05:11.330   0 items loaded. (0 failed)
+ 4:05:11.331 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.bin"
+ 4:05:11.332 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.001"
+ 4:05:11.333 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.002"
+ 4:05:11.333 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.bin" 53 items.
+ 4:05:11.426   53 items loaded. (0 failed)
+ 4:05:11.427 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.bin"
+ 4:05:11.428 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.001"
+ 4:05:11.428 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.002"
+ 4:05:11.428 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.bin" 51 items.
+ 4:05:11.506   51 items loaded. (0 failed)
+ 4:05:11.506 [CE][Storage] ver:26 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\building.bin"
+ 4:05:11.507 [CE][Storage] ver:26 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\building.001"
+ 4:05:11.508 [CE][Storage] ver:26 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\building.002"
+ 4:05:11.508 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\building.bin" 0 items.
+ 4:05:11.508   0 items loaded. (0 failed)
+ 4:05:11.509 [CE][Storage] ver:25 stamp:4063, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\vehicles.bin"
+ 4:05:11.510 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\vehicles.001"
+ 4:05:11.511 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\vehicles.002"
+ 4:05:11.511 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\vehicles.bin" 86 items.
+ 4:05:11.773   86 items loaded. (0 failed)
+ 4:05:11.794 [CE][Hive] :: Storage load took:13.53 seconds, recovery stamp:4063
+ 4:05:11.794   entity: 8547, building: 0
+ 4:05:11.794   no lifetime: 22
+ 4:05:11.794   pathgraph's: 166
+ 4:05:11.796 [CE][Hive] :: Initializing ... 
+ 4:05:11.829 [CE][InitializeMap] :: initialized: 0
+ 4:05:11.829 [CE][Hive] :: Initializing spawners ... 
+ 4:05:11.829 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "Flag_Bear"
+ 4:05:11.829 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "TaloonBag_Orange"
+ 4:05:11.830 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "dzn_athena3_october"
+ 4:05:11.830 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "dzn_athena3_exp2"
+ 4:05:11.830 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "dzn_module_card"
+ 4:05:11.830 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "dzn_oxygenated_blood"
+ 4:05:11.830 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "WoolCoat_BlackCheck"
+ 4:05:11.830 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "WoolCoat_BlackCheck"
+ 4:05:11.830 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "WoolCoat_BlackCheck"
+ 4:05:11.830 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "dzn_lehs_battery"
+ 4:05:11.831 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "dzn_athena3_exp1"
+ 4:05:11.831 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "GardenLime"
+ 4:05:11.831 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "GardenLime"
+ 4:05:11.831 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "GardenLime"
+ 4:05:11.831 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "GardenLime"
+ 4:05:11.831 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "GardenLime"
+ 4:05:11.831 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "GardenLime"
+ 4:05:11.831 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "GardenLime"
+ 4:05:11.831 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "GardenLime"
+ 4:05:11.831 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "GardenLime"
+ 4:05:11.833 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:3, Nominal:10368, Total in Map: 7931 at 0 (sec)
+ 4:05:11.833   tests:3, repeats:0 fails:0, overtime:85
+ 4:05:13.718 [CE][DynEvent] :: 19 types
+ 4:05:13.718 [00] Loot
+ 4:05:13.718   Primary Spawner: "Loot", active: yes, repeat: 2
+ 4:05:13.719 [01] StaticMedDrop
+ 4:05:13.719   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:05:13.719 [02] StaticLifeboat
+ 4:05:13.719   Primary Spawner: "Static", active: yes, repeat: 1
+ 4:05:13.719 [03] TrajectoryStones
+ 4:05:13.719   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 4:05:13.719 [04] AnimalWildDog
+ 4:05:13.719   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:05:13.719 [05] InfectedSanta
+ 4:05:13.719   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:05:13.719 [06] InfectedArmy
+ 4:05:13.719   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:05:13.719 [07] InfectedIndustrial
+ 4:05:13.719   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:05:13.719 [08] InfectedCivil
+ 4:05:13.719   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:05:13.719 [09] InfectedMedic
+ 4:05:13.719   Primary Spawner: "Infected", active: yes, repeat: 1
+ 4:05:13.719 [10] AnimalGoat
+ 4:05:13.719   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:05:13.719 [11] AnimalSheep
+ 4:05:13.719   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:05:13.719 [12] AnimalRoeDeer
+ 4:05:13.719   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:05:13.719 [13] AnimalDeer
+ 4:05:13.719   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:05:13.719 [14] AnimalWildBoar
+ 4:05:13.719   Primary Spawner: "Animal", active: yes, repeat: 1
+ 4:05:13.719 [15] AnimalWolf
+ 4:05:13.719   Primary Spawner: "Animal", active: yes, repeat: 1

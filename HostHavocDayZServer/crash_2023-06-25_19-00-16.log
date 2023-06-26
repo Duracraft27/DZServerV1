@@ -1,0 +1,20 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\crash_2023-06-25_19-00-16.log started at 25.06. 19:49:36
+
+
+
+------------------------------------
+GSP-MTL-03, 25.06 2023 19:49:36
+NULL pointer to instance
+Function: 'GetNutritionPropertyFromIndex'
+Stack trace:
+scripts/4_World/classes\foodstage\foodstage.c:252
+scripts/4_World/classes\foodstage\foodstage.c:313
+scripts/4_World/entities\itembase\edible_base.c:284
+scripts/4_World/entities\itembase\edible_base.c:368
+scripts/4_World/classes\playerstomach.c:336
+scripts/4_World/classes\playerstomach.c:431
+scripts/4_World/entities\manbase\playerbase.c:6783
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Spring Namalsk;@Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack;@DNA Keycards;@dbo_raptors; 

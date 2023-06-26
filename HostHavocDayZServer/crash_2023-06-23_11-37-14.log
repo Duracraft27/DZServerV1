@@ -1,0 +1,19 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\crash_2023-06-23_11-37-14.log started at 23.06. 12:06:44
+
+
+
+------------------------------------
+GSP-MTL-03, 23.06 2023 12:06:44
+
+[desync] HandleInputData man=SurvivorM_Cyril:02 CANNOT swap cmd=SWAP src1={ type=CARGO item=SmershVest:07423 parent=ZmbM_ruSoldier_normal_Woodland2:0534 idx=0 row=0 col=0 f=false } dst1={ type=CARGO item=SmershVest:07423 parent=Spur_LW_Bag_Purple:011024 idx=0 row=3 col=0 f=false } | src2={ type=CARGO item=Mag_PP19_64Rnd:07636 parent=Spur_LW_Bag_Purple:011024 idx=0 row=3 col=0 f=false } dst2={ type=CARGO item=Mag_PP19_64Rnd:07636 parent=ZmbM_ruSoldier_normal_Woodland2:0534 idx=0 row=0 col=0 f=false }
+Class:      'DayZPlayerInventory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1138
+scripts/4_World/systems\inventory\dayzplayerinventory.c:1348
+scripts/4_World/systems\inventory\dayzplayerinventory.c:639
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Spring Namalsk;@Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack;@DNA Keycards;@dbo_raptors; 

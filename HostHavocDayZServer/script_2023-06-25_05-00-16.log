@@ -1,0 +1,186 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\script_2023-06-25_05-00-16.log started at 25.06. 05:00:16
+
+SCRIPT       : Registered 385 temporary action enum(s), UAN==385
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.chernarusplus exists!
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.enoch exists!
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,36": Missing ';' at the end of line
+SCRIPT    (W): @"AdvancedWeaponScopes/Scripts/4_World/actions\registeractions_playerbase.c,3": FIX-ME: Overriding function 'SetActions' but not marked as 'override'
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/eyepatch\eyepatch_dismantle.c,58": FIX-ME: Overriding function 'SetActions' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'guid'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'details'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'username'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'avatar_url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'content'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'title'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'color'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,151": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,172": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,180": Possible variable name conflict 'url'
+SCRIPT    (W): @"PseudoGiant/PseudoGiant_Scripts/scripts/4_World/entities\creatures\infected\pseudogiant.c,347": FIX-ME: Overriding function 'EEOnDamageCalculated' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\admintools\admintools.c,60": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,13": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,37": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,56": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,59": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,60": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,69": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,79": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,93": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuobjectmanager\menuobjectmanager.c,203": Missing ';' at the end of line
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\vppadminhud.c,126": Unsafe down-casting, use 'MenuObjectManager.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuesptools\esptoolsmenu.c,580": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuplayermanager\menuplayermanager.c,71": FIX-ME: Callbacks do not properly support overloaded methods 'OnUpdate'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\missiondebug.c,38": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : 12:00:28 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+SCRIPT       : 12:00:28 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<3f144a10>
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [ZenChickenCoopsConfig] Init
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 798 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = '[TF]HardcoreNamalsk1PP|NoBases|CustomPvE/PvP'
+SCRIPT       : [DNA DEBUG] - {Main System} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {Container System Settings} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA_Keycards Mob System Settings} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA Keycards General Loot} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA Keycards Clothing Loot} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {DNA Keycards Weapon Loot} - Config found, loading settings!
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Settings Description found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Yellow Config Found.... Loading 
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Green Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Blue Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Purple Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Red Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Smol Crate Config} - Smol Crate Base Config Found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Alarm Settings} - Alarm Settings Config Found.... Loading 
+SCRIPT       : [DNA DEBUG] - {Reset Timer} - Timer Settings found.... Loading.
+SCRIPT       : [DNA DEBUG] - {Reset Timer} - Not in use.
+SCRIPT       : [DNA DEBUG] - {Object Spawner} - System not spawning any crates!
+SCRIPT       : [DNA DEBUG] - {Object Spawner} - System not spawning any smol crates!
+SCRIPT       : [DNA DEBUG] - {Object Spawner} - System not spawning any strongrooms!
+SCRIPT       : m_EventManager NamEventManager<3645ce40>
+SCRIPT       : MaxEventCount 2
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [Drones] Found existing config. Loading config.json...
+SCRIPT       : [VPPAT] Player "FriendlyGuy" (steamId=76561197993327355) connected to server!
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 833.583 (sec), end: 100 (sec), TempDrop: -13.291 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 400 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=dzn_Pajka:09793 parent=SurvivorM_Lewis:01 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=dzn_CatFoodCan:010282 parent=SurvivorM_Lewis:01 }
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 833.583
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1012.96 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 438 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 245 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1012.96
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][EVRStorm]: InitPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 1080
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 709 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_9x39_20Rnd:09358 parent=SurvivorM_Lewis:01 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_9x39<4a5d2060> count=20
+SCRIPT       : [Logout]: New player wvDVISk9nCSO6TuqbL2Y4ofWbDurT8WE62YuflOrKKU= with instant logout
+SCRIPT       : [Logout]: Player wvDVISk9nCSO6TuqbL2Y4ofWbDurT8WE62YuflOrKKU= finished
+SCRIPT       : Player "FriendlyGuy" (steamid=76561197993327355) disconnected from server.
+SCRIPT       : HandleOnPlayerDisconnected -> PlayerListManager.RemoveEntry ► wvDVISk9nCSO6TuqbL2Y4ofWbDurT8WE62YuflOrKKU=
+SCRIPT       : ==============================================WARNING=======================================================
+SCRIPT       : [WARNING 2023-6M-25 5h:43:52] ASSERTION NULL
+SCRIPT       : Do you see this message? Unless the time is within a second of the crash than this was not the cause.
+SCRIPT       : 	OnClientLogout#910778() JM/COT/Scripts/4_World/communityonlinetools\classes\cotmodule.c : 410
+SCRIPT       : 	OnClientLogout() JM/CF/Scripts/4_World/communityframework\module\deprecated\jmmodulebase.c : 247
+SCRIPT       : 	OnClientLogout() JM/CF/Scripts/4_World/communityframework\module\cf_moduleworldevent.c : 124
+SCRIPT       : 	OnClientLogout() JM/CF/Scripts/4_World/communityframework\module\cf_moduleworldmanager.c : 65
+SCRIPT       : 	OnClientDisconnectedEvent() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 104
+SCRIPT       : 	OnEvent() scripts/5_Mission/mission\missionserver.c : 352
+SCRIPT       : 	OnEvent() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 10
+SCRIPT       : 	OnEvent() VPPAdminTools/5_Mission/vppadmintools\missionserver.c : 64
+SCRIPT       : 	OnEvent() scripts/3_Game/dayzgame.c : 1692
+SCRIPT       : 	OnEvent() DabsFramework/scripts/3_Game/dabsframework\dayzgame.c : 72
+SCRIPT       : 	OnEvent() JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c : 97
+SCRIPT       : ============================================================================================================
+SCRIPT       : Player "FriendlyGuy" (steamid=76561197993327355) initiated disconnect process...
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Snowfall as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 669 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][EVRStorm]: MidPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 90
+SCRIPT       : float m_Colour_SkyOrang = 0.23
+SCRIPT       : [Namalsk][EVRStorm]: EndPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 220
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 429 seconds
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 0
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event EVRStorm as it is on cooldown for 892 more seconds
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 447 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1148.13 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 317 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 245 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 971.102
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Snowfall as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 311 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1148.13
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 382 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Snowfall as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 544 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [VPPAT] Player "ChocoTuga" (steamId=76561199104773928) connected to server!
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x54Tracer_20Rnd:07400 parent=SurvivorF_Baty:01 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_762x54Tracer<d1c0c9b0> count=20
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=dzn_Pate:012047 parent=SurvivorF_Baty:01 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=dzn_Pajka:08918 parent=SurvivorF_Baty:01 }
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 372 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1187.74
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=dzn_PeachesCan:013896 parent=SurvivorF_Baty:01 }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 695 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Logout]: New player QlfMA6ZHTmhR4V1rzSWPaXappYWFzdRcnswz76kgf4I= with logout time 15
+SCRIPT       : Player "ChocoTuga" (steamid=76561199104773928) initiated disconnect process...
+SCRIPT       : [emote] SurvivorF_Baty:01 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player QlfMA6ZHTmhR4V1rzSWPaXappYWFzdRcnswz76kgf4I= finished
+SCRIPT       : Player "ChocoTuga" (steamid=76561199104773928) disconnected from server.
+SCRIPT       : HandleOnPlayerDisconnected -> PlayerListManager.RemoveEntry ► QlfMA6ZHTmhR4V1rzSWPaXappYWFzdRcnswz76kgf4I=
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Aurora as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 413 seconds
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [VPPAT] Player "ChocoTuga" (steamId=76561199104773928) connected to server!

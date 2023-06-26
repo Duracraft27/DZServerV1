@@ -1,0 +1,162 @@
+
+
+=====================================================================
+== C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+== "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe" -ip=37.10.124.137 -port=28000 -cpuCount=4 -limitFPS=100 -adminlog -config=serverDZ.cfg "-mod=@Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@BuilderItems;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@Custom Keycards;@VPPAdminTools;@Zen's Zombie Door Bangers" -profiles=C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone/config -BEPath=C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\battleye -noFilePatching -nologs -freezecheck
+=====================================================================
+Exe timestamp: 2023/06/06 04:56:18
+Current time:  2023/06/18 03:44:03
+
+Version 1.21.156243
+ 3:44:03.514 [Inputs] Loading inputs default "bin/constants.xml"
+ 3:44:03.531 [Inputs] Loading inputs default "bin/specific.xml"
+ 3:44:03.535 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+ 3:44:03.538 !!! [Inputs] Cannot Register "UAObjectModuleDeleteOnCursor" non-existent input - Fix Preset!
+ 3:44:03.541 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+ 3:44:03.546 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+ 3:44:03.553 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 3:44:03.560 [Inputs] Loading inputs default "WindstrideClothing/Inputs.xml"
+ 3:44:03.568 [Inputs] Loading inputs cfg "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+ 3:44:03.615 [Inputs] Exporting inputs cfg "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+ 3:45:17.493 [CE][Hive] :: Initializing OFFLINE
+ 3:45:17.497 [StorageDirs] :: Selected storage directory: C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\
+ 3:45:17.518 [CE][Hive] :: Loading core data ... 
+ 3:45:17.528 [CE][CoreData] :: 7 root classes, 0 defaults, 0 updaters...
+ 3:45:34.557 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+ 3:45:34.559 [CE][TypeSetup] :: 556 classes setuped...
+ 3:45:38.358 [CE][RegisterBind] :: 0 classes binded...
+ 3:45:38.358 [CE][RegisterConfig] :: 15907 config classes registered, 0 sub-counters...
+ 3:45:38.358 [CE][Hive] :: Loading map data ... 
+ 3:45:38.439 !!! [CE] :: Unknown tag: 'shelves'.
+ 3:45:38.439 !!! [CE] :: Unknown category: 'books'.
+ 3:45:38.439 !!! [CE] :: Unknown tag: 'shelves'.
+ 3:45:38.440 !!! [CE] :: Unknown tag: 'shelves'.
+ 3:45:38.440 [CE][LoadPrototype] :: loaded 261 prototypes
+ 3:45:38.440   411 containers, 7544 points
+ 3:45:38.440   1 dispatches, 1 proxies
+ 3:45:38.440 !!! [CE][LoadPrototype] 1 groups have wrong points...
+ 3:45:38.440 [CE][LoadPrototype] :: last group name: Land_Prison_Side...
+ 3:45:38.476 [CE][LoadPrototype] :: loaded 0 prototypes
+ 3:45:38.476   38 containers, 66 points
+ 3:45:38.476   0 dispatches, 0 proxies
+ 3:45:38.476 [CE][LoadPrototype] :: last group name: StoneLoc38...
+ 3:45:38.745 [CE][LoadMap] "Group" :: loaded 1610 groups, groups failed: 0, largest group range: 36.4
+ 3:45:38.757 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+ 3:45:38.763 [CE][Links] found 534 total links between groups, of 1610
+ 3:45:38.763 [CE][LoadClusters] "Cluster" :: Loading files...
+ 3:45:38.785 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+ 3:45:38.791 [CE][Storage] ver:21 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\types.bin"
+ 3:45:38.797 [CE][Storage] ver:21 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\types.001"
+ 3:45:38.802 [CE][Storage] ver:21 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\types.002"
+ 3:45:38.802 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\types.bin".
+ 3:45:39.141 [CE][offlineDB] :: Loaded 17 dynamic events 166 total types.
+ 3:45:39.181 !!! [CE] :: Unknown tag: 'floor'.
+ 3:45:39.181 !!! [CE] :: Unknown tag: 'floor'.
+ 3:45:39.181 !!! [CE] :: Unknown tag: 'floor'.
+ 3:45:39.181 !!! [CE] :: Unknown tag: 'floor'.
+ 3:45:39.181 !!! [CE] :: Unknown tag: 'floor'.
+ 3:45:39.181 !!! [CE] :: Unknown tag: 'floor'.
+ 3:45:39.181 !!! [CE] :: Unknown tag: 'floor'.
+ 3:45:39.181 !!! [CE] :: Unknown tag: 'floor'.
+ 3:45:39.181 !!! [CE] :: Unknown tag: 'floor'.
+ 3:45:39.182 !!! [CE] :: Unknown tag: 'floor'.
+ 3:45:39.182 !!! [CE][offlineDB] :: Type 'Leather_Cloak' will be ignored. (Type does not exist. (Typo?))
+ 3:45:39.182 !!! [CE] :: Unknown tag: 'floor'.
+ 3:45:39.183 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 3:45:39.305 [CE][DE][SPAWNS] :: Total positions: 129
+ 3:45:39.305 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+ 3:45:39.308 [CE][Storage] ver:21 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\events.bin"
+ 3:45:39.312 [CE][Storage] ver:21 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\events.001"
+ 3:45:39.315 [CE][Storage] ver:21 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\events.002"
+ 3:45:39.315 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\events.bin".
+ 3:45:39.316 [CE][DynamicEvent] Load  Events:[17] Primary spawners: 17 Secondary spawners: 0
+ 3:45:39.319 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.bin"
+ 3:45:39.323 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.001"
+ 3:45:39.326 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.002"
+ 3:45:39.326 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.bin" 1 items.
+ 3:45:39.328   1 items loaded. (0 failed)
+ 3:45:39.347 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.bin"
+ 3:45:39.369 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.001"
+ 3:45:39.373 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.002"
+ 3:45:39.373 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.bin" 128 items.
+ 3:45:39.552   128 items loaded. (0 failed)
+ 3:45:39.556 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.bin"
+ 3:45:39.560 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.001"
+ 3:45:39.564 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.002"
+ 3:45:39.564 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.bin" 59 items.
+ 3:45:39.618   59 items loaded. (0 failed)
+ 3:45:39.640 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.bin"
+ 3:45:39.645 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.001"
+ 3:45:39.649 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.002"
+ 3:45:39.649 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.bin" 787 items.
+ 3:45:40.268   787 items loaded. (0 failed)
+ 3:45:40.279 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.bin"
+ 3:45:40.284 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.001"
+ 3:45:40.288 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.002"
+ 3:45:40.288 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.bin" 1638 items.
+ 3:45:41.246   1638 items loaded. (0 failed)
+ 3:45:41.264 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.bin"
+ 3:45:41.269 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.001"
+ 3:45:41.273 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.002"
+ 3:45:41.273 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.bin" 635 items.
+ 3:45:41.644   635 items loaded. (0 failed)
+ 3:45:41.667 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.bin"
+ 3:45:41.673 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.001"
+ 3:45:41.677 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.002"
+ 3:45:41.677 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.bin" 1782 items.
+ 3:45:42.560   1782 items loaded. (0 failed)
+ 3:45:42.608 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.bin"
+ 3:45:42.613 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.001"
+ 3:45:42.617 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.002"
+ 3:45:42.617 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.bin" 586 items.
+ 3:45:42.919   586 items loaded. (0 failed)
+ 3:45:42.941 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.bin"
+ 3:45:42.946 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.001"
+ 3:45:42.950 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.002"
+ 3:45:42.950 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.bin" 317 items.
+ 3:45:43.128   317 items loaded. (0 failed)
+ 3:45:43.131 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.bin"
+ 3:45:43.135 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.001"
+ 3:45:43.138 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.002"
+ 3:45:43.138 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.bin" 0 items.
+ 3:45:43.138   0 items loaded. (0 failed)
+ 3:45:43.142 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.bin"
+ 3:45:43.146 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.001"
+ 3:45:43.150 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.002"
+ 3:45:43.150 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.bin" 43 items.
+ 3:45:43.185   43 items loaded. (0 failed)
+ 3:45:43.249 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.bin"
+ 3:45:43.253 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.001"
+ 3:45:43.257 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.002"
+ 3:45:43.257 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.bin" 38 items.
+ 3:45:43.280   38 items loaded. (0 failed)
+ 3:45:43.288 [CE][Storage] ver:26 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\building.bin"
+ 3:45:43.292 [CE][Storage] ver:26 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\building.001"
+ 3:45:43.295 [CE][Storage] ver:26 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\building.002"
+ 3:45:43.295 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\building.bin" 0 items.
+ 3:45:43.295   0 items loaded. (0 failed)
+ 3:45:43.299 [CE][Storage] ver:25 stamp:29, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\vehicles.bin"
+ 3:45:43.302 [CE][Storage] ver:25 stamp:27, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\vehicles.001"
+ 3:45:43.306 [CE][Storage] ver:25 stamp:28, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\vehicles.002"
+ 3:45:43.307 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\vehicles.bin" 57 items.
+ 3:45:43.385   57 items loaded. (0 failed)
+ 3:45:43.422 [CE][Hive] :: Storage load took:4.11 seconds, recovery stamp:29
+ 3:45:43.422   entity: 6596, building: 0
+ 3:45:43.422   no lifetime: 6
+ 3:45:43.422   pathgraph's: 131
+ 3:45:43.431 [CE][Hive] :: Initializing ... 
+ 3:45:43.449 [CE][InitializeMap] :: initialized: 0
+ 3:45:43.449 [CE][Hive] :: Initializing spawners ... 
+ 3:45:43.449 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:6443, Total in Map: 6105 at 0 (sec)
+ 3:45:43.449   tests:0, repeats:0 fails:0, overtime:0
+ 3:45:48.993 [CE][DynEvent] :: 17 types
+ 3:45:48.993 [00] Loot
+ 3:45:48.993   Primary Spawner: "Loot", active: yes, repeat: 2
+ 3:45:48.993 [01] StaticMedDrop
+ 3:45:48.993   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:45:48.993 [02] StaticLifeboat
+ 3:45:48.993   Primary Spawner: "Static", active: yes, repeat: 1
+ 3:45:48.993 [03] TrajectoryStones
+ 3:45:48.993   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 3:45:48.993 [04] InfectedSanta
+ 3:45:48.993   Primary Spawner: "Infected", active: yes, repeat: 1

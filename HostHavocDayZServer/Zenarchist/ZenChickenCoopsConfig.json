@@ -1,0 +1,58 @@
+{
+    "ConfigVersion": "1",
+    "LogsOn": 0,
+    "DebugOn": 0,
+    "DumpObjectLocations": 0,
+    "SpawnChickenCoops": 1,
+    "NoFeathersLeftMessage": "It seems there are no feathers left...",
+    "CoopTypes": [
+        {
+            "TypeName": "_chickencoop",
+            "ObjectName": "Zen_ChickenCoop",
+            "MinFeathers": 0,
+            "MaxFeathers": 10,
+            "MaxFeathersPerCollect": 3,
+            "ChanceOfBleed": 0.05000000074505806,
+            "DamageGloves": 5.0,
+            "Offset": [
+                0.0,
+                0.0,
+                0.0
+            ],
+            "Orient": [
+                90.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "TypeName": "_hutch",
+            "ObjectName": "Zen_ChickenCoop2",
+            "MinFeathers": 0,
+            "MaxFeathers": 30,
+            "MaxFeathersPerCollect": 6,
+            "ChanceOfBleed": 0.05000000074505806,
+            "DamageGloves": 5.0,
+            "Offset": [
+                0.0,
+                0.800000011920929,
+                0.20000000298023225
+            ],
+            "Orient": [
+                90.0,
+                0.0,
+                0.0
+            ]
+        }
+    ],
+    "CoopPositions": [
+        {
+            "TypeName": "_chickencoop",
+            "Locations": []
+        },
+        {
+            "TypeName": "_hutch",
+            "Locations": []
+        }
+    ]
+}

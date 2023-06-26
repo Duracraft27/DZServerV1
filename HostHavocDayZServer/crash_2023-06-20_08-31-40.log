@@ -1,0 +1,549 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\crash_2023-06-20_08-31-40.log started at 20.06. 10:07:50
+
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 10:07:50
+
+[wpnfsm] RecurveBow:08847 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=Archery_Base<bbef2590> type=RecurveBow
+Class:      'Archery_Base'
+Entity id:707699
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:503
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 10:07:50
+
+[wpnfsm] RecurveBow:08847 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=Archery_Base<bbef2590> type=RecurveBow
+Class:      'Archery_Base'
+Entity id:707699
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:503
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 10:08:03
+NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:707699
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:261
+scripts/4_World/classes\weapons\weaponmanager.c:433
+scripts/4_World/entities\dayzplayerimplement.c:937
+scripts/4_World/entities\dayzplayerimplement.c:2005
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\dayzplayerimplement.c:29
+scripts/4_World/entities\manbase\playerbase.c:2704
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c:100
+nst/namalsk/scripts/4_World/namalskterrain\entities\manbase\playerbase.c:25
+nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c:223
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 10:08:29
+NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:707699
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:231
+scripts/4_World/classes\weapons\weaponmanager.c:1000
+scripts/4_World/classes\weapons\weaponmanager.c:859
+scripts/4_World/entities\manbase\playerbase.c:2758
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c:100
+nst/namalsk/scripts/4_World/namalskterrain\entities\manbase\playerbase.c:25
+nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c:223
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 10:08:34
+NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:707699
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:231
+scripts/4_World/classes\weapons\weaponmanager.c:1000
+scripts/4_World/entities\manbase\playerbase.c:3605
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 10:08:57
+NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:707699
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:261
+scripts/4_World/classes\weapons\weaponmanager.c:433
+scripts/4_World/entities\dayzplayerimplement.c:937
+scripts/4_World/entities\dayzplayerimplement.c:2005
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\dayzplayerimplement.c:29
+scripts/4_World/entities\manbase\playerbase.c:2704
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c:100
+nst/namalsk/scripts/4_World/namalskterrain\entities\manbase\playerbase.c:25
+nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c:223
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 10:10:38
+
+[wpnfsm] RecurveBow:06525 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=Archery_Base<bbef39b0> type=RecurveBow
+Class:      'Archery_Base'
+Entity id:714418
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:503
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 10:10:38
+
+[wpnfsm] RecurveBow:06525 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=Archery_Base<bbef39b0> type=RecurveBow
+Class:      'Archery_Base'
+Entity id:714418
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:503
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 10:10:51
+NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:714418
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:231
+scripts/4_World/classes\weapons\weaponmanager.c:1000
+scripts/4_World/classes\weapons\weaponmanager.c:859
+scripts/4_World/entities\manbase\playerbase.c:2758
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c:100
+nst/namalsk/scripts/4_World/namalskterrain\entities\manbase\playerbase.c:25
+nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c:223
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 10:10:52
+
+[wpnfsm] RecurveBow:06525 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=Archery_Base<bbef39b0> type=RecurveBow
+Class:      'Archery_Base'
+Entity id:714418
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:503
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 10:11:09
+NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:714418
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:231
+scripts/4_World/classes\weapons\weaponmanager.c:1000
+scripts/4_World/entities\manbase\playerbase.c:3605
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 10:11:09
+NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:714418
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:231
+scripts/4_World/classes\weapons\weaponmanager.c:1000
+scripts/4_World/classes\weapons\weaponmanager.c:859
+scripts/4_World/entities\manbase\playerbase.c:2758
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c:100
+nst/namalsk/scripts/4_World/namalskterrain\entities\manbase\playerbase.c:25
+nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c:223
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:53
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:53
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 
+
+
+------------------------------------
+GSP-MTL-03, 20.06 2023 11:31:54
+NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack 

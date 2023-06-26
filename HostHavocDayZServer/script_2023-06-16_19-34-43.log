@@ -1,0 +1,214 @@
+---------------------------------------------
+Log C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\config\script_2023-06-16_19-34-43.log started at 16.06. 19:34:58
+
+SCRIPT       : Registered 299 temporary action enum(s), UAN==299
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : Enoch::Weather::Overcast:: ( 20.5671 )  overcast: 0
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 20.5671 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 20.6671 ) 0 -> 0
+SCRIPT       : [Logout]: New player seiDIHZyX9mTlCPzNvXvMvYDJ1Ov68SU90br7Xpnuqw= with logout time 15
+SCRIPT       : [emote] SurvivorM_Mirek:01 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player seiDIHZyX9mTlCPzNvXvMvYDJ1Ov68SU90br7Xpnuqw= finished
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 21.2671 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 21.8671 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 22.4671 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 23.0671 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 23.6671 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 0.267112 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 0.867116 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 1.46712 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 1.80874 )  overcast: 0.0499802
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 1.80874 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 2.06712 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 2.66712 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain:: ( 3.26713 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 3.49046 ) 0.132069
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 3.8638 ) 0.213434 -> 0.866536
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 4.13713 ) 0.866516 -> 0.903207
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 4.35049 ) 0.903207 -> 0.896359
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 4.74716 ) 0.896359 -> 0.858058
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 5.13381 ) 0.858142 -> 0.850313
+SCRIPT       : Enoch::Weather::Overcast:: ( 5.24969 )  overcast: 0.893283
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 5.24969 ) 0.85509
+SCRIPT       : Enoch::Weather::Rain:: ( 5.43049 ) 0.850328
+SCRIPT       : Enoch::Weather::Rain:: ( 5.67382 ) 0.622248
+SCRIPT       : Enoch::Weather::Rain:: ( 5.99049 ) 0.719889
+SCRIPT       : Enoch::Weather::Rain:: ( 6.21052 ) 0.149849
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.48052 ) 0.273388 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.08052 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.68054 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.28055 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.88055 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.48055 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 10.0805 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 10.6805 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 11.0448 )  overcast: 0.049028
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 11.0448 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 11.2805 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 11.8805 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 12.4806 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain:: ( 13.0806 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 13.4139 ) 0.322843
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 13.7572 ) 0.700879 -> 0.842836
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 14.1105 ) 0.842836 -> 0.920206
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 14.4772 ) 0.920206 -> 0.812055
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 14.8472 ) 0.812122 -> 0.992187
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 15.1872 ) 0.992187 -> 0.911905
+SCRIPT       : Enoch::Weather::Overcast:: ( 15.2093 )  overcast: 0.861898
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 15.2093 ) 0.987711
+SCRIPT       : Enoch::Weather::Rain:: ( 15.5838 ) 0.911905
+SCRIPT       : Enoch::Weather::Rain:: ( 15.9038 ) 0.602435
+SCRIPT       : Enoch::Weather::Rain:: ( 16.1072 ) 0.11756
+SCRIPT       : Enoch::Weather::Rain:: ( 16.3538 ) 0.231968
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 16.5638 ) 0.334654 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 17.1639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 17.7639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 18.3639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 18.9639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 19.5639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 20.1639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 20.2274 )  overcast: 0.213233
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 20.2274 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 20.7639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 21.3639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 21.9639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 22.5639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 23.1639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 23.7639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 0.363906 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 0.9639 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 1.56392 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 1.72238 )  overcast: 0.0535783
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 1.72238 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 2.16393 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 2.76394 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 3.36393 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 3.96394 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 4.56395 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 5.16393 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 5.76392 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.36393 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 6.93728 )  overcast: 0.0841853
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 6.93728 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.96392 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.56393 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.16394 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.76396 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.36398 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.96398 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 10.564 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 11.164 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 11.764 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 11.9586 )  overcast: 0.270409
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 11.9586 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 12.364 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 12.964 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 13.564 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 14.164 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 14.764 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 15.364 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 15.964 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 16.3565 )  overcast: 0.117035
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 16.3565 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 16.564 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 17.164 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 17.7641 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 18.3641 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 18.9641 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 19.5641 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 20.1641 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 20.7641 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 21.3641 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 21.9641 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 22.1481 )  overcast: 0.183569
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 22.1481 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 22.5641 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 23.1641 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 23.7641 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 0.364157 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 0.964157 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 1.56417 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 2.16416 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 2.76417 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 3.36418 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 3.7898 )  overcast: 0.276891
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 3.7898 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 3.96418 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 4.56419 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 5.16418 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 5.76419 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.36417 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.96418 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.56419 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.16419 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 8.64467 )  overcast: 0.0775292
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 8.64467 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.76419 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.36419 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.9642 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain:: ( 10.5642 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 10.9475 ) 0.341887
+SCRIPT       : Enoch::Weather::Rain:: ( 11.1475 ) 0.213544
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 11.4409 ) 0.253352 -> 0.870247
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 11.7875 ) 0.870221 -> 0.857027
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 12.0509 ) 0.857027 -> 0.965636
+SCRIPT       : Enoch::Weather::Overcast:: ( 12.319 )  overcast: 0.856972
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 12.319 ) 0.951092
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 12.3609 ) 0.965636 -> 0.813843
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 12.7009 ) 0.813843 -> 0.831788
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 13.0042 ) 0.831653 -> 0.878488
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 13.3242 ) 0.878488 -> 0.827082
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 13.6209 ) 0.827082 -> 0.967907
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 13.8709 ) 0.967907 -> 0.998254
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 14.0909 ) 0.998254 -> 0.872805
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 14.4775 ) 0.872805 -> 0.950609
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 14.8575 ) 0.950609 -> 0.82093
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 15.1075 ) 0.820972 -> 0.801294
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 15.3409 ) 0.801294 -> 0.896384
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 15.6542 ) 0.896384 -> 0.802826
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 16.0242 ) 0.802826 -> 0.901303
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 16.3508 ) 0.901248 -> 0.839595
+SCRIPT       : Enoch::Weather::Rain::ForceStorm:: ( 16.6275 ) 0.839595 -> 0.942283
+SCRIPT       : Enoch::Weather::Overcast:: ( 16.6703 )  overcast: 0.853529
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 16.6703 ) 0.851795
+SCRIPT       : Enoch::Weather::Rain:: ( 16.9875 ) 0.942231
+SCRIPT       : Enoch::Weather::Rain:: ( 17.3542 ) 0.356811
+SCRIPT       : Enoch::Weather::Rain:: ( 17.5842 ) 0.194145
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 17.8908 ) 0.169372 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 18.4908 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 19.0908 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 19.6908 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 20.2909 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 20.8909 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 21.482 )  overcast: 0.223276
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 21.482 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 21.4909 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 22.0909 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 22.6909 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain:: ( 23.2909 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 23.6342 ) 0.226782
+SCRIPT       : Enoch::Weather::Rain:: ( 23.8909 ) 0.17608
+SCRIPT       : Enoch::Weather::Rain:: ( 0.154238 ) 0.665792
+SCRIPT       : Enoch::Weather::Rain:: ( 0.800894 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 1.10421 ) 0.524866
+SCRIPT       : Enoch::Weather::Rain:: ( 1.33424 ) 0.615687
+SCRIPT       : Enoch::Weather::Overcast:: ( 1.87022 )  overcast: 0.830439
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 1.87022 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 1.98758 ) 0
+SCRIPT       : Enoch::Weather::Rain:: ( 2.30091 ) 0.629849
+SCRIPT       : Enoch::Weather::Rain:: ( 2.52426 ) 0.319968
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 2.78427 ) 0.174076 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 3.38426 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 3.98427 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 4.58427 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 5.18427 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 5.78425 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.38425 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Overcast:: ( 6.91883 )  overcast: 0.111679
+SCRIPT       : Enoch::Weather::Overcast::Rain:: ( 6.91883 ) 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 6.98424 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 7.58423 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.18424 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 8.78423 ) 0 -> 0
+SCRIPT       : Enoch::Weather::Rain::ForceEnd:: ( 9.38424 ) 0 -> 0
+SCRIPT       : ~DayZGame()

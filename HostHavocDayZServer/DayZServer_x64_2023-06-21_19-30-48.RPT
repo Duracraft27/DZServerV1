@@ -1,0 +1,263 @@
+
+
+=====================================================================
+== C:\TCAFiles\Users\ted\153052\DayZServer_x64.exe
+== "C:\TCAFiles\Users\ted\153052\DayZServer_x64.exe" -port=2322 -config=serverDZ_By_HostHavoc.cfg -profiles=C:\TCAFiles\Users\ted\153052\HostHavocDayZServer "-servermod=" "-mod=@Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack;@DNA Keycards;" 
+=====================================================================
+Exe timestamp: 2023/06/20 05:19:39
+Current time:  2023/06/21 19:30:53
+
+Version 1.21.156300
+19:30:53.320 [Inputs] Loading inputs default "bin/constants.xml"
+19:30:53.323 [Inputs] Loading inputs default "bin/specific.xml"
+19:30:53.324 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+19:30:53.324 !!! [Inputs] Cannot Register "UAObjectModuleDeleteOnCursor" non-existent input - Fix Preset!
+19:30:53.325 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+19:30:53.325 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+19:30:53.325 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+19:30:53.326 [Inputs] Loading inputs default "WindstrideClothing/Inputs.xml"
+19:30:53.327 [Inputs] Loading inputs default "evg_drones/Inputs.xml"
+19:30:53.327 [Inputs] Loading inputs default "Dayz_Dog/Data/Inputs.xml"
+19:30:53.328 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+19:30:53.332 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+19:31:05.607 [CE][Hive] :: Initializing OFFLINE
+19:31:05.608 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\
+19:31:05.608 [CE][Hive] :: Loading core data ... 
+19:31:05.608 [CE][CoreData] :: 7 root classes, 0 defaults, 0 updaters...
+19:31:10.360 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+19:31:10.362 [CE][TypeSetup] :: 557 classes setuped...
+19:31:13.832 [CE][RegisterBind] :: 0 classes binded...
+19:31:13.832 [CE][RegisterConfig] :: 16378 config classes registered, 0 sub-counters...
+19:31:13.832 [CE][Hive] :: Loading map data ... 
+19:31:13.874 !!! [CE] :: Unknown tag: 'shelves'.
+19:31:13.874 !!! [CE] :: Unknown category: 'books'.
+19:31:13.874 !!! [CE] :: Unknown tag: 'shelves'.
+19:31:13.874 !!! [CE] :: Unknown tag: 'shelves'.
+19:31:13.875 [CE][LoadPrototype] :: loaded 261 prototypes
+19:31:13.875   411 containers, 7544 points
+19:31:13.875   1 dispatches, 1 proxies
+19:31:13.875 !!! [CE][LoadPrototype] 1 groups have wrong points...
+19:31:13.875 !!! [CE][LoadPrototype] 2 groups were defined more than once and skipped...
+19:31:13.875 [CE][LoadPrototype] :: last group name: Land_Prison_Side...
+19:31:13.878 [CE][LoadPrototype] :: loaded 0 prototypes
+19:31:13.878   38 containers, 66 points
+19:31:13.878   0 dispatches, 0 proxies
+19:31:13.878 [CE][LoadPrototype] :: last group name: StoneLoc38...
+19:31:13.916 [CE][LoadMap] "Group" :: loaded 1644 groups, groups failed: 0, largest group range: 36.4
+19:31:13.917 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+19:31:13.924 [CE][Links] found 546 total links between groups, of 1644
+19:31:13.924 [CE][LoadClusters] "Cluster" :: Loading files...
+19:31:13.932 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+19:31:13.934 [CE][Storage] ver:21 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\types.bin"
+19:31:13.934 [CE][Storage] ver:21 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\types.001"
+19:31:13.935 [CE][Storage] ver:21 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\types.002"
+19:31:13.935 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\types.001".
+19:31:14.104 [CE][offlineDB] :: Loaded 19 dynamic events 194 total types.
+19:31:14.119 !!! [CE] :: Unknown tag: 'shelves'.
+19:31:14.119 !!! [CE] :: Unknown tag: 'shelves'.
+19:31:14.119 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.119 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.120 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.120 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.120 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.120 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.120 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.120 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.120 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.120 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.120 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.120 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.120 !!! [CE][offlineDB] :: Type 'Leather_Cloak' will be ignored. (Type does not exist. (Typo?))
+19:31:14.120 !!! [CE] :: Unknown tag: 'floor'.
+19:31:14.121 !!! [CE][offlineDB] :: Type 'AD_LeupoldMk4' will be ignored. (Type does not exist. (Typo?))
+19:31:14.121 !!! [CE][offlineDB] :: Type 'AD_LeupoldMk4_MosinMount' will be ignored. (Type does not exist. (Typo?))
+19:31:14.121 !!! [CE][offlineDB] :: Type 'AD_LeupoldMk4_B13' will be ignored. (Type does not exist. (Typo?))
+19:31:14.121 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+19:31:14.127 [CE][DE][SPAWNS] :: Total positions: 254
+19:31:14.127 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+19:31:14.128 [CE][Storage] ver:21 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\events.bin"
+19:31:14.128 [CE][Storage] ver:21 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\events.001"
+19:31:14.128 [CE][Storage] ver:21 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\events.002"
+19:31:14.129 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\events.001".
+19:31:14.129 [CE][DynamicEvent] Load  Events:[19] Primary spawners: 19 Secondary spawners: 0
+19:31:14.129 [CE][Storage] ver:25 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.bin"
+19:31:14.129 [CE][Storage] ver:25 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.001"
+19:31:14.130 [CE][Storage] ver:25 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.002"
+19:31:14.130 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.001" 0 items.
+19:31:14.130   0 items loaded. (0 failed)
+19:31:14.131 [CE][Storage] ver:25 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.bin"
+19:31:14.131 [CE][Storage] ver:25 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.001"
+19:31:14.132 [CE][Storage] ver:25 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.002"
+19:31:14.132 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.001" 168 items.
+19:31:14.345   168 items loaded. (0 failed)
+19:31:14.346 [CE][Storage] ver:25 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.bin"
+19:31:14.346 [CE][Storage] ver:25 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.001"
+19:31:14.347 [CE][Storage] ver:25 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.002"
+19:31:14.347 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.001" 77 items.
+19:31:14.442   77 items loaded. (0 failed)
+19:31:14.443 [CE][Storage] ver:25 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.bin"
+19:31:14.444 [CE][Storage] ver:25 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.001"
+19:31:14.444 [CE][Storage] ver:25 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.002"
+19:31:14.444 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.001" 1053 items.
+19:31:15.356   1053 items loaded. (0 failed)
+19:31:15.357 [CE][Storage] ver:25 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.bin"
+19:31:15.357 [CE][Storage] ver:25 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.001"
+19:31:15.357 [CE][Storage] ver:25 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.002"
+19:31:15.358 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.001" 2080 items.
+19:31:16.666   2080 items loaded. (0 failed)
+19:31:16.667 [CE][Storage] ver:25 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.bin"
+19:31:16.668 [CE][Storage] ver:25 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.001"
+19:31:16.669 [CE][Storage] ver:25 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.002"
+19:31:16.669 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.001" 959 items.
+19:31:17.319   959 items loaded. (0 failed)
+19:31:17.319 [CE][Storage] ver:25 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.bin"
+19:31:17.320 [CE][Storage] ver:25 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.001"
+19:31:17.321 [CE][Storage] ver:25 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.002"
+19:31:17.321 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.001" 2375 items.
+19:31:18.672   2375 items loaded. (0 failed)
+19:31:18.672 [CE][Storage] ver:25 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.bin"
+19:31:18.673 [CE][Storage] ver:25 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.001"
+19:31:18.673 [CE][Storage] ver:25 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.002"
+19:31:18.673 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.001" 705 items.
+19:31:19.91   705 items loaded. (0 failed)
+19:31:19.92 [CE][Storage] ver:25 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.bin"
+19:31:19.92 [CE][Storage] ver:25 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.001"
+19:31:19.93 [CE][Storage] ver:25 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.002"
+19:31:19.93 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.001" 527 items.
+19:31:19.417   527 items loaded. (0 failed)
+19:31:19.418 [CE][Storage] ver:25 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.bin"
+19:31:19.418 [CE][Storage] ver:25 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.001"
+19:31:19.418 [CE][Storage] ver:25 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.002"
+19:31:19.418 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.001" 0 items.
+19:31:19.418   0 items loaded. (0 failed)
+19:31:19.419 [CE][Storage] ver:25 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.bin"
+19:31:19.419 [CE][Storage] ver:25 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.001"
+19:31:19.419 [CE][Storage] ver:25 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.002"
+19:31:19.419 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.001" 70 items.
+19:31:19.463   70 items loaded. (0 failed)
+19:31:19.464 [CE][Storage] ver:25 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.bin"
+19:31:19.464 [CE][Storage] ver:25 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.001"
+19:31:19.464 [CE][Storage] ver:25 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.002"
+19:31:19.464 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.001" 46 items.
+19:31:19.508   46 items loaded. (0 failed)
+19:31:19.508 [CE][Storage] ver:26 stamp:2371, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\building.bin"
+19:31:19.508 [CE][Storage] ver:26 stamp:2372, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\building.001"
+19:31:19.509 [CE][Storage] ver:26 stamp:2370, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\building.002"
+19:31:19.509 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\building.001" 0 items.
+19:31:19.509   0 items loaded. (0 failed)
+19:31:19.509 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\vehicles.bin"
+19:31:19.509 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\vehicles.001"
+19:31:19.509 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\vehicles.002"
+19:31:19.526 [CE][Hive] :: Storage load took:5.41 seconds, recovery stamp:2372
+19:31:19.527   entity: 8606, building: 0
+19:31:19.527   no lifetime: 1
+19:31:19.527   pathgraph's: 185
+19:31:19.527 [CE][Hive] :: Initializing ... 
+19:31:19.543 [CE][InitializeMap] :: initialized: 0
+19:31:19.543 [CE][Hive] :: Initializing spawners ... 
+19:31:19.558 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "dzn_WaterBottle"
+19:31:19.565 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "dzn_TunaCan"
+19:31:19.566 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "SurgicalGloves_Blue"
+19:31:19.567 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "dzn_platecarrierpouches_nac"
+19:31:19.567 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "dzn_vinyl_bubson"
+19:31:19.568 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "dzn_vinyl_bubson"
+19:31:19.568 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "dzn_SodaCan_Fronta"
+19:31:19.569 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "dzn_SodaCan_Fronta"
+19:31:19.569 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "dzn_SodaCan_Fronta"
+19:31:19.584 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "SurgicalGloves_White"
+19:31:19.584 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "SurgicalGloves_White"
+19:31:19.585 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "SurgicalGloves_White"
+19:31:19.585 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "SurgicalGloves_White"
+19:31:19.585 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "SurgicalGloves_White"
+19:31:19.594 !!! [CE][Point] Removing 5032.167480, 8197.083984 from land_wrecked_ural_onside
+19:31:19.594 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "WorkingGloves_Black"
+19:31:19.597 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "dzn_SardinesCan"
+19:31:19.603 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "TacticalGloves_Black"
+19:31:19.603 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "SurgicalGloves_LightBlue"
+19:31:19.603 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "SurgicalGloves_LightBlue"
+19:31:19.603 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "SurgicalGloves_LightBlue"
+19:31:19.603 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "SurgicalGloves_LightBlue"
+19:31:19.670 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "ChickenFeather"
+19:31:19.670 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "ChickenFeather"
+19:31:19.670 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "ChickenFeather"
+19:31:19.670 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "ChickenFeather"
+19:31:19.670 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "ChickenFeather"
+19:31:19.670 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "ChickenFeather"
+19:31:19.670 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "ChickenFeather"
+19:31:19.670 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "ChickenFeather"
+19:31:19.670 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "ChickenFeather"
+19:31:19.670 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "ChickenFeather"
+19:31:19.670 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "ChickenFeather"
+19:31:19.670 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "ChickenFeather"
+19:31:19.671 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "ChickenFeather"
+19:31:19.671 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "ChickenFeather"
+19:31:19.671 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "ChickenFeather"
+19:31:19.671 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "ChickenFeather"
+19:31:19.671 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "ChickenFeather"
+19:31:19.671 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "ChickenFeather"
+19:31:19.671 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "ChickenFeather"
+19:31:19.733 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:424, Nominal:13137, Total in Map: 8524 at 0 (sec)
+19:31:19.733   tests:461, repeats:0 fails:37, overtime:4554
+19:31:20.775 [CE][DynEvent] :: 19 types
+19:31:20.775 [00] Loot
+19:31:20.775   Primary Spawner: "Loot", active: yes, repeat: 2
+19:31:20.775 [01] StaticMedDrop
+19:31:20.775   Primary Spawner: "Static", active: yes, repeat: 1
+19:31:20.775 [02] StaticLifeboat
+19:31:20.775   Primary Spawner: "Static", active: yes, repeat: 1
+19:31:20.775 [03] TrajectoryStones
+19:31:20.775   Primary Spawner: "Trajectory", active: yes, repeat: 1
+19:31:20.775 [04] AnimalWildDog
+19:31:20.775   Primary Spawner: "Animal", active: yes, repeat: 1
+19:31:20.775 [05] InfectedSanta
+19:31:20.775   Primary Spawner: "Infected", active: yes, repeat: 1
+19:31:20.775 [06] InfectedArmy
+19:31:20.775   Primary Spawner: "Infected", active: yes, repeat: 1
+19:31:20.775 [07] InfectedIndustrial
+19:31:20.775   Primary Spawner: "Infected", active: yes, repeat: 1
+19:31:20.775 [08] InfectedCivil
+19:31:20.775   Primary Spawner: "Infected", active: yes, repeat: 1
+19:31:20.775 [09] InfectedMedic
+19:31:20.775   Primary Spawner: "Infected", active: yes, repeat: 1
+19:31:20.775 [10] AnimalGoat
+19:31:20.775   Primary Spawner: "Animal", active: yes, repeat: 1
+19:31:20.775 [11] AnimalSheep
+19:31:20.775   Primary Spawner: "Animal", active: yes, repeat: 1
+19:31:20.775 [12] AnimalRoeDeer
+19:31:20.775   Primary Spawner: "Animal", active: yes, repeat: 1
+19:31:20.775 [13] AnimalDeer
+19:31:20.775   Primary Spawner: "Animal", active: yes, repeat: 1
+19:31:20.775 [14] AnimalWildBoar
+19:31:20.775   Primary Spawner: "Animal", active: yes, repeat: 1
+19:31:20.775 [15] AnimalWolf
+19:31:20.775   Primary Spawner: "Animal", active: yes, repeat: 1
+19:31:20.775 [16] AnimalBrownBear
+19:31:20.775   Primary Spawner: "Animal", active: yes, repeat: 1
+19:31:20.775 [17] AnimalPolarBear
+19:31:20.775   Primary Spawner: "Animal", active: yes, repeat: 1
+19:31:20.775 [18] VehicleCivilianCars
+19:31:20.775   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:31:20.775 [CE][Hive] :: Initializing of spawners done.
+19:31:20.780 [CE][Hive] :: Init sequence finished.
+19:31:23.235 [CE][MapExport] :: entity found:12507, entity valid:1644, types total:261... took 2 sec
+19:31:23.236 Player connect enabled
+19:31:55.845 [Login]: Adding player Teddybear (710969946) to login queue at position 0
+19:31:55.845 [LoginMachine]: Add player Teddybear (710969946 71.1.250.54:2324)
+19:31:55.845 [StateMachine]: Player Teddybear (dpnid 710969946 uid ) Entering AuthPlayerLoginState
+19:31:56.748 [StateMachine]: Player Teddybear (dpnid 710969946 uid ) Entering WaitAuthPlayerLoginState
+19:31:59.316 Player Teddybear connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=).
+19:31:59.316 Player "Teddybear" is connected (steamID=76561198190486863)
+19:31:59.316 [StateMachine]: Player Teddybear (dpnid 710969946 uid ) Entering WaitPlayerAssignedLoginState
+19:32:02.220 [StateMachine]: Player Teddybear (dpnid 710969946 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering DBGetLoginTimeLoginState
+19:32:02.221 [StateMachine]: Player Teddybear (dpnid 710969946 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering DBWaitLoginTimeLoginState
+19:32:11.964 !!! [CE][VehicleRespawner] (PRICivilianCars) :: Respawning: "VehicleCivilianCars" - Failed to spawn the requested amount (1 < 20) within 60 attempts.
+19:32:12.259 [CE][Links] found 0 total links between groups, of 1
+19:32:12.259 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 8, lootmax: 8, wanted: 8, deloot: 2, containermaxsum: 6
+19:32:12.259 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1 :: !!! Sum of container LootMax is lower than event child LootMax (6 < 8)
+19:32:12.259 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1 :: !!! Wanting to spawn more loot than possible (8 > 6)
+19:32:12.261 [CE][Links] found 0 total links between groups, of 2
+19:32:12.261 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 8, lootmax: 8, wanted: 8, deloot: 2, containermaxsum: 6
+19:32:12.261 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1 :: !!! Sum of container LootMax is lower than event child LootMax (6 < 8)
+19:32:12.261 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1 :: !!! Wanting to spawn more loot than possible (8 > 6)
+19:32:12.263 [CE][Links] found 0 total links between groups, of 3
+19:32:12.263 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 8, lootmax: 8, wanted: 8, deloot: 2, containermaxsum: 6

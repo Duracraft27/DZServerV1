@@ -1,0 +1,26 @@
+---------------------------------------------
+Log C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\config\script_2023-06-18_03-06-30.log started at 18.06. 03:06:46
+
+SCRIPT       : Registered 327 temporary action enum(s), UAN==327
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,151": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,172": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,180": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'username'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'avatar_url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'content'
+SCRIPT       : 10:07:23 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+SCRIPT       : 10:07:23 [ee] ::SFileHelper::cat : The file [ $profile:\sUDE\config\sGunplay_constraints.json ] doesn't exists
+SCRIPT       : 10:07:23 [ww] ::SUserConfigConstraints : Couldn't load neither user config constraint [ $profile:\sUDE\config\sGunplay_constraints.json ]
+SCRIPT       : 10:07:23 [ii] │	├ ::SUserConfigConstraints : Creating SUserConfigConstraints_Gunplay config constraint file : $profile:\sUDE\config\sGunplay_constraints.json
+SCRIPT       : 10:07:23 [ii] │	│	├ Done
+SCRIPT       : 10:07:23 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<2b7787e0>
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 742 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT    (E): NULL pointer to instance
+Function: 'main'
+Stack trace:
+$CurrentDir:mpmissions\hardcore.namalsk\init.c:1157
+SCRIPT       : m_EventManager NamEventManager<aa6ecac0>
+SCRIPT       : MaxEventCount 2
+SCRIPT       : ~DayZGame()

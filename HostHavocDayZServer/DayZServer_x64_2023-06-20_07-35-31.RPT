@@ -1,0 +1,313 @@
+
+
+=====================================================================
+== C:\TCAFiles\Users\ted\153052\DayZServer_x64.exe
+== "C:\TCAFiles\Users\ted\153052\DayZServer_x64.exe" -port=2322 -config=serverDZ_By_HostHavoc.cfg -profiles=C:\TCAFiles\Users\ted\153052\HostHavocDayZServer "-servermod=" "-mod=@Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;" 
+=====================================================================
+Exe timestamp: 2023/06/20 05:19:39
+Current time:  2023/06/20 07:35:34
+
+Version 1.21.156300
+ 7:35:34.668 [Inputs] Loading inputs default "bin/constants.xml"
+ 7:35:34.671 [Inputs] Loading inputs default "bin/specific.xml"
+ 7:35:34.672 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+ 7:35:34.673 !!! [Inputs] Cannot Register "UAObjectModuleDeleteOnCursor" non-existent input - Fix Preset!
+ 7:35:34.673 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+ 7:35:34.673 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+ 7:35:34.673 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+ 7:35:34.674 [Inputs] Loading inputs default "WindstrideClothing/Inputs.xml"
+ 7:35:34.675 [Inputs] Loading inputs default "evg_drones/Inputs.xml"
+ 7:35:34.676 [Inputs] Loading inputs default "Dayz_Dog/Data/Inputs.xml"
+ 7:35:34.676 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+ 7:35:34.680 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+ 7:35:45.534 [CE][Hive] :: Initializing OFFLINE
+ 7:35:45.534 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\
+ 7:35:45.535 [CE][Hive] :: Loading core data ... 
+ 7:35:45.535 [CE][CoreData] :: 7 root classes, 0 defaults, 0 updaters...
+ 7:35:49.945 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+ 7:35:49.946 [CE][TypeSetup] :: 556 classes setuped...
+ 7:35:51.723 [CE][RegisterBind] :: 0 classes binded...
+ 7:35:51.724 [CE][RegisterConfig] :: 11925 config classes registered, 0 sub-counters...
+ 7:35:51.724 [CE][Hive] :: Loading map data ... 
+ 7:35:51.755 !!! [CE] :: Unknown tag: 'shelves'.
+ 7:35:51.755 !!! [CE] :: Unknown category: 'books'.
+ 7:35:51.755 !!! [CE] :: Unknown tag: 'shelves'.
+ 7:35:51.755 !!! [CE] :: Unknown tag: 'shelves'.
+ 7:35:51.756 [CE][LoadPrototype] :: loaded 261 prototypes
+ 7:35:51.756   411 containers, 7544 points
+ 7:35:51.756   1 dispatches, 1 proxies
+ 7:35:51.756 !!! [CE][LoadPrototype] 1 groups have wrong points...
+ 7:35:51.756 !!! [CE][LoadPrototype] 2 groups were defined more than once and skipped...
+ 7:35:51.756 [CE][LoadPrototype] :: last group name: Land_Prison_Side...
+ 7:35:51.759 [CE][LoadPrototype] :: loaded 0 prototypes
+ 7:35:51.759   38 containers, 66 points
+ 7:35:51.760   0 dispatches, 0 proxies
+ 7:35:51.760 [CE][LoadPrototype] :: last group name: StoneLoc38...
+ 7:35:51.790 [CE][LoadMap] "Group" :: loaded 1644 groups, groups failed: 0, largest group range: 36.4
+ 7:35:51.791 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+ 7:35:51.798 [CE][Links] found 546 total links between groups, of 1644
+ 7:35:51.798 [CE][LoadClusters] "Cluster" :: Loading files...
+ 7:35:51.806 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+ 7:35:51.807 [CE][Storage] ver:21 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\types.bin"
+ 7:35:51.808 [CE][Storage] ver:21 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\types.001"
+ 7:35:51.808 [CE][Storage] ver:21 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\types.002"
+ 7:35:51.809 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\types.bin".
+ 7:35:51.922 !!! [CE][DE] (AnimalWolf) :: Unable to create child (Alpha_wolf) as the type does not exist.
+ 7:35:51.922 !!! [CE][DE] (AnimalWolf) :: Unable to create child (white_pup) as the type does not exist.
+ 7:35:51.922 !!! [CE][DE] (AnimalWolf) :: Unable to create child (grey_pup) as the type does not exist.
+ 7:35:51.923 [CE][offlineDB] :: Loaded 19 dynamic events 191 total types.
+ 7:35:51.939 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.939 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.939 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.939 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.939 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.939 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.939 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.939 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.939 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.939 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.939 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.939 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.940 !!! [CE][offlineDB] :: Type 'Leather_Cloak' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.940 !!! [CE] :: Unknown tag: 'floor'.
+ 7:35:51.940 !!! [CE][offlineDB] :: Type 'AD_LeupoldMk4' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.940 !!! [CE][offlineDB] :: Type 'AD_LeupoldMk4_MosinMount' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.940 !!! [CE][offlineDB] :: Type 'AD_LeupoldMk4_B13' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.940 !!! [CE][offlineDB] :: Type 'GhillieSuit_Black' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.940 !!! [CE][offlineDB] :: Type 'GhillieBushrag_Black' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.940 !!! [CE][offlineDB] :: Type 'GhillieTop_Black' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.940 !!! [CE][offlineDB] :: Type 'GhillieHood_Black' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.940 !!! [CE][offlineDB] :: Type 'GhillieAtt_Black' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.940 !!! [CE][offlineDB] :: Type 'GhillieSuit_White' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'GhillieBushrag_White' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'GhillieTop_White' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'GhillieHood_White' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'GhillieAtt_White' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'GhillieSuit_Brown' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'GhillieBushrag_Brown' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'GhillieTop_Brown' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'GhillieHood_Brown' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'GhillieAtt_Brown' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'Alpha_wolf' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'grey_pup' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.941 !!! [CE][offlineDB] :: Type 'white_pup' will be ignored. (Type does not exist. (Typo?))
+ 7:35:51.948 [CE][DE][SPAWNS] :: Total positions: 254
+ 7:35:51.948 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+ 7:35:51.948 [CE][Storage] ver:21 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\events.bin"
+ 7:35:51.948 [CE][Storage] ver:21 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\events.001"
+ 7:35:51.948 [CE][Storage] ver:21 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\events.002"
+ 7:35:51.949 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\events.bin".
+ 7:35:51.949 [CE][DynamicEvent] Load  Events:[19] Primary spawners: 19 Secondary spawners: 0
+ 7:35:51.949 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.bin"
+ 7:35:51.949 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.001"
+ 7:35:51.949 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.002"
+ 7:35:51.949 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.bin" 1 items.
+ 7:35:51.950   1 items loaded. (0 failed)
+ 7:35:51.951 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.bin"
+ 7:35:51.951 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.001"
+ 7:35:51.952 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.002"
+ 7:35:51.952 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.bin" 166 items.
+ 7:35:52.129 !!! Serious stream damage detected during load, file offset: 7cc9
+ 7:35:52.139   165 items loaded. (1 failed)
+ 7:35:52.139 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.bin"
+ 7:35:52.140 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.001"
+ 7:35:52.140 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.002"
+ 7:35:52.140 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.bin" 73 items.
+ 7:35:52.227   73 items loaded. (0 failed)
+ 7:35:52.227 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.bin"
+ 7:35:52.228 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.001"
+ 7:35:52.228 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.002"
+ 7:35:52.229 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.bin" 989 items.
+ 7:35:52.232 !!! Serious stream damage detected during load, file offset: 1e3
+ 7:35:52.246 !!! Serious stream damage detected during load, file offset: 5e5
+ 7:35:52.276 !!! Serious stream damage detected during load, file offset: 1be3
+ 7:35:52.293 !!! Serious stream damage detected during load, file offset: 2757
+ 7:35:52.315 !!! Serious stream damage detected during load, file offset: 3803
+ 7:35:52.330 !!! Serious stream damage detected during load, file offset: 4404
+ 7:35:52.352 !!! Serious stream damage detected during load, file offset: 53ff
+ 7:35:52.352 !!! Serious stream damage detected during load, file offset: 5485
+ 7:35:52.367 !!! Serious stream damage detected during load, file offset: 60c5
+ 7:35:52.451 !!! Serious stream damage detected during load, file offset: a475
+ 7:35:52.464 !!! Serious stream damage detected during load, file offset: ae5a
+ 7:35:52.523 !!! Serious stream damage detected during load, file offset: e878
+ 7:35:52.524 !!! Serious stream damage detected during load, file offset: e984
+ 7:35:52.545 !!! Serious stream damage detected during load, file offset: fba6
+ 7:35:52.606 !!! Serious stream damage detected during load, file offset: 138a5
+ 7:35:52.652 !!! Serious stream damage detected during load, file offset: 16620
+ 7:35:52.681 !!! Serious stream damage detected during load, file offset: 18313
+ 7:35:52.700 !!! Serious stream damage detected during load, file offset: 19983
+ 7:35:52.717 !!! Serious stream damage detected during load, file offset: 1ad7f
+ 7:35:52.736 !!! Serious stream damage detected during load, file offset: 1bc0a
+ 7:35:52.741 !!! Serious stream damage detected during load, file offset: 1c309
+ 7:35:52.752 !!! Serious stream damage detected during load, file offset: 1d242
+ 7:35:52.791 !!! Serious stream damage detected during load, file offset: 1ff1a
+ 7:35:52.807 !!! Serious stream damage detected during load, file offset: 20dc0
+ 7:35:52.826 !!! Serious stream damage detected during load, file offset: 22226
+ 7:35:52.855 !!! Serious stream damage detected during load, file offset: 24239
+ 7:35:52.876 !!! Serious stream damage detected during load, file offset: 25be9
+ 7:35:52.891 !!! Serious stream damage detected during load, file offset: 26a76
+ 7:35:52.891 !!! Serious stream damage detected during load, file offset: 26afc
+ 7:35:52.921 !!! Serious stream damage detected during load, file offset: 28900
+ 7:35:52.945   959 items loaded. (30 failed)
+ 7:35:52.946 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.bin"
+ 7:35:52.947 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.001"
+ 7:35:52.947 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.002"
+ 7:35:52.947 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.bin" 1972 items.
+ 7:35:53.53 !!! Serious stream damage detected during load, file offset: 5e43
+ 7:35:53.65 !!! Serious stream damage detected during load, file offset: 6d7b
+ 7:35:53.122 !!! Serious stream damage detected during load, file offset: a57d
+ 7:35:53.125 !!! Serious stream damage detected during load, file offset: ac29
+ 7:35:53.135 !!! Serious stream damage detected during load, file offset: b671
+ 7:35:53.162 !!! Serious stream damage detected during load, file offset: d607
+ 7:35:53.164 !!! Serious stream damage detected during load, file offset: d85b
+ 7:35:53.257 !!! Serious stream damage detected during load, file offset: 14429
+ 7:35:53.405 !!! Serious stream damage detected during load, file offset: 1f1c7
+ 7:35:53.444 !!! Serious stream damage detected during load, file offset: 226a6
+ 7:35:53.444 !!! Serious stream damage detected during load, file offset: 227b2
+ 7:35:53.531 !!! Serious stream damage detected during load, file offset: 29dcc
+ 7:35:53.569 !!! Serious stream damage detected during load, file offset: 2d06b
+ 7:35:53.680 !!! Serious stream damage detected during load, file offset: 3709f
+ 7:35:53.741 !!! Serious stream damage detected during load, file offset: 3c6f1
+ 7:35:53.789 !!! Serious stream damage detected during load, file offset: 4117b
+ 7:35:53.817 !!! Serious stream damage detected during load, file offset: 43cc7
+ 7:35:53.894 !!! Serious stream damage detected during load, file offset: 4a31c
+ 7:35:53.902 !!! Serious stream damage detected during load, file offset: 4af44
+ 7:35:53.930 !!! Serious stream damage detected during load, file offset: 4d091
+ 7:35:53.951   1952 items loaded. (20 failed)
+ 7:35:53.952 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.bin"
+ 7:35:53.953 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.001"
+ 7:35:53.953 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.002"
+ 7:35:53.954 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.bin" 933 items.
+ 7:35:54.08 !!! Serious stream damage detected during load, file offset: 428a
+ 7:35:54.27 !!! Serious stream damage detected during load, file offset: 5a99
+ 7:35:54.41 !!! Serious stream damage detected during load, file offset: 6a28
+ 7:35:54.47 !!! Serious stream damage detected during load, file offset: 7050
+ 7:35:54.49 !!! Serious stream damage detected during load, file offset: 733e
+ 7:35:54.76 !!! Serious stream damage detected during load, file offset: 906c
+ 7:35:54.95 !!! Serious stream damage detected during load, file offset: a7f0
+ 7:35:54.171 !!! Serious stream damage detected during load, file offset: f3d4
+ 7:35:54.222 !!! Serious stream damage detected during load, file offset: 12c9b
+ 7:35:54.241 !!! Serious stream damage detected during load, file offset: 147ac
+ 7:35:54.282 !!! Serious stream damage detected during load, file offset: 173e6
+ 7:35:54.288 !!! Serious stream damage detected during load, file offset: 17a86
+ 7:35:54.342 !!! Serious stream damage detected during load, file offset: 1c3a8
+ 7:35:54.354 !!! Serious stream damage detected during load, file offset: 1d241
+ 7:35:54.355 !!! Serious stream damage detected during load, file offset: 1d513
+ 7:35:54.356 !!! Serious stream damage detected during load, file offset: 1d6ad
+ 7:35:54.376 !!! Serious stream damage detected during load, file offset: 1f6f8
+ 7:35:54.387 !!! Serious stream damage detected during load, file offset: 2056e
+ 7:35:54.438 !!! Serious stream damage detected during load, file offset: 243b4
+ 7:35:54.439   914 items loaded. (19 failed)
+ 7:35:54.440 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.bin"
+ 7:35:54.440 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.001"
+ 7:35:54.441 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.002"
+ 7:35:54.441 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.bin" 2433 items.
+ 7:35:54.443 !!! Serious stream damage detected during load, file offset: 139
+ 7:35:54.458 !!! Serious stream damage detected during load, file offset: 1075
+ 7:35:54.484 !!! Serious stream damage detected during load, file offset: 2859
+ 7:35:54.510 !!! Serious stream damage detected during load, file offset: 4536
+ 7:35:54.572 !!! Serious stream damage detected during load, file offset: 87f5
+ 7:35:54.664 !!! Serious stream damage detected during load, file offset: f79c
+ 7:35:54.708 !!! Serious stream damage detected during load, file offset: 133a3
+ 7:35:54.813 !!! Serious stream damage detected during load, file offset: 1dc06
+ 7:35:54.895 !!! Serious stream damage detected during load, file offset: 231a1
+ 7:35:54.960 !!! Serious stream damage detected during load, file offset: 27856
+ 7:35:55.187 !!! Serious stream damage detected during load, file offset: 392f6
+ 7:35:55.282 !!! Serious stream damage detected during load, file offset: 40728
+ 7:35:55.292 !!! Serious stream damage detected during load, file offset: 416fb
+ 7:35:55.341 !!! Serious stream damage detected during load, file offset: 45f77
+ 7:35:55.362 !!! Serious stream damage detected during load, file offset: 47e84
+ 7:35:55.483 !!! Serious stream damage detected during load, file offset: 52f79
+ 7:35:55.585   2417 items loaded. (16 failed)
+ 7:35:55.586 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.bin"
+ 7:35:55.586 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.001"
+ 7:35:55.587 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.002"
+ 7:35:55.587 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.bin" 666 items.
+ 7:35:55.590 !!! Serious stream damage detected during load, file offset: 469
+ 7:35:55.592 !!! Serious stream damage detected during load, file offset: 8c5
+ 7:35:55.613 !!! Serious stream damage detected during load, file offset: 27c9
+ 7:35:55.636 !!! Serious stream damage detected during load, file offset: 442e
+ 7:35:55.731 !!! Serious stream damage detected during load, file offset: c910
+ 7:35:55.819 !!! Serious stream damage detected during load, file offset: 13dcf
+ 7:35:55.889   660 items loaded. (6 failed)
+ 7:35:55.890 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.bin"
+ 7:35:55.890 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.001"
+ 7:35:55.891 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.002"
+ 7:35:55.891 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.bin" 476 items.
+ 7:35:55.915 !!! Serious stream damage detected during load, file offset: 22cd
+ 7:35:55.928 !!! Serious stream damage detected during load, file offset: 3492
+ 7:35:55.931 !!! Serious stream damage detected during load, file offset: 3a66
+ 7:35:55.938 !!! Serious stream damage detected during load, file offset: 3f04
+ 7:35:55.974 !!! Serious stream damage detected during load, file offset: 6708
+ 7:35:55.975 !!! Serious stream damage detected during load, file offset: 6814
+ 7:35:55.994 !!! Serious stream damage detected during load, file offset: 8008
+ 7:35:56.11 !!! Serious stream damage detected during load, file offset: 902a
+ 7:35:56.75 !!! Serious stream damage detected during load, file offset: d9f1
+ 7:35:56.86 !!! Serious stream damage detected during load, file offset: e60d
+ 7:35:56.125 !!! Serious stream damage detected during load, file offset: 11242
+ 7:35:56.136 !!! Serious stream damage detected during load, file offset: 12526
+ 7:35:56.140 !!! Serious stream damage detected during load, file offset: 129fc
+ 7:35:56.149   463 items loaded. (13 failed)
+ 7:35:56.150 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.bin"
+ 7:35:56.150 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.001"
+ 7:35:56.150 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.002"
+ 7:35:56.150 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.bin" 0 items.
+ 7:35:56.150   0 items loaded. (0 failed)
+ 7:35:56.151 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.bin"
+ 7:35:56.151 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.001"
+ 7:35:56.151 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.002"
+ 7:35:56.152 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.bin" 53 items.
+ 7:35:56.190   53 items loaded. (0 failed)
+ 7:35:56.191 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.bin"
+ 7:35:56.191 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.001"
+ 7:35:56.191 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.002"
+ 7:35:56.191 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.bin" 51 items.
+ 7:35:56.215 !!! Serious stream damage detected during load, file offset: 1f7c
+ 7:35:56.220   50 items loaded. (1 failed)
+ 7:35:56.220 [CE][Storage] ver:26 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\building.bin"
+ 7:35:56.220 [CE][Storage] ver:26 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\building.001"
+ 7:35:56.221 [CE][Storage] ver:26 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\building.002"
+ 7:35:56.221 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\building.bin" 0 items.
+ 7:35:56.221   0 items loaded. (0 failed)
+ 7:35:56.221 [CE][Storage] ver:25 stamp:4066, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\vehicles.bin"
+ 7:35:56.222 [CE][Storage] ver:25 stamp:4059, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\vehicles.001"
+ 7:35:56.222 [CE][Storage] ver:25 stamp:4060, valid:yes, name:"C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\vehicles.002"
+ 7:35:56.222 [CE][Storage] Restoring file "C:\TCAFiles\Users\ted\153052\mpmissions\hardcore.namalsk\storage_1\data\vehicles.bin" 113 items.
+ 7:35:56.356   113 items loaded. (0 failed)
+ 7:35:56.368 [CE][Hive] :: Storage load took:4.42 seconds, recovery stamp:4066
+ 7:35:56.368   entity: 8475, building: 0
+ 7:35:56.368   no lifetime: 22
+ 7:35:56.368   skipped: 106
+ 7:35:56.368   pathgraph's: 193
+ 7:35:56.369 [CE][Hive] :: Initializing ... 
+ 7:35:56.388 [CE][InitializeMap] :: initialized: 0
+ 7:35:56.388 [CE][Hive] :: Initializing spawners ... 
+ 7:35:56.389 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "TaloonBag_Orange"
+ 7:35:56.389 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "dzn_athena3_exp2"
+ 7:35:56.390 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "dzn_oxygenated_blood"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "dzn_lehs_battery"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "dzn_athena3_exp1"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "GardenLime"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "GardenLime"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "GardenLime"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "GardenLime"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "GardenLime"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "GardenLime"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "GardenLime"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "GardenLime"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "GardenLime"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "GardenLime"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "GardenLime"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "GardenLime"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "Crossbow_Wood"
+ 7:35:56.391 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "BomberJacket_Grey"
+ 7:35:56.392 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "MotoHelmet_Blue"
+ 7:35:56.393 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:14, Nominal:10188, Total in Map: 7870 at 0 (sec)
+ 7:35:56.393   tests:14, repeats:0 fails:0, overtime:73
+ 7:35:57.513 [CE][DynEvent] :: 19 types
+ 7:35:57.513 [00] Loot
+ 7:35:57.513   Primary Spawner: "Loot", active: yes, repeat: 2
+ 7:35:57.513 [01] StaticMedDrop
+ 7:35:57.513   Primary Spawner: "Static", active: yes, repeat: 1
+ 7:35:57.513 [02] StaticLifeboat

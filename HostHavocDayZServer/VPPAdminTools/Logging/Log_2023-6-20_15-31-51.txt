@@ -1,0 +1,238 @@
+=========================Vanilla++ Admin Tools Session Logs=========================
+Logs Started: 2023-6-20_15-31-51
+====================================================================================
+15:31:51 | [PermissionManager] Perm (DeleteObjectAtCrosshair) has been registered!
+15:31:51 | [PermissionManager] Perm (TeleportToCrosshair) has been registered!
+15:31:51 | [PermissionManager] Perm (FreeCamera) has been registered!
+15:31:51 | [PermissionManager] Perm (RepairVehiclesAtCrosshair) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuItemManager) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuItemManager:SpawnItem) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuItemManager:EditPreset) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuItemManager:SpawnPreset) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuItemManager:DeletePreset) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuItemManager:AddPreset) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuServerManager) has been registered!
+15:31:51 | [PermissionManager] Perm (ServerManager:RestartServer) has been registered!
+15:31:51 | [PermissionManager] Perm (ServerManager:LockServer) has been registered!
+15:31:51 | [PermissionManager] Perm (ServerManager:KickAllPlayers) has been registered!
+15:31:51 | [PermissionManager] Perm (ServerManager:LoadScripts) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuWeatherManager) has been registered!
+15:31:51 | [PermissionManager] Perm (WeatherManager:ApplyWeather) has been registered!
+15:31:51 | [PermissionManager] Perm (WeatherManager:ApplyTime) has been registered!
+15:31:51 | [PermissionManager] Perm (WeatherManager:SavePreset) has been registered!
+15:31:51 | [PermissionManager] Perm (WeatherManager:DeletePreset) has been registered!
+15:31:51 | [PermissionManager] Perm (WeatherManager:ApplyPreset) has been registered!
+15:31:51 | [PermissionManager] Perm (WeatherManager:ApplyTimePreset) has been registered!
+15:31:51 | [PermissionManager] Perm (WeatherManager:SaveTimePreset) has been registered!
+15:31:51 | [PermissionManager] Perm (WeatherManager:DeleteTimePreset) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuObjectManager) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuObjectManager:CreateNewSet) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuObjectManager:UpdateSet) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuObjectManager:DeleteSet) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuObjectManager:EditSet) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuPermissionsEditor) has been registered!
+15:31:51 | [PermissionManager] Perm (PermissionsEditor:RemoveUser) has been registered!
+15:31:51 | [PermissionManager] Perm (PermissionsEditor:AddUser) has been registered!
+15:31:51 | [PermissionManager] Perm (PermissionsEditor:CreateUserGroup) has been registered!
+15:31:51 | [PermissionManager] Perm (PermissionsEditor:DeleteUserGroup) has been registered!
+15:31:51 | [PermissionManager] Perm (PermissionsEditor:ChangePermLevel) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuPlayerManager) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:GiveGodmode) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:BanPlayer) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:KickPlayer) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:HealPlayers) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:SetPlayerStats) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:KillPlayers) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:GodMode) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:SpectatePlayer) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:TeleportToPlayer) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:TeleportPlayerTo) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:SetPlayerInvisible) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:SendMessage) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:GiveUnlimitedAmmo) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:MakePlayerVomit) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:FreezePlayers) has been registered!
+15:31:51 | [PermissionManager] Perm (PlayerManager:ChangeScale) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuBansManager) has been registered!
+15:31:51 | [PermissionManager] Perm (BansManager:UnbanPlayer) has been registered!
+15:31:51 | [PermissionManager] Perm (BansManager:UpdateBanDuration) has been registered!
+15:31:51 | [PermissionManager] Perm (BansManager:UpdateBanReason) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuWebHooks) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuWebHooks:Create) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuWebHooks:Edit) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuWebHooks:Delete) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuTeleportManager) has been registered!
+15:31:51 | [PermissionManager] Perm (TeleportManager:ViewPlayerPositions) has been registered!
+15:31:51 | [PermissionManager] Perm (TeleportManager:TPPlayers) has been registered!
+15:31:51 | [PermissionManager] Perm (TeleportManager:TPSelf) has been registered!
+15:31:51 | [PermissionManager] Perm (TeleportManager:DeletePreset) has been registered!
+15:31:51 | [PermissionManager] Perm (TeleportManager:AddNewPreset) has been registered!
+15:31:51 | [PermissionManager] Perm (TeleportManager:EditPreset) has been registered!
+15:31:51 | [PermissionManager] Perm (TeleportManager:TeleportEntity) has been registered!
+15:31:51 | [PermissionManager] Perm (EspToolsMenu) has been registered!
+15:31:51 | [PermissionManager] Perm (EspToolsMenu:DeleteObjects) has been registered!
+15:31:51 | [PermissionManager] Perm (EspToolsMenu:PlayerESP) has been registered!
+15:31:51 | [PermissionManager] Perm (EspToolsMenu:RestPasscodeFence) has been registered!
+15:31:51 | [PermissionManager] Perm (EspToolsMenu:RetriveCodeFromObj) has been registered!
+15:31:51 | [PermissionManager] Perm (EspToolsMenu:PlayerMeshEsp) has been registered!
+15:31:51 | [PermissionManager] Perm (EspToolsMenu:InstantBaseBuild) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuXMLEditor) has been registered!
+15:31:51 | [PermissionManager] Perm (MenuCommandsConsole) has been registered!
+15:31:51 | [PermissionManager] Adding Super Admin (76561198190486863)
+15:31:51 | [PermissionManager] Loaded UserGroups.json
+15:31:51 | [BansManager]:: Load(): Loading ban list Json File $profile:VPPAdminTools/BanList.json
+15:31:51 | [PermissionManager] Perm (Chat:StripPlayer) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:KillPlayer) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:HealPlayer) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:BringPlayer) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:ReturnPlayer) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:GotoPlayer) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:UnbanPlayer) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:TeleportToTown) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:TeleportToPoint) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:GiveAmmo) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:SpawnInventory) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:SpawnOnGround) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:SpawnInHands) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:SpawnCar) has been registered!
+15:31:51 | [PermissionManager] Perm (Chat:refuelCar) has been registered!
+15:31:51 | [WeatherManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/WeatherManager/WeatherSettingsPresets.json
+15:31:51 | [TimeManager] Loading Json File $profile:VPPAdminTools/ConfigurablePlugins/TimeManager/TimeSettingsPresets.json
+15:31:51 | Building Sets Loaded: 1
+15:31:51 | [SteamAPIManager] WARNING couldn't fetch server IP from configs; using cURL...
+15:31:51 | [SteamAPIManager] ERROR No steam API key configured, and or key is invalid.
+16:59:57 | Player "Teddybear" (steamId=76561198190486863) connected to server!
+17:1:39 | [WeatherManager] Send Data Count is 0
+17:1:44 | [Time Manager] Setting Date to 2011/12/2 9:5
+17:2:55 | "Teddybear" (steamid=76561198190486863) Spawned Item: (HunterPants_Winter)
+17:3:16 | "Teddybear" (steamid=76561198190486863) Spawned Item: (HuntingJacket_Winter)
+17:3:46 | "Teddybear" (steamid=76561198190486863) Spawned Item: (Shemagh_Bandit_White)
+17:4:8 | "Teddybear" (steamid=76561198190486863) Spawned Item: (dzn_GorkaHelmet_White)
+17:4:41 | "Teddybear" (steamid=76561198190486863) Spawned Item: (dzn_ballisticvest_nac)
+17:5:0 | "Teddybear" (steamid=76561198190486863) Spawned Item: (WoolGloves_White)
+17:5:15 | Player "Survivor" (steamId=76561199133162652) connected to server!
+17:5:40 | "Teddybear" (steamid=76561198190486863) Spawned Item: (Spur_LW_Bag_Grey)
+17:6:27 | "Teddybear" (steamid=76561198190486863) Spawned Item: (HikingBoots_Black)
+17:7:43 | "Teddybear" (steamid=76561198190486863) Spawned Item: (AKS74U)
+17:7:50 | "Teddybear" (steamid=76561198190486863) Spawned Item: (RecurveBow)
+17:9:12 | Player "Teddybear" (steamId=76561198190486863) initiated disconnect process...
+17:9:26 | Player "Teddybear" (steamId=76561198190486863) aborted logout process [canceledLogout]
+17:9:26 | Player "Teddybear" (steamId=76561198190486863) aborted logout process [canceledLogout]
+17:9:54 | Player "Teddybear" (steamId=76561198190486863) initiated disconnect process...
+17:10:9 | Player "Teddybear" (steamId=76561198190486863) disconnected from server.
+17:10:38 | Player "Teddybear" (steamId=76561198190486863) connected to server!
+17:10:51 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<4261.419922, -20.868345, 10289.700195>)
+17:10:51 | "Teddybear": (steamid=76561198190486863) teleported to (pos=4261.42,0,10289.7)
+17:13:22 | "Teddybear" (steamid=76561198190486863) started to spectate player: "76561199133162652"
+17:15:21 | Player "Teddybear" (steamId=76561198190486863) connected to server!
+17:15:39 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<8250.799805, 15.050000, 10810.400391>)
+17:15:39 | "Teddybear": (steamid=76561198190486863) teleported to (pos=8250.8,0,10810.4)
+17:16:11 | "Teddybear" (steamid=76561198190486863) Spawned Item: (Bone)
+17:28:28 | "Teddybear" (steamid=76561198190486863) Spawned Item: (GoatSteakMeat)
+17:28:31 | "Teddybear" (steamid=76561198190486863) Spawned Item: (GoatSteakMeat)
+17:28:31 | "Teddybear" (steamid=76561198190486863) Spawned Item: (GoatSteakMeat)
+17:28:32 | "Teddybear" (steamid=76561198190486863) Spawned Item: (GoatSteakMeat)
+17:28:33 | "Teddybear" (steamid=76561198190486863) Spawned Item: (GoatSteakMeat)
+17:28:38 | "Teddybear" (steamid=76561198190486863) Spawned Item: (Bone)
+17:36:53 | Player "macadilla" (steamId=76561198016086374) connected to server!
+17:52:11 | Player "Survivor" (steamId=76561199133162652) initiated disconnect process...
+17:52:26 | Player "Survivor" (steamId=76561199133162652) disconnected from server.
+17:52:35 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8190.241211, 19.072990, 10634.188477>)
+17:52:39 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8209.740234, 16.194363, 10658.437500>)
+17:52:40 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8213.146484, 16.569864, 10663.120117>)
+17:52:41 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8250.392578, 16.052683, 10713.590820>)
+17:52:43 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8309.815430, 16.653847, 10742.391602>)
+17:52:44 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8411.779297, 16.177799, 10782.926758>)
+17:52:45 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8427.775391, 17.873390, 10790.817383>)
+17:52:46 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8445.833008, 18.839369, 10800.237305>)
+17:52:49 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8498.465820, 16.024279, 10826.147461>)
+17:52:50 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8545.624023, 13.629056, 10849.969727>)
+17:58:32 | "Teddybear" (steamid=76561198190486863) healed player (steamid=76561198190486863)
+18:0:35 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<9046.679688, 8.910000, 10129.099609>)
+18:0:35 | "Teddybear": (steamid=76561198190486863) teleported to (pos=9046.68,0,10129.1)
+18:1:51 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<8686.360352, 15.000000, 10093.200195>)
+18:1:51 | "Teddybear": (steamid=76561198190486863) teleported to (pos=8686.36,0,10093.2)
+18:2:27 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<6857.649902, 4.595119, 9939.200195>)
+18:2:27 | "Teddybear": (steamid=76561198190486863) teleported to (pos=6857.65,0,9939.2)
+18:3:14 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<6879.355957, 4.802500, 9975.181641>)
+18:3:23 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<6883.519531, 3.970952, 10034.917969>)
+18:3:25 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<6886.836426, 4.187243, 10056.156250>)
+18:3:45 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<6371.209961, 21.383656, 9336.759766>)
+18:3:45 | "Teddybear": (steamid=76561198190486863) teleported to (pos=6371.21,0,9336.76)
+18:14:8 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<5246.509766, 14.272652, 9912.929688>)
+18:14:8 | "Teddybear": (steamid=76561198190486863) teleported to (pos=5246.51,0,9912.93)
+18:14:11 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<4667.890137, 6.153711, 10115.799805>)
+18:14:11 | "Teddybear": (steamid=76561198190486863) teleported to (pos=4667.89,0,10115.8)
+18:14:15 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<4687.839844, 6.259803, 10068.400391>)
+18:14:15 | "Teddybear": (steamid=76561198190486863) teleported to (pos=4687.84,0,10068.4)
+18:14:28 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<4683.188965, 4.475781, 9988.591797>)
+18:14:29 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<4680.520508, 4.020491, 9924.663086>)
+18:19:9 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<5976.609863, 12.781083, 6715.319824>)
+18:19:9 | "Teddybear": (steamid=76561198190486863) teleported to (pos=5976.61,0,6715.32)
+18:19:56 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<5990.681641, 16.445066, 6669.402344>)
+18:20:31 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<5994.372559, 20.043737, 6622.524414>)
+18:20:33 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<5987.849121, 20.199434, 6604.592285>)
+18:20:50 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<5228.189941, 258.913605, 7190.549805>)
+18:20:50 | "Teddybear": (steamid=76561198190486863) teleported to (pos=5228.19,0,7190.55)
+18:21:17 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<5260.269531, 261.812927, 7157.702148>)
+18:21:18 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<5290.702637, 251.618668, 7090.716797>)
+18:21:52 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<5183.240234, 90.874222, 6619.430176>)
+18:21:52 | "Teddybear": (steamid=76561198190486863) teleported to (pos=5183.24,0,6619.43)
+18:22:40 | "Teddybear" (steamid=76561198190486863) Spawned Item: (HunterPants_Winter)
+18:23:14 | "Teddybear" (steamid=76561198190486863) Spawned Item: (Poncho_White)
+18:23:34 | "Teddybear" (steamid=76561198190486863) Spawned Item: (WoolGloves_Black)
+18:25:49 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8784.200195, 1.750537, 9409.327148>)
+18:25:50 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8785.645508, 1.999999, 9353.904297>)
+18:26:43 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8729.074219, 5.480960, 9341.486328>)
+18:26:54 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8535.469727, 2.227338, 9402.532227>)
+18:26:55 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8447.898438, 3.066381, 9432.722656>)
+18:26:57 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8200.009766, 0.303477, 9517.204102>)
+18:26:59 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<7746.986816, 11.782195, 10174.359375>)
+18:27:0 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8143.494629, 2.763793, 9603.248047>)
+18:27:2 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8042.173340, 4.123763, 9629.945313>)
+18:27:5 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<7937.608887, 2.181211, 9652.764648>)
+18:27:7 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<7814.388184, 2.946601, 9656.995117>)
+18:27:8 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<7666.055176, 2.000001, 9668.986328>)
+18:27:11 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<7630.537598, 1.153877, 9640.104492>)
+18:27:13 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<7631.921387, 2.796219, 9590.472656>)
+18:27:14 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<7644.220703, 5.842580, 9291.842773>)
+18:27:30 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<7624.739746, 2.255861, 9570.351563>)
+18:27:34 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<7632.741211, 1.999998, 9680.335938>)
+18:27:37 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<7897.639648, 1.554994, 9645.285156>)
+18:27:38 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<7981.166992, 2.000000, 9639.544922>)
+18:27:40 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8022.826660, 5.875400, 9631.952148>)
+18:27:41 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8136.173340, 4.448432, 9613.542969>)
+18:27:43 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8224.368164, 2.000006, 9577.444336>)
+18:27:44 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8301.671875, 2.975778, 9519.911133>)
+18:27:46 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8429.033203, 4.259221, 9438.240234>)
+18:27:49 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8687.461914, 1.988619, 9322.742188>)
+18:27:50 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8737.041992, 2.000000, 9320.409180>)
+18:27:51 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8777.930664, 2.000000, 9320.979492>)
+18:27:56 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8826.970703, 2.573776, 9292.963867>)
+18:27:57 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<8976.897461, 2.276337, 9241.606445>)
+18:27:59 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<9012.996094, 1.999999, 9184.654297>)
+18:28:1 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<9005.354492, 3.925717, 9067.891602>)
+18:28:2 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<9020.108398, 3.533043, 8987.420898>)
+18:28:4 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<9054.313477, 2.000004, 8907.662109>)
+18:28:5 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<9117.067383, 3.377526, 8791.802734>)
+18:28:7 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<9203.882813, 1.935016, 8712.546875>)
+18:28:11 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<9254.214844, 2.460326, 8596.514648>)
+18:28:12 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<9329.958984, 1.881100, 8393.856445>)
+18:28:19 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<9406.607422, 2.193951, 8161.074707>)
+18:28:24 | "Teddybear" (steamid=76561198190486863) teleported to crosshair (pos=<9430.589844, 3.802459, 8055.869629>)
+18:28:44 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<4524.680176, 9.913505, 9756.469727>)
+18:28:44 | "Teddybear": (steamid=76561198190486863) teleported to (pos=4524.68,0,9756.47)
+18:28:57 | "76561198190486863" (steamid=76561198190486863) teleported to (pos=<7452.020020, 9.181855, 11732.799805>)
+18:28:57 | "Teddybear": (steamid=76561198190486863) teleported to (pos=7452.02,0,11732.8)
+18:29:8 | Player "Teddybear" (steamId=76561198190486863) initiated disconnect process...
+18:29:13 | Player "Teddybear" (steamId=76561198190486863) aborted logout process [canceledLogout]
+18:29:13 | Player "Teddybear" (steamId=76561198190486863) aborted logout process [canceledLogout]
+18:33:59 | Player "Survivor" (steamId=76561199133162652) connected to server!
+18:45:37 | Player "Survivor" (steamId=76561199133162652) initiated disconnect process...
+18:45:52 | Player "Survivor" (steamId=76561199133162652) disconnected from server.
+18:54:38 | Player "FourAMbayBridge" (steamId=76561198859186484) connected to server!
+19:9:0 | Player "macadilla" (steamId=76561198016086374) initiated disconnect process...
+19:9:15 | Player "macadilla" (steamId=76561198016086374) disconnected from server.
+19:9:56 | Player "macadilla" (steamId=76561198016086374) connected to server!
+19:10:24 | Player "macadilla" (steamId=76561198016086374) initiated disconnect process...
+19:10:26 | Player "macadilla" (steamId=76561198016086374) disconnected early from server (EXIT NOW).

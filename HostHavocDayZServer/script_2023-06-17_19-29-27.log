@@ -1,0 +1,69 @@
+---------------------------------------------
+Log C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\config\script_2023-06-17_19-29-27.log started at 17.06. 19:29:42
+
+SCRIPT       : Registered 326 temporary action enum(s), UAN==326
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,151": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,172": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,180": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'username'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'avatar_url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'content'
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1101": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1102": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1103": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1104": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1105": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1106": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1107": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1108": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1109": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1110": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1111": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1112": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1113": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1114": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1115": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1116": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1117": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1118": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1119": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1120": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1121": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1122": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1123": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1124": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1125": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1126": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1127": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1128": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1129": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1130": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1131": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1132": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1133": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1134": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1135": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1136": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1137": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1138": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1139": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1140": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1141": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1142": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1143": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1144": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1145": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1146": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1147": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1148": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1149": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1150": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1151": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1152": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): @"$CurrentDir:mpmissions\hardcore.namalsk\init.c,1153": Too many parameters for 'SpawnObject' method
+SCRIPT    (E): Can't compile mission init script'!
+
+$CurrentDir:mpmissions\hardcore.namalsk\init.c(1101): Too many parameters for 'SpawnObject' method
+SCRIPT       : Creating Mission: mpmissions\hardcore.namalsk\mission.c
+SCRIPT       : ~DayZGame()

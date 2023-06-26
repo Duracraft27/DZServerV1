@@ -1,0 +1,351 @@
+{
+    "loglevel": 100,
+    "BubakLocations": [
+        {
+            "name": "Inside Athena 3 Trigger:",
+            "workinghours": "0-24",
+            "triggerpos": "3588.46 139.953 6745.45",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Giant Spawned",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "3592.55 114.915 6673.4",
+                "3594.33 114.936 6635.14",
+                "3601.86 118.408 6692.76",
+                "3604.59 119.749 6649.23",
+                "3592.08 110.121 6650.31"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "PseudoGiant"
+            ]
+        },
+        {
+            "name": "Mid Athena 3 Trigger",
+            "workinghours": "0-24",
+            "triggerpos": "3605.39 98.1677 6643.88",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Giant Spawned",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "3597 93.2692 6606.36",
+                "3596.65 92.5816 6643.38",
+                "3600.7 93.0132 6575.88",
+                "3610.87 97.8571 6554.22",
+                "3595.1 88.3812 6721.25"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "PseudoGiant"
+            ]
+        },
+        {
+            "name": "Mid-Lower Athena 3 Trigger 1",
+            "workinghours": "0-24",
+            "triggerpos": "3601.62 76.3116  6592.19",
+            "triggermins": "",
+            "triggermaxs": "",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Giant Spawned",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "3605.81 92.9285 6553.6",
+                "3606.56 71.4642 6528.55",
+                "3622.74 71.4375 6501.64",
+                "3606.83 66.6995 6557.13",
+                "3592.84 69.2179 6646.65",
+                "3605.49 69.2531 6653.91"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "PseudoGiant"
+            ]
+        },
+        {
+            "name": "Lower Athena 3 Triggers 1",
+            "workinghours": "0-24",
+            "triggerpos": "3592.51 63.5511 6717.22",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "Giant Spawned",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "3592.51 63.5511 6717.22",
+                "3587.18 63.5619 6716.38",
+                "3603.16 63.7087 6680.83",
+                "3583.79 61.8768 6739.52",
+                "3591.23 57.0721 6713.83",
+                "3598.01 57.0721 6681.27",
+                "3596.78 57.0526 6657.61",
+                "3607.18 61.8455 6608.92",
+                "3607.87 61.9466 6584.03",
+                "3616.96 66.5835 6532.47",
+                "3623.09 71.4375 6488.93",
+                "3628.71 71.442 6467.01",
+                "3623.98 61.7905 6486.98",
+                "3623.91 61.8028 6512.3",
+                "3608.2 61.9466 6583.79",
+                "3600.12 61.8969 6608.52",
+                "3609.55 61.9466 6595.99",
+                "3600.65 57.0788 6632.39",
+                "3596.76 57.16 6681.18",
+                "3590.6 57.16 6713.94"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 1,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "PseudoGiant"
+            ]
+        },
+        {
+            "name": "athena 2 entrance trigger 1",
+            "workinghours": "0-24",
+            "triggerpos": "4956.27 39.5565 6603.09",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "4982.86 42.1405 6619.3",
+                "4997.53 42.1427 6607.95",
+                "5002.14 42.1448 6631.24",
+                "5016.9 42.1427 6630.13"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 2,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_spider",
+                "Animal_dbo_spiderb"
+            ]
+        },
+        {
+            "name": "athena 2 entrance trigger 2",
+            "workinghours": "0-24",
+            "triggerpos": "4993.89 44.749 6621.9",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "4982.86 42.1405 6619.3",
+                "4997.53 42.1427 6607.95",
+                "5002.14 42.1448 6631.24",
+                "5016.9 42.1427 6630.13"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 2,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_spider",
+                "Animal_dbo_spiderb"
+            ]
+        },
+        {
+            "name": "athena 2 stairs to floor -2 trigger",
+            "workinghours": "0-24",
+            "triggerpos": "4993.84 39.5984 6622.24",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "4985.4 37.3009 6616.11",
+                "4990.17 37.2645 6633.61",
+                "5002.55 37.2644 6631.32"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 2,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_spider",
+                "Animal_dbo_spiderb"
+            ]
+        },
+        {
+            "name": "athena 2 stairs to floor -3 trigger",
+            "workinghours": "0-24",
+            "triggerpos": "4993.55 34.603 6622.38",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "4999.05 32.1139 6611.49",
+                "5002.86 32.1137 6628.71",
+                "4976.77 32.2707 6625.43",
+                "4971.7 32.0958 6605.42"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 2,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_spider",
+                "Animal_dbo_spiderb"
+            ]
+        },
+        {
+            "name": "athena 2 stairs to floor -4 trigger",
+            "workinghours": "0-24",
+            "triggerpos": "4993.9 29.5901 6622",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "5000.93 27.0834 6611.46",
+                "5004.92 27.0877 6630.49",
+                "4987.69 27.0875 6635.17",
+                "4961.24 27.0843 6634.59",
+                "4955.41 27.6013 6614.49",
+                "4966.44 27.1024 6600.67",
+                "4969.27 27.0989 6609.18",
+                "5004.9 27.0877 6620.71"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 2,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_spider",
+                "Animal_dbo_spiderb"
+            ]
+        },
+        {
+            "name": "athena 2 ladder to floor -5 trigger",
+            "workinghours": "0-24",
+            "triggerpos": "4977.2 31.8323 6612.84",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "4999.8 32.108 6611.53",
+                "4969.09 27.1024 6607.83",
+                "4980.75 27.1132 6622.73",
+                "4987.97 27.1065 6626.68",
+                "4960.49 27.0857 6635.22",
+                "4961.56 28.4785 6605.98"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 2,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_spider",
+                "Animal_dbo_spiderb"
+            ]
+        },
+        {
+            "name": "athena 2 stairs to floor -5 trigger",
+            "workinghours": "0-24",
+            "triggerpos": "4994.39 34.6007 6621.83",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "4999.8 32.108 6611.53",
+                "4969.09 27.1024 6607.83",
+                "4980.75 27.1132 6622.73",
+                "4987.97 27.1065 6626.68",
+                "4960.49 27.0857 6635.22",
+                "4961.56 28.4785 6605.98"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 2,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_spider",
+                "Animal_dbo_spiderb"
+            ]
+        },
+        {
+            "name": "athena 2 stairs to floor -6 trigger",
+            "workinghours": "0-24",
+            "triggerpos": "4993.84 24.6049 6622.17",
+            "triggermins": "-1 -0.2 -1",
+            "triggermaxs": "1 1 1",
+            "triggerradius": 0.0,
+            "triggercylradius": 0.0,
+            "triggercylheight": 0.0,
+            "notification": "",
+            "notificationtime": 2,
+            "triggerdelay": 3600,
+            "spawnerpos": [
+                "4988.35 22.1131 6614.36",
+                "4955.46 23.0294 6625.79",
+                "4969.24 22.9698 6634.51"
+            ],
+            "spawnradius": 0.0,
+            "bubaknum": 2,
+            "onlyfilluptobubaknum": 0,
+            "itemrandomdmg": 0,
+            "bubaci": [
+                "Animal_dbo_spider",
+                "Animal_dbo_spiderb"
+            ]
+        }
+    ]
+}

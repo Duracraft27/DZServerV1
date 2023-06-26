@@ -1,0 +1,300 @@
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 02:57:13
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 03:06:19
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 03:09:23
+03:11:35 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+03:13:48 | [COT] 76561198190486863: Teleported to position <4451.567871, 14.990000, 10995.890625>
+03:23:01 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 03:43:24
+03:46:48 | Player "Teddybear"(id=Unknown) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 04:05:43
+04:12:51 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+04:18:47 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.3, 11124.8, 11.5>)[HP: 88.6899] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+04:18:48 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.6, 11124.3, 11.5>)[HP: 88.7803] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+04:18:49 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.6, 11124.3, 11.5>)[HP: 86.5303] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+04:18:56 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.9, 11120.4, 11.7>)[HP: 80.3346] hit by Infected into Torso(1) for 6.375 damage (MeleeZombieSoldier)
+04:18:57 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4475.1, 11119.8, 11.7>)[HP: 79.4225] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+04:19:00 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.0, 11119.6, 11.7>)[HP: 77.2596] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+04:19:00 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.1, 11119.5, 11.6>)[HP: 75.0096] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+04:19:01 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4471.1, 11119.7, 11.5>)[HP: 75.0096] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+04:19:05 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4469.2, 11120.3, 11.4>)[HP: 68.7204] hit by Infected into Torso(1) for 6.375 damage (MeleeZombieSoldier)
+04:19:06 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4469.8, 11120, 11.4>)[HP: 66.5552] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+04:19:24 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4475.3, 11139, 11.6>)[HP: 60.6502] hit by Infected into Torso(1) for 6.375 damage (MeleeZombieSoldier)
+04:19:28 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.3, 11138.7, 11.6>)[HP: 58.471] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+04:19:30 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.8, 11137.8, 11.6>)[HP: 52.1648] hit by Infected into Torso(1) for 6.375 damage (MeleeZombieSoldier)
+04:19:31 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.7, 11137.6, 11.6>)[HP: 51.1648] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+04:19:32 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.9, 11137.8, 11.6>)[HP: 48.9148] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+04:19:32 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.0, 11137.9, 11.6>)[HP: 46.6648] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+04:19:32 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.9, 11137.8, 11.6>)[HP: 45.6648] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+04:19:33 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.9, 11137.8, 11.6>)[HP: 43.4812] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+04:19:33 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.9, 11137.8, 11.6>)[HP: 37.1062] hit by Infected into Torso(1) for 6.375 damage (MeleeZombieSoldier)
+04:19:34 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.0, 11137.9, 11.6>) is unconscious
+04:19:34 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.1, 11137.5, 11.6>)[HP: 36.1062] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+04:19:35 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.1, 11137.5, 11.6>)[HP: 27.6062] hit by Infected into Torso(1) for 8.5 damage (MeleeZombieSoldier)
+04:19:35 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.1, 11137.5, 11.6>)[HP: 25.3562] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+04:19:37 | Player "Teddybear" (DEAD) (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.1, 11137.3, 11.6>) died. Stats> Water: 657.828 Energy: 1261.44 Bleed sources: 2
+04:21:16 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 04:24:48
+04:27:05 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+04:51:36 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 04:59:08
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 05:26:10
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 05:34:52
+05:38:01 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+05:40:42 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6224.3, 11794.8, 16.9>)[HP: 93.699] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+05:40:44 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.2, 11794.9, 16.9>)[HP: 92.8663] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+05:40:47 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.8, 11795.2, 16.9>)[HP: 91.0948] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+05:48:17 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6646.4, 11139.3, 16.2>)[HP: 78.3414] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
+05:48:19 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6646.2, 11139.3, 16.2>)[HP: 77.3013] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
+05:49:03 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6652.2, 11148.7, 16.2>)[HP: 78.5763] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+05:49:04 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6652.5, 11149.3, 16.2>)[HP: 78.5763] hit by Infected into RightLeg(3) for 0 damage (Dummy_Light)
+06:09:46 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6994.0, 11488.3, 15.0>)[HP: 82.3774] hit by Infected into Torso(1) for 9 damage (MeleeZombieSoldier)
+06:09:48 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6993.4, 11487.5, 15.0>)[HP: 80.1143] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+06:18:17 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<7209.0, 10840.4, 16.5>)[HP: 64.1645] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieFemale)
+06:19:07 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<7178.7, 10774.8, 15.8>)[HP: 56.3782] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieFemale)
+06:22:19 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<7172.3, 10844.8, 16.9>)[HP: 47.0061] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieFemale)
+06:31:54 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6726.7, 11234.2, 15.0>)[HP: 34.2718] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieMale)
+06:31:57 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6726.5, 11234.2, 15.0>)[HP: 27.5085] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieMale)
+06:31:58 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6726.5, 11234.5, 15.0>)[HP: 25.7205] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+06:32:00 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6726.5, 11234.5, 15.0>)[HP: 25.0071] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+06:32:01 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6726.5, 11234.6, 15.0>)[HP: 23.219] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieMale)
+06:32:03 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6726.5, 11234.6, 15.0>)[HP: 22.5057] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+06:32:05 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6726.5, 11234.6, 15.0>)[HP: 20.8036] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieMale)
+06:32:06 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6726.5, 11234.6, 15.0>)[HP: 19.0657] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+06:32:06 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6726.5, 11234.6, 15.0>) is unconscious
+06:32:07 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6726.8, 11235.4, 15.0>)[HP: 18.2655] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+06:32:58 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4326.8, 8104.3, 77.7>) regained consciousness
+06:41:22 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 07:31:18
+07:43:10 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+08:17:26 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3827.0, 8259.9, 163.0>)[HP: 88.5024] hit by Infected into Torso(1) for 4.95 damage (MeleeZombieMale)
+08:18:33 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3795.4, 8206.5, 158.2>)[HP: 86.1071] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+08:21:58 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3730.1, 8205.7, 157.4>)[HP: 81.0648] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+08:22:22 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3732, 8199.8, 159.0>)[HP: 79.5174] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+08:23:30 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3733.4, 8195.1, 161.0>)[HP: 77.644] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+08:23:30 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3733.5, 8195.0, 161.0>)[HP: 77.644] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+08:23:31 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3734.1, 8194.7, 161.0>)[HP: 77.644] hit by Infected into Torso(1) for 0 damage (Dummy_Light)
+08:23:33 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3734.9, 8194.2, 161.0>)[HP: 75.1168] hit by Infected into Torso(1) for 2.442 damage (MeleeZombieSoldier)
+08:23:33 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3735.1, 8194.2, 161.7>)[HP: 74.1168] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+08:25:00 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3646.8, 8227.4, 144.0>) committed suicide
+08:25:00 | Player "Teddybear" (DEAD) (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3646.8, 8227.4, 144.0>) died. Stats> Water: 3499.94 Energy: 2775.26 Bleed sources: 0
+08:25:23 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 08:30:05
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 16:59:26
+18:38:13 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+18:40:24 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6214.1, 11764.3, 16.9>)[HP: 100] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+18:42:27 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 18:52:50
+18:55:49 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+19:00:11 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4524.0, 10947.7, 15.0>)[HP: 96.9359] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+19:04:25 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4591.8, 8909.9, 34.2>)[HP: 70.423] hit by Wolf into Head(0) for 10 damage (MeleeWolf)
+19:04:55 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4592.2, 8910.4, 34.3>)[HP: 68.5748] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+19:05:30 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3372.9, 8326.7, 33.1>)[HP: 47.3117] hit by Wolf into Torso(16) for 20 damage (MeleeWolf)
+19:05:44 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3380.7, 8332.1, 34.0>)[HP: 44.7288] hit by Wolf into LeftArm(22) for 20 damage (MeleeWolf)
+19:05:48 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3380.7, 8332.1, 34.0>)[HP: 24.5963] hit by Wolf into Head(0) for 10 damage (MeleeWolf)
+19:05:57 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3380.7, 8332.1, 34.0>)[HP: 22.1447] hit by Wolf into RightArm(17) for 20 damage (MeleeWolf)
+19:06:06 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 19:11:32
+19:15:09 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+19:16:57 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4544.4, 8595.5, 59.3>)[HP: 77.5632] hit by Wolf into Head(0) for 10 damage (MeleeWolf)
+19:22:25 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 20:00:26
+20:02:45 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+20:03:38 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 20:05:15
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 20:09:50
+20:12:08 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+20:31:39 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.8, 10568.6, 3.7>)[HP: 52.6941] hit by Fireplace with FireDamage
+20:31:39 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.8, 10568.6, 3.7>)[HP: 50.7879] hit by Fireplace with FireDamage
+20:31:40 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.8, 10568.6, 3.7>)[HP: 42.7184] hit by Fireplace with FireDamage
+20:31:40 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 34.7387] hit by Fireplace with FireDamage
+20:31:41 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 32.9564] hit by Fireplace with FireDamage
+20:31:41 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 31.7482] hit by Fireplace with FireDamage
+20:31:42 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 29.9462] hit by Fireplace with FireDamage
+20:31:42 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 28.6467] hit by Fireplace with FireDamage
+20:31:43 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 26.8512] hit by Fireplace with FireDamage
+20:31:43 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 18.855] hit by Fireplace with FireDamage
+20:31:44 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 17.6446] hit by Fireplace with FireDamage
+20:31:44 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 15.8525] hit by Fireplace with FireDamage
+20:31:45 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 14.5472] hit by Fireplace with FireDamage
+20:31:46 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 12.5372] hit by Fireplace with FireDamage
+20:31:46 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 11.3356] hit by Fireplace with FireDamage
+20:31:47 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 10.4511] hit by Fireplace with FireDamage
+20:31:47 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 8.44522] hit by Fireplace with FireDamage
+20:31:48 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 7.25705] hit by Fireplace with FireDamage
+20:31:48 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 5.94192] hit by Fireplace with FireDamage
+20:31:49 | Player "Teddybear" (DEAD) (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>)[HP: 0] hit by Fireplace with FireDamage
+20:31:49 | Player "Teddybear" (DEAD) (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4378.9, 10568.7, 3.7>) killed by  with Fireplace
+20:36:32 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4016.6, 8426.1, 149.1>)[HP: 81.2993] hit by Grey pup into LeftArm(22) for 20 damage (MeleeWolf)
+20:38:08 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3804.5, 8261.2, 156.3>)[HP: 66.6405] hit by Infected into Torso(1) for 7.5 damage (MeleeZombieFemale)
+20:38:09 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<3804.5, 8261.2, 156.3>)[HP: 64.7114] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieFemale)
+20:39:08 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<7033.5, 5564.7, 9.4>)[HP: 58.2887] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+20:42:01 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4493.8, 11001.5, 15.1>) is unconscious
+20:42:28 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4493.8, 11002.3, 15.1>) regained consciousness
+20:43:07 | Player "Teddybear" (DEAD) (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4494.5, 11002.3, 15.1>) died. Stats> Water: 842.099 Energy: 746.798 Bleed sources: 0
+20:48:47 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 20:51:16
+21:00:59 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+21:12:21 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<8239.0, 10560.8, 15.0>) committed suicide
+21:12:21 | Player "Teddybear" (DEAD) (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<8239.0, 10560.8, 15.0>) died. Stats> Water: 718.24 Energy: 625.376 Bleed sources: 0
+21:15:47 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<5903.0, 11715.9, 4.9>)[HP: 67.741] hit by White pup into Head(0) for 10 damage (MeleeWolf)
+21:15:51 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<5903.1, 11716.1, 4.9>)[HP: 47.5397] hit by White pup into Head(0) for 10 damage (MeleeWolf)
+21:16:18 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<5914.4, 11716.2, 5.2>)[HP: 25.7566] hit by White pup into Torso(36) for 20 damage (MeleeWolf)
+21:16:26 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<5916.8, 11720.6, 4.5>)[HP: 5.11681] hit by The Alpha into Head(0) for 10 damage (MeleeWolf)
+21:16:31 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<5919.8, 11722.3, 4.8>)[HP: 2.66523] hit by The Alpha into RightArm(17) for 20 damage (MeleeWolf)
+21:16:40 | Player "Teddybear" (DEAD) (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<5924.7, 11727.6, 3.7>)[HP: 0] hit by White pup into LeftHand(46) for 20 damage (MeleeWolf)
+21:16:40 | Player "Teddybear" (DEAD) (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<5924.7, 11727.6, 3.7>) killed by 
+21:18:09 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 21:24:01
+21:27:01 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+21:36:26 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<9018.4, 10117.2, 9.7>)[HP: 87.4174] hit by Infected into Torso(1) for 5.625 damage (MeleeZombieMale)
+21:36:30 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<9018.2, 10115.7, 9.7>)[HP: 85.6456] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieMale)
+21:47:55 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6870.3, 9945.9, 7.1>)[HP: 0.976593] hit by FallDamageHealth
+21:47:56 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6869.7, 9945.9, 7.2>) is unconscious
+21:48:08 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6870.4, 9946.4, 7.2>) regained consciousness
+21:48:29 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6863.7, 9937.2, 13.0>)[HP: 92.5] hit by Infected into Torso(1) for 7.5 damage (MeleeZombieSoldier)
+21:48:30 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6863.4, 9936.3, 13.0>)[HP: 92.5901] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+21:50:00 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 23:03:32
+23:06:51 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+23:13:17 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6237.9, 11806.8, 16.9>)[HP: 97.9054] hit by Infected into LeftArm(18) for 0 damage (Dummy_Light)
+23:13:18 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6239.3, 11805.7, 16.9>)[HP: 97.9054] hit by Infected into RightArm(17) for 0 damage (Dummy_Light)
+23:13:24 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6240.3, 11805.8, 16.9>)[HP: 90.2819] hit by Infected into Torso(1) for 7.5 damage (MeleeZombieMale)
+23:13:34 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6238.2, 11804.6, 16.9>)[HP: 88.407] hit by Infected into RightLeg(3) for 6.75 damage (MeleeZombieMale)
+23:15:20 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6212.4, 11776.5, 16.9>)[HP: 88.9014] hit by Infected into RightArm(17) for 7.5 damage (MeleeZombieMale)
+23:16:28 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6223.0, 11569.9, 13.8>)[HP: 89.9202] hit by Fireplace with FireDamage
+23:16:29 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6223.0, 11569.9, 13.8>)[HP: 88.7098] hit by Fireplace with FireDamage
+23:16:29 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6223.0, 11569.9, 13.8>)[HP: 87.5835] hit by Fireplace with FireDamage
+23:16:30 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6223.0, 11569.9, 13.8>)[HP: 86.3978] hit by Fireplace with FireDamage
+23:16:30 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6223.0, 11569.9, 13.8>)[HP: 85.1896] hit by Fireplace with FireDamage
+23:16:31 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.6, 13.8>)[HP: 84.3217] hit by Fireplace with FireDamage
+23:16:31 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 83.434] hit by Fireplace with FireDamage
+23:16:32 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 81.6418] hit by Fireplace with FireDamage
+23:16:32 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 80.8382] hit by Fireplace with FireDamage
+23:16:33 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 73.696] hit by Fireplace with FireDamage
+23:16:33 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 72.4901] hit by Fireplace with FireDamage
+23:16:34 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 71.2841] hit by Fireplace with FireDamage
+23:16:34 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 70.0803] hit by Fireplace with FireDamage
+23:16:35 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 62.619] hit by Fireplace with FireDamage
+23:16:36 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 55.4101] hit by Fireplace with FireDamage
+23:16:36 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 53.6111] hit by Fireplace with FireDamage
+23:16:37 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 52.3962] hit by Fireplace with FireDamage
+23:16:37 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 51.188] hit by Fireplace with FireDamage
+23:16:38 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 50.3217] hit by Fireplace with FireDamage
+23:16:38 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 42.6441] hit by Fireplace with FireDamage
+23:16:39 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 35.4624] hit by Fireplace with FireDamage
+23:16:39 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 28.307] hit by Fireplace with FireDamage
+23:16:40 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 20.5893] hit by Fireplace with FireDamage
+23:16:40 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 19.3878] hit by Fireplace with FireDamage
+23:16:41 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 12.1141] hit by Fireplace with FireDamage
+23:16:41 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 11.2313] hit by Fireplace with FireDamage
+23:16:42 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 10.0411] hit by Fireplace with FireDamage
+23:16:42 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 8.84867] hit by Fireplace with FireDamage
+23:16:43 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 7.95268] hit by Fireplace with FireDamage
+23:16:44 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 7.08971] hit by Fireplace with FireDamage
+23:16:44 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 6.11674] hit by Fireplace with FireDamage
+23:16:45 | Player "Teddybear" (DEAD) (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>)[HP: 0] hit by Fireplace with FireDamage
+23:16:45 | Player "Teddybear" (DEAD) (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<6222.9, 11569.8, 13.8>) killed by  with Fireplace
+23:27:29 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+******************************************************************************
+AdminLog started on 2023-06-18 at 23:42:16
+23:45:47 | Player "Teddybear"(id=Unknown) has been disconnected
+23:46:10 | Player "Teddybear" is connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+23:58:41 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4476.6, 11134.6, 11.4>)[HP: 89.9931] hit by Infected into LeftLeg(8) for 0 damage (Dummy_Light)
+23:59:57 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4475.8, 11134.9, 11.4>)[HP: 91.2475] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+00:00:09 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.3, 11133.6, 11.4>)[HP: 90.6081] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+00:00:25 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.8, 11132, 11.4>)[HP: 88.8992] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+00:00:26 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.7, 11131.9, 11.4>)[HP: 87.8992] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+00:00:27 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4476.8, 11133.5, 11.4>)[HP: 85.6492] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+00:00:27 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4477.9, 11134.3, 11.5>)[HP: 78.8992] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieSoldier)
+00:00:32 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4475.5, 11138, 11.6>)[HP: 72.3296] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieSoldier)
+00:00:32 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4475.5, 11138, 11.6>)[HP: 71.3296] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+00:00:34 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4475.4, 11137.9, 11.6>)[HP: 69.0796] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+00:00:46 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4476.0, 11139, 11.7>)[HP: 68.4404] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+00:00:47 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4476.2, 11139.3, 11.6>)[HP: 66.2804] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+00:00:47 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4476.2, 11139.3, 11.6>)[HP: 64.0304] hit by Infected into RightLeg(3) for 9 damage (MeleeZombieSoldier)
+00:00:50 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.5, 11139.7, 11.6>)[HP: 63.1208] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+00:00:52 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.9, 11140.5, 11.6>)[HP: 62.2108] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+00:00:53 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.9, 11140.5, 11.6>)[HP: 55.4608] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieSoldier)
+00:00:53 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.9, 11140.5, 11.6>)[HP: 53.2108] hit by Infected into LeftLeg(8) for 9 damage (MeleeZombieSoldier)
+00:00:53 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.9, 11140.5, 11.6>) is unconscious
+00:00:53 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.0, 11139.9, 11.6>)[HP: 52.2108] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+00:00:54 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.0, 11139.8, 11.6>)[HP: 51.2108] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+00:00:54 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474.2, 11139.5, 11.6>)[HP: 50.2108] hit by Infected into RightArm(17) for 10 damage (MeleeZombieSoldier)
+00:00:54 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474, 11139.3, 11.6>)[HP: 43.4608] hit by Infected into Torso(1) for 6.75 damage (MeleeZombieSoldier)
+00:00:54 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4474, 11139.3, 11.6>)[HP: 42.4608] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+00:00:54 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.4, 11139, 11.6>)[HP: 41.4608] hit by Infected into LeftArm(18) for 10 damage (MeleeZombieSoldier)
+00:01:45 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4473.4, 11139, 11.6>) regained consciousness
+00:03:02 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4463.0, 11168.4, 8.1>) committed suicide
+00:03:02 | Player "Teddybear" (DEAD) (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<4463.0, 11168.4, 8.1>) died. Stats> Water: 773.174 Energy: 703.345 Bleed sources: 0
+00:35:34 | Player "Teddybear" (DEAD) (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<8463.7, 11355.5, 5.4>) died. Stats> Water: 623.78 Energy: 211.263 Bleed sources: 0
+01:04:19 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<8128.6, 10822, 15.2>)[HP: 80.225] hit by Infected into LeftLeg(8) for 4.5 damage (MeleeZombie)
+01:05:26 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<8123.7, 10824.5, 15.3>)[HP: 70.6197] hit by Infected into Torso(1) for 7.5 damage (MeleeZombieMale)
+01:05:47 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<8132.1, 10825.8, 15.2>)[HP: 68.2878] hit by Infected into LeftLeg(8) for 6.75 damage (MeleeZombieMale)
+01:06:07 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<8150, 10819.2, 15.5>)[HP: 66.845] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+01:06:34 | Player "Teddybear" (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= pos=<8146.9, 10820.6, 15.2>)[HP: 65.2896] hit by Infected into LeftArm(18) for 7.5 damage (MeleeZombieMale)
+01:09:58 | Player "Teddybear"(id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) has been disconnected
+
+
+**********************************EOF****************************************

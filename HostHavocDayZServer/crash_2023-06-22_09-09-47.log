@@ -1,0 +1,13 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\crash_2023-06-22_09-09-47.log started at 22.06. 09:09:54
+
+
+
+------------------------------------
+GSP-MTL-03, 22.06 2023 09:09:54
+Can't compile "World" script module!
+
+Bicycle/Scripts/4_World/entities\vehicles\inherited\bicycle_base.c(449): Can't find variable 'BICYCLE3'
+
+Runtime mode
+CLI params: port 2322 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\ted\153052\HostHavocDayZServer servermod  mod @Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog;@Drones;@SpawnerBubaku;@PseudoGiant;@dbo_spiders;@TFServerPack;@DNA Keycards; 

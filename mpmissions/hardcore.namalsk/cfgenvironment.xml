@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<env>
+	<territories>
+		<!-- cetool territories refs -->
+		<file path="env/domestic_territories.xml" />
+		<file path="env/north_territories.xml" />
+		<file path="env/predator_territories.xml" />
+		<file path="env/south_territories.xml" />
+		<file path="env/tara_territories.xml" />
+		<file path="env/brownbear_territories.xml" />
+		<file path="env/polarbear_territories.xml" />
+		<file path="env/zombie_territories.xml" />
+		<file path="env/dog_territories.xml" />
+		<!--raptor entry-->
+		<file path="env/Raptor_territories.xml" />
+
+		<!-- infected link -->
+		<territory type="Herd" name="ZombieTest" behavior="DZdomesticGroupBeh">
+			<file usable="zombie_territories" />
+		</territory>
+		
+		<territory type="Herd" name="WildDog" behavior="DZWolfGroupBeh">
+			<file usable="dog_territories" />
+		</territory>
+		
+		<!-- animals link -->
+		<territory type="Herd" name="Goat" behavior="DZSheepGroupBeh">
+			<file usable="domestic_territories" />
+		</territory>
+		<territory type="Herd" name="Sheep" behavior="DZSheepGroupBeh">
+			<file usable="domestic_territories" />
+		</territory>
+		<territory type="Herd" name="RoeDeer" behavior="DZDeerGroupBeh">
+			<file usable="north_territories" />
+			<file usable="south_territories" />
+			<file usable="tara_territories" />
+		</territory>
+		<territory type="Herd" name="Deer" behavior="DZDeerGroupBeh">
+			<file usable="north_territories" />
+			<file usable="south_territories" />
+			<file usable="tara_territories" />
+		</territory>
+		<territory type="Herd" name="WildBoar" behavior="DZDeerGroupBeh">
+			<file usable="north_territories" />
+			<file usable="south_territories" />
+			<file usable="tara_territories" />
+		</territory>
+		<territory type="Herd" name="Wolf" behavior="DZWolfGroupBeh">
+			<file usable="predator_territories" />
+		</territory>
+		<territory type="Herd" name="BrownBear" behavior="BlissBearGroupBeh">
+			<file usable="brownbear_territories" /> 
+		</territory>
+		<territory type="Herd" name="PolarBear" behavior="BlissBearGroupBeh">
+			<file usable="polarbear_territories" /> 
+		</territory>
+		<!--Bear Spawn Raptor1 entry-->
+		<territory type="Herd" name="Raptor1" behavior="BlissBearGroupBeh">
+			<file usable="Raptor_territories"/>
+		</territory>
+		<!--Bear Spawn Raptor1B entry-->
+		<territory type="Herd" name="Raptor1B" behavior="BlissBearGroupBeh">
+			<file usable="Raptor_territories"/>
+		</territory>
+		<!--Bear Spawn Raptor1C entry-->
+		<territory type="Herd" name="Raptor1C" behavior="BlissBearGroupBeh">
+			<file usable="Raptor_territories"/>
+		</territory>
+		<!--Hen Spawn Raptor2 entry-->
+		<territory type="Herd" name="Raptor2" behavior="BlissBearGroupBeh">
+			<file usable="Raptor_territories"/>
+		</territory>
+		<!--Hen Spawn Raptor3 entry-->
+		<territory type="Herd" name="Raptor3" behavior="BlissBearGroupBeh">
+			<file usable="Raptor_territories"/>
+		</territory>
+		<!--Hen Spawn Raptor4 entry-->
+		<territory type="Herd" name="Raptor4" behavior="BlissBearGroupBeh">
+			<file usable="Raptor_territories"/>
+		</territory>
+
+	</territories>
+</env>

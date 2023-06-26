@@ -1,0 +1,267 @@
+
+
+=====================================================================
+== C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+== "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe" -ip=37.10.124.137 -port=28000 -cpuCount=4 -limitFPS=100 -adminlog -config=serverDZ.cfg "-mod=@Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures;@BuilderItems;@Spurgles_BagZ;@sFramework;@sGunplay;@WindstridesClothingPack;@Advanced Weapon Scopes;@VPPAdminTools;@Zen's Zombie Door Bangers;@Unknown Ghillie Mod;@Zen's Chicken Coops;@Wolf Packs;@sGunplay_AWS;@Survivor Animations;@DayZ-Bicycle;@DayZ-Dog" -profiles=C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone/config -BEPath=C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\battleye -noFilePatching -nologs -freezecheck
+=====================================================================
+Exe timestamp: 2023/06/06 04:56:18
+Current time:  2023/06/18 23:42:26
+
+Version 1.21.156243
+23:42:26.238 [Inputs] Loading inputs default "bin/constants.xml"
+23:42:26.255 [Inputs] Loading inputs default "bin/specific.xml"
+23:42:26.259 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+23:42:26.262 !!! [Inputs] Cannot Register "UAObjectModuleDeleteOnCursor" non-existent input - Fix Preset!
+23:42:26.265 [Inputs] Loading inputs default "MyMODS/sGunplay/scripts/data/inputs.xml"
+23:42:26.270 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+23:42:26.275 [Inputs] Loading inputs default "VPPAdminTools/data/modded_Inputs.xml"
+23:42:26.280 [Inputs] Loading inputs default "WindstrideClothing/Inputs.xml"
+23:42:26.287 [Inputs] Loading inputs default "Dayz_Dog/Data/Inputs.xml"
+23:42:26.292 [Inputs] Loading inputs cfg "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+23:42:26.319 [Inputs] Exporting inputs cfg "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+23:43:12.350 [CE][Hive] :: Initializing OFFLINE
+23:43:12.354 [StorageDirs] :: Selected storage directory: C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\
+23:43:12.366 [CE][Hive] :: Loading core data ... 
+23:43:12.376 [CE][CoreData] :: 7 root classes, 0 defaults, 0 updaters...
+23:43:12.502 [CE][offlineDB] :: Conversion of characters started.
+23:43:12.559 [CE][offlineDB] :: Processing 0 players.
+23:43:12.559 [CE][offlineDB] :: Conversion of characters successfully completed.
+23:43:22.764 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+23:43:22.766 [CE][TypeSetup] :: 556 classes setuped...
+23:43:26.557 [CE][RegisterBind] :: 0 classes binded...
+23:43:26.558 [CE][RegisterConfig] :: 16097 config classes registered, 0 sub-counters...
+23:43:26.558 [CE][Hive] :: Loading map data ... 
+23:43:26.639 !!! [CE] :: Unknown tag: 'shelves'.
+23:43:26.639 !!! [CE] :: Unknown category: 'books'.
+23:43:26.639 !!! [CE] :: Unknown tag: 'shelves'.
+23:43:26.639 !!! [CE] :: Unknown tag: 'shelves'.
+23:43:26.639 [CE][LoadPrototype] :: loaded 261 prototypes
+23:43:26.639   411 containers, 7544 points
+23:43:26.639   1 dispatches, 1 proxies
+23:43:26.639 !!! [CE][LoadPrototype] 1 groups have wrong points...
+23:43:26.639 [CE][LoadPrototype] :: last group name: Land_Prison_Side...
+23:43:26.654 [CE][LoadPrototype] :: loaded 0 prototypes
+23:43:26.654   38 containers, 66 points
+23:43:26.654   0 dispatches, 0 proxies
+23:43:26.654 [CE][LoadPrototype] :: last group name: StoneLoc38...
+23:43:26.768 [CE][LoadMap] "Group" :: loaded 1610 groups, groups failed: 0, largest group range: 36.4
+23:43:26.779 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+23:43:26.786 [CE][Links] found 534 total links between groups, of 1610
+23:43:26.786 [CE][LoadClusters] "Cluster" :: Loading files...
+23:43:26.809 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+23:43:26.811 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\types.bin"
+23:43:26.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\types.001"
+23:43:26.812 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\types.002"
+23:43:26.846 [CE][offlineDB] :: Loaded 19 dynamic events 194 total types.
+23:43:26.890 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.890 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.891 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.891 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.891 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.891 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.892 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.892 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.892 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.892 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.892 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.892 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.892 !!! [CE][offlineDB] :: Type 'Leather_Cloak' will be ignored. (Type does not exist. (Typo?))
+23:43:26.892 !!! [CE] :: Unknown tag: 'floor'.
+23:43:26.893 !!! [CE][offlineDB] :: Type 'AD_LeupoldMk4' will be ignored. (Type does not exist. (Typo?))
+23:43:26.893 !!! [CE][offlineDB] :: Type 'AD_LeupoldMk4_MosinMount' will be ignored. (Type does not exist. (Typo?))
+23:43:26.893 !!! [CE][offlineDB] :: Type 'AD_LeupoldMk4_B13' will be ignored. (Type does not exist. (Typo?))
+23:43:26.893 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+23:43:26.939 [CE][DE][SPAWNS] :: Total positions: 254
+23:43:26.939 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+23:43:26.940 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\events.bin"
+23:43:26.941 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\events.001"
+23:43:26.942 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\events.002"
+23:43:26.944 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.bin"
+23:43:26.945 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.001"
+23:43:26.946 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.002"
+23:43:26.948 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.bin"
+23:43:26.948 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.001"
+23:43:26.949 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.002"
+23:43:26.951 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.bin"
+23:43:26.952 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.001"
+23:43:26.953 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.002"
+23:43:26.954 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.bin"
+23:43:26.955 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.001"
+23:43:26.956 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.002"
+23:43:26.958 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.bin"
+23:43:26.959 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.001"
+23:43:26.959 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.002"
+23:43:26.961 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.bin"
+23:43:26.962 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.001"
+23:43:26.963 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.002"
+23:43:26.965 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.bin"
+23:43:26.966 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.001"
+23:43:26.966 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.002"
+23:43:26.968 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.bin"
+23:43:26.969 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.001"
+23:43:26.970 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.002"
+23:43:26.972 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.bin"
+23:43:26.973 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.001"
+23:43:26.973 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.002"
+23:43:26.975 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.bin"
+23:43:26.976 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.001"
+23:43:26.977 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.002"
+23:43:26.979 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.bin"
+23:43:26.980 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.001"
+23:43:26.980 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.002"
+23:43:26.982 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.bin"
+23:43:26.983 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.001"
+23:43:26.984 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.002"
+23:43:26.986 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\building.bin"
+23:43:26.986 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\building.001"
+23:43:26.987 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\building.002"
+23:43:26.989 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\vehicles.bin"
+23:43:26.990 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\vehicles.001"
+23:43:26.991 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\vehicles.002"
+23:43:26.992 [CE][Hive] :: Empty storage folder, reinitializing ... 
+23:43:27.30 [CE][Hive] :: Initializing ... 
+23:43:27.33 [CE][InitializeMap] :: initialized: 0
+23:43:27.33 [CE][Hive] :: Initializing spawners ... 
+23:43:27.409 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "dzn_DuctTape"
+23:43:27.649 !!! [CE][Point] Removing 4931.937988, 6660.574707 from land_wrecked_ural
+23:43:27.764 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "Hook"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "StartKitIV"
+23:43:27.789 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "StartKitIV"
+23:43:27.895 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "Mag_CMAG_40Rnd"
+23:43:28.67 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "PoliceJacket"
+23:43:28.78 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "IodineTincture"
+23:43:28.78 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "IodineTincture"
+23:43:28.78 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "IodineTincture"
+23:43:28.232 !!! [CE][Point] Removing 5032.167480, 8197.083984 from land_wrecked_ural_onside
+23:43:28.327 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "Megaphone"
+23:43:28.335 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "dzn_detector"
+23:43:28.342 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "ParamedicJacket_Crimson"
+23:43:28.377 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "dzn_BrisketSpread"
+23:43:28.385 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "NVGoggles"
+23:43:28.528 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "LargeTent"
+23:43:28.532 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "Mag_STANAG_30Rnd"
+23:43:28.545 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "WomanSuit_Brown"
+23:43:28.573 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "dzn_Pate"
+23:43:28.573 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "dzn_Pate"
+23:43:28.602 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "Broom"
+23:43:28.642 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "BloodTestKit"
+23:43:28.643 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "BloodTestKit"
+23:43:29.722 !!! [CE][Point] Removing 6224.349121, 11764.595703 from land_hut_old01
+23:43:30.85 !!! [CE][Point] Removing 5608.094727, 11072.156250 from land_ala_warehouse_small
+23:43:30.252 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:6841, Nominal:6852, Total in Map: 6872 at 3 (sec)
+23:43:30.252   tests:7215, repeats:5 fails:369, overtime:141
+23:43:30.254 [CE][Links] found 0 total links between groups, of 1
+23:43:30.254 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+23:43:30.257 [CE][Links] found 0 total links between groups, of 2
+23:43:30.257 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:43:30.260 [CE][Links] found 0 total links between groups, of 3
+23:43:30.260 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:43:30.261 [CE][Links] found 0 total links between groups, of 4
+23:43:30.261 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 4, deloot: 2, containermaxsum: 6
+23:43:30.262 [CE][Links] found 0 total links between groups, of 5
+23:43:30.262 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:43:30.263 [CE][Links] found 0 total links between groups, of 6
+23:43:30.263 [CE][SpawnRandomLoot] (StaticMedDrop) :: Type: Misc_cargo_cont_net1, lootmin: 4, lootmax: 6, wanted: 5, deloot: 2, containermaxsum: 6
+23:43:30.266 [CE][Links] found 0 total links between groups, of 7
+23:43:30.266 [CE][SpawnRandomLoot] (StaticLifeboat) :: Type: sea_oilrig_lifeboat, lootmin: 2, lootmax: 5, wanted: 2, deloot: 2, containermaxsum: 5
+23:43:33.738 !!! [CE][VehicleRespawner] (PRICivilianCars) :: Init: "VehicleCivilianCars" - Failed to spawn the requested amount (1 < 12) within 36 attempts.
+23:43:33.738 [CE][DynEvent] :: 19 types
+23:43:33.738 [00] Loot
+23:43:33.738   Primary Spawner: "Loot", active: yes, repeat: 2
+23:43:33.738 [01] StaticMedDrop
+23:43:33.738   Primary Spawner: "Static", active: yes, repeat: 1
+23:43:33.738 [02] StaticLifeboat
+23:43:33.738   Primary Spawner: "Static", active: yes, repeat: 1
+23:43:33.738 [03] TrajectoryStones
+23:43:33.738   Primary Spawner: "Trajectory", active: yes, repeat: 1
+23:43:33.738 [04] AnimalWildDog
+23:43:33.738   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:33.738 [05] InfectedSanta
+23:43:33.738   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:33.738 [06] InfectedArmy
+23:43:33.738   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:33.738 [07] InfectedIndustrial
+23:43:33.738   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:33.738 [08] InfectedCivil
+23:43:33.738   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:33.738 [09] InfectedMedic
+23:43:33.738   Primary Spawner: "Infected", active: yes, repeat: 1
+23:43:33.738 [10] AnimalGoat
+23:43:33.738   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:33.738 [11] AnimalSheep
+23:43:33.738   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:33.738 [12] AnimalRoeDeer
+23:43:33.738   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:33.738 [13] AnimalDeer
+23:43:33.738   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:33.738 [14] AnimalWildBoar
+23:43:33.738   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:33.738 [15] AnimalWolf
+23:43:33.738   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:33.738 [16] AnimalBrownBear
+23:43:33.738   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:33.738 [17] AnimalPolarBear
+23:43:33.738   Primary Spawner: "Animal", active: yes, repeat: 1
+23:43:33.738 [18] VehicleCivilianCars
+23:43:33.738   Primary Spawner: "Vehicle", active: yes, repeat: 1
+23:43:33.738 [CE][Hive] :: Initializing of spawners done.
+23:43:33.745 [CE][Hive] :: Init sequence finished.
+23:44:30.243 [CE][MapExport] :: entity found:10767, entity valid:1610, types total:261... took 56 sec
+23:44:30.245 Player connect enabled
+23:44:31.658 [IdleMode] Entering IN - save processed
+23:45:36.651 [Login]: Adding player Teddybear (22804809) to login queue at position 0
+23:45:36.652 [LoginMachine]: Add player Teddybear (22804809 71.1.247.249:28002)
+23:45:36.652 [StateMachine]: Player Teddybear (dpnid 22804809 uid ) Entering AuthPlayerLoginState
+23:45:37.700 [StateMachine]: Player Teddybear (dpnid 22804809 uid ) Entering WaitAuthPlayerLoginState
+23:45:40.105 [IdleMode] Leaving OUT
+23:45:47.708 Player Teddybear (22804809) kicked from server: 49 (Login timed out. (WaitAuthPlayerLoginState))
+23:45:47.708 [StateMachine]: Kick player Teddybear (dpnid 22804809 uid ) State WaitAuthPlayerLoginState
+23:45:47.714 [Disconnect]: Client 22804809 early disconnect
+23:45:47.722 [Disconnect]: No player -> remove player info 22804809 
+23:45:47.722 [Disconnect]: DisconnectPlayerFinish 22804809
+23:45:47.722 [Disconnect]: Remove player info 22804809
+23:45:47.727 [Disconnect]: Player destroy 22804809 
+23:46:07.507 [Login]: Adding player Teddybear (53662179) to login queue at position 0
+23:46:07.507 [LoginMachine]: Add player Teddybear (53662179 71.1.247.249:28002)
+23:46:07.507 [StateMachine]: Player Teddybear (dpnid 53662179 uid ) Entering AuthPlayerLoginState
+23:46:08.324 [StateMachine]: Player Teddybear (dpnid 53662179 uid ) Entering WaitAuthPlayerLoginState
+23:46:10.712 Player Teddybear connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=).
+23:46:10.712 Player "Teddybear" is connected (steamID=76561198190486863)
+23:46:10.721 [StateMachine]: Player Teddybear (dpnid 53662179 uid ) Entering WaitPlayerAssignedLoginState
+23:46:12.85 [StateMachine]: Player Teddybear (dpnid 53662179 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering DBGetLoginTimeLoginState
+23:46:12.155 [StateMachine]: Player Teddybear (dpnid 53662179 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering DBWaitLoginTimeLoginState
+23:46:27.162 [StateMachine]: Player Teddybear (dpnid 53662179 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering DBGetCharacterLoginState
+23:46:27.192 [StateMachine]: Player Teddybear (dpnid 53662179 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering CreateNetObjectsLoginState
+23:46:27.205 [StateMachine]: Player Teddybear (dpnid 53662179 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering PreloadCamLoginState
+23:46:27.212 [StateMachine]: Player Teddybear (dpnid 53662179 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering WaitPreloadCamLoginState
+23:46:30.125 [StateMachine]: Player Teddybear (dpnid 53662179 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering GetNewCharLoginState
+23:46:41.902 <CREATE NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 53662179
+    uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=
+23:46:46.70 !!! [CE][VehicleRespawner] (PRICivilianCars) :: Respawning: "VehicleCivilianCars" - Failed to spawn the requested amount (1 < 11) within 33 attempts.
+23:47:15.133 !!! [CE][VehicleRespawner] (PRICivilianCars) :: Respawning: "VehicleCivilianCars" - Failed to spawn the requested amount (1 < 10) within 30 attempts.
+23:47:44.200 !!! [CE][VehicleRespawner] (PRICivilianCars) :: Respawning: "VehicleCivilianCars" - Failed to spawn the requested amount (1 < 9) within 27 attempts.
+23:48:38.495 !!! [CE][VehicleRespawner] (PRICivilianCars) :: Respawning: "VehicleCivilianCars" - Failed to spawn the requested amount (1 < 8) within 24 attempts.
+23:49:07.509 !!! [CE][VehicleRespawner] (PRICivilianCars) :: Respawning: "VehicleCivilianCars" - Failed to spawn the requested amount (1 < 7) within 21 attempts.
+23:49:36.613 !!! [CE][VehicleRespawner] (PRICivilianCars) :: Respawning: "VehicleCivilianCars" - Failed to spawn the requested amount (1 < 6) within 18 attempts.
+23:50:30.718 !!! [CE][VehicleRespawner] (PRICivilianCars) :: Respawning: "VehicleCivilianCars" - Failed to spawn the requested amount (1 < 5) within 15 attempts.

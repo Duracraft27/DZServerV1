@@ -1,0 +1,488 @@
+
+
+=====================================================================
+== C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+== "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe" -ip=37.10.124.137 -port=28000 -cpuCount=4 -limitFPS=100 -adminlog -config=serverDZ.cfg "-mod=@Namalsk Island;@Namalsk Survival;@CF;@Dabs Framework;@Community-Online-Tools;@shd_retextures" -profiles=C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone/config -BEPath=C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\battleye -noFilePatching -nologs -freezecheck
+=====================================================================
+Exe timestamp: 2023/06/06 04:56:18
+Current time:  2023/06/17 02:57:14
+
+Version 1.21.156243
+ 2:57:14.651 [Inputs] Loading inputs default "bin/constants.xml"
+ 2:57:14.666 [Inputs] Loading inputs default "bin/specific.xml"
+ 2:57:14.670 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+ 2:57:14.673 !!! [Inputs] Cannot Register "UAObjectModuleDeleteOnCursor" non-existent input - Fix Preset!
+ 2:57:14.675 [Inputs] Loading inputs default "nst/ns_dayz/scripts/Data/Inputs.xml"
+ 2:57:14.680 [Inputs] Loading inputs cfg "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+ 2:57:14.706 [Inputs] Exporting inputs cfg "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+ 2:57:53.756 [CE][Hive] :: Initializing OFFLINE
+ 2:57:53.759 [StorageDirs] :: Selected storage directory: C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\
+ 2:57:53.769 [CE][Hive] :: Loading core data ... 
+ 2:57:53.778 [CE][CoreData] :: 7 root classes, 0 defaults, 0 updaters...
+ 2:58:00.613 [CE] :: WARNING :: Preset map "headsFirefighter" is EMPTY.
+ 2:58:00.615 [CE][TypeSetup] :: 556 classes setuped...
+ 2:58:01.46 [CE][RegisterBind] :: 0 classes binded...
+ 2:58:01.47 [CE][RegisterConfig] :: 5355 config classes registered, 0 sub-counters...
+ 2:58:01.47 [CE][Hive] :: Loading map data ... 
+ 2:58:01.117 [CE][LoadPrototype] :: loaded 256 prototypes
+ 2:58:01.117   404 containers, 7415 points
+ 2:58:01.117   1 dispatches, 1 proxies
+ 2:58:01.117 !!! [CE][LoadPrototype] 1 groups have wrong points...
+ 2:58:01.117 [CE][LoadPrototype] :: last group name: land_frozen_person...
+ 2:58:01.131 [CE][LoadPrototype] :: loaded 0 prototypes
+ 2:58:01.131   38 containers, 66 points
+ 2:58:01.131   0 dispatches, 0 proxies
+ 2:58:01.131 [CE][LoadPrototype] :: last group name: StoneLoc38...
+ 2:58:01.239 [CE][LoadMap] "Group" :: loaded 1445 groups, groups failed: 0, largest group range: 36.4
+ 2:58:01.250 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 36.4
+ 2:58:01.255 [CE][Links] found 472 total links between groups, of 1445
+ 2:58:01.255 [CE][LoadClusters] "Cluster" :: Loading files...
+ 2:58:01.276 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 2418 instances
+ 2:58:01.279 [CE][Storage] ver:21 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\types.bin"
+ 2:58:01.283 [CE][Storage] ver:21 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\types.001"
+ 2:58:01.287 [CE][Storage] ver:21 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\types.002"
+ 2:58:01.287 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\types.bin".
+ 2:58:01.353 [CE][offlineDB] :: Loaded 17 dynamic events 166 total types.
+ 2:58:01.388 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+ 2:58:01.431 [CE][DE][SPAWNS] :: Total positions: 129
+ 2:58:01.431 [CE][DE][GROUPS] :: Total eventgroups defined: 0, Eventgroups in use: 0
+ 2:58:01.435 [CE][Storage] ver:21 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\events.bin"
+ 2:58:01.438 [CE][Storage] ver:21 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\events.001"
+ 2:58:01.441 [CE][Storage] ver:21 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\events.002"
+ 2:58:01.441 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\events.bin".
+ 2:58:01.441 [CE][DynamicEvent] Load  Events:[17] Primary spawners: 17 Secondary spawners: 0
+ 2:58:01.444 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.bin"
+ 2:58:01.448 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.001"
+ 2:58:01.451 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.002"
+ 2:58:01.452 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_000.bin" 1 items.
+ 2:58:01.453   1 items loaded. (0 failed)
+ 2:58:01.457 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.bin"
+ 2:58:01.460 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.001"
+ 2:58:01.463 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.002"
+ 2:58:01.464 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_001.bin" 27 items.
+ 2:58:01.531   27 items loaded. (0 failed)
+ 2:58:01.534 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.bin"
+ 2:58:01.538 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.001"
+ 2:58:01.541 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.002"
+ 2:58:01.541 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_002.bin" 68 items.
+ 2:58:01.726   68 items loaded. (0 failed)
+ 2:58:01.730 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.bin"
+ 2:58:01.734 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.001"
+ 2:58:01.737 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.002"
+ 2:58:01.738 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_003.bin" 722 items.
+ 2:58:02.453   722 items loaded. (0 failed)
+ 2:58:02.457 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.bin"
+ 2:58:02.461 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.001"
+ 2:58:02.465 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.002"
+ 2:58:02.465 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_004.bin" 1488 items.
+ 2:58:03.88   1488 items loaded. (0 failed)
+ 2:58:03.92 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.bin"
+ 2:58:03.95 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.001"
+ 2:58:03.99 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.002"
+ 2:58:03.99 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_005.bin" 547 items.
+ 2:58:03.292   547 items loaded. (0 failed)
+ 2:58:03.296 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.bin"
+ 2:58:03.299 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.001"
+ 2:58:03.303 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.002"
+ 2:58:03.303 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_006.bin" 1650 items.
+ 2:58:03.865   1650 items loaded. (0 failed)
+ 2:58:03.869 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.bin"
+ 2:58:03.872 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.001"
+ 2:58:03.876 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.002"
+ 2:58:03.876 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_007.bin" 535 items.
+ 2:58:04.69   535 items loaded. (0 failed)
+ 2:58:04.73 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.bin"
+ 2:58:04.77 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.001"
+ 2:58:04.80 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.002"
+ 2:58:04.80 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_008.bin" 115 items.
+ 2:58:04.122   115 items loaded. (0 failed)
+ 2:58:04.126 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.bin"
+ 2:58:04.129 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.001"
+ 2:58:04.132 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.002"
+ 2:58:04.132 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_009.bin" 0 items.
+ 2:58:04.132   0 items loaded. (0 failed)
+ 2:58:04.136 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.bin"
+ 2:58:04.139 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.001"
+ 2:58:04.142 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.002"
+ 2:58:04.142 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_010.bin" 38 items.
+ 2:58:04.166   38 items loaded. (0 failed)
+ 2:58:04.170 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.bin"
+ 2:58:04.173 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.001"
+ 2:58:04.176 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.002"
+ 2:58:04.177 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\dynamic_011.bin" 49 items.
+ 2:58:04.198   49 items loaded. (0 failed)
+ 2:58:04.201 [CE][Storage] ver:26 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\building.bin"
+ 2:58:04.205 [CE][Storage] ver:26 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\building.001"
+ 2:58:04.208 [CE][Storage] ver:26 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\building.002"
+ 2:58:04.208 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\building.bin" 0 items.
+ 2:58:04.208   0 items loaded. (0 failed)
+ 2:58:04.211 [CE][Storage] ver:25 stamp:311, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\vehicles.bin"
+ 2:58:04.214 [CE][Storage] ver:25 stamp:309, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\vehicles.001"
+ 2:58:04.218 [CE][Storage] ver:25 stamp:310, valid:yes, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\vehicles.002"
+ 2:58:04.218 [CE][Storage] Restoring file "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\hardcore.namalsk\storage_1\data\vehicles.bin" 50 items.
+ 2:58:04.265   50 items loaded. (0 failed)
+ 2:58:04.292 [CE][Hive] :: Storage load took:2.86 seconds, recovery stamp:311
+ 2:58:04.292   entity: 5700, building: 0
+ 2:58:04.292   pathgraph's: 46
+ 2:58:04.301 [CE][Hive] :: Initializing ... 
+ 2:58:04.316 [CE][InitializeMap] :: initialized: 0
+ 2:58:04.316 [CE][Hive] :: Initializing spawners ... 
+ 2:58:04.316 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:5285, Total in Map: 5319 at 0 (sec)
+ 2:58:04.316   tests:0, repeats:0 fails:0, overtime:0
+ 2:58:08.660 [CE][DynEvent] :: 17 types
+ 2:58:08.660 [00] Loot
+ 2:58:08.660   Primary Spawner: "Loot", active: yes, repeat: 2
+ 2:58:08.660 [01] StaticMedDrop
+ 2:58:08.660   Primary Spawner: "Static", active: yes, repeat: 1
+ 2:58:08.660 [02] StaticLifeboat
+ 2:58:08.660   Primary Spawner: "Static", active: yes, repeat: 1
+ 2:58:08.660 [03] TrajectoryStones
+ 2:58:08.660   Primary Spawner: "Trajectory", active: yes, repeat: 1
+ 2:58:08.660 [04] InfectedSanta
+ 2:58:08.660   Primary Spawner: "Infected", active: yes, repeat: 1
+ 2:58:08.660 [05] InfectedArmy
+ 2:58:08.660   Primary Spawner: "Infected", active: yes, repeat: 1
+ 2:58:08.660 [06] InfectedIndustrial
+ 2:58:08.661   Primary Spawner: "Infected", active: yes, repeat: 1
+ 2:58:08.661 [07] InfectedCivil
+ 2:58:08.661   Primary Spawner: "Infected", active: yes, repeat: 1
+ 2:58:08.661 [08] InfectedMedic
+ 2:58:08.661   Primary Spawner: "Infected", active: yes, repeat: 1
+ 2:58:08.661 [09] AnimalGoat
+ 2:58:08.661   Primary Spawner: "Animal", active: yes, repeat: 1
+ 2:58:08.661 [10] AnimalSheep
+ 2:58:08.661   Primary Spawner: "Animal", active: yes, repeat: 1
+ 2:58:08.661 [11] AnimalRoeDeer
+ 2:58:08.661   Primary Spawner: "Animal", active: yes, repeat: 1
+ 2:58:08.661 [12] AnimalDeer
+ 2:58:08.661   Primary Spawner: "Animal", active: yes, repeat: 1
+ 2:58:08.661 [13] AnimalWildBoar
+ 2:58:08.661   Primary Spawner: "Animal", active: yes, repeat: 1
+ 2:58:08.661 [14] AnimalWolf
+ 2:58:08.661   Primary Spawner: "Animal", active: yes, repeat: 1
+ 2:58:08.661 [15] AnimalBrownBear
+ 2:58:08.661   Primary Spawner: "Animal", active: yes, repeat: 1
+ 2:58:08.661 [16] AnimalPolarBear
+ 2:58:08.661   Primary Spawner: "Animal", active: yes, repeat: 1
+ 2:58:08.661 [CE][Hive] :: Initializing of spawners done.
+ 2:58:08.666 [CE][Hive] :: Init sequence finished.
+ 2:58:08.666 Player connect enabled
+ 2:58:10.67 [IdleMode] Entering IN - save processed
+ 2:58:29.393 [Login]: Adding player Teddybear (25543360) to login queue at position 0
+ 2:58:29.394 [LoginMachine]: Add player Teddybear (25543360 71.1.247.249:28002)
+ 2:58:29.394 [StateMachine]: Player Teddybear (dpnid 25543360 uid ) Entering AuthPlayerLoginState
+ 2:58:29.995 [StateMachine]: Player Teddybear (dpnid 25543360 uid ) State Error (AuthPlayerLoginState)
+ 2:58:29.995 Player Unknown (25543360) kicked from server: 115 (Client is missing a mod which is on the server. (Community Online Tools)  (Missing PBO. (D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@GRW ER7 Gauss Rifle\addons\gaussmk2.pbo)))
+ 2:58:29.995 [StateMachine]: Kick player Teddybear (dpnid 25543360 uid ) State AuthPlayerLoginState
+ 2:58:30.00 [Disconnect]: Client 25543360 early disconnect
+ 2:58:30.06 [Disconnect]: No identity -> remove player info 25543360 
+ 2:58:30.06 [Disconnect]: DisconnectPlayerFinish 25543360
+ 2:58:30.06 [Disconnect]: Remove player info 25543360
+ 2:58:30.11 [Disconnect]: Player destroy 25543360 
+ 2:59:27.794 [Login]: Adding player Teddybear (19586272) to login queue at position 0
+ 2:59:27.794 [LoginMachine]: Add player Teddybear (19586272 71.1.247.249:28002)
+ 2:59:27.794 [StateMachine]: Player Teddybear (dpnid 19586272 uid ) Entering AuthPlayerLoginState
+ 2:59:28.657 [StateMachine]: Player Teddybear (dpnid 19586272 uid ) Entering WaitAuthPlayerLoginState
+ 2:59:29.994 [IdleMode] Leaving OUT
+ 2:59:31.278 Player Teddybear connected (id=Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=).
+ 2:59:31.278 Player "Teddybear" is connected (steamID=76561198190486863)
+ 2:59:31.288 [StateMachine]: Player Teddybear (dpnid 19586272 uid ) Entering WaitPlayerAssignedLoginState
+ 2:59:31.962 [StateMachine]: Player Teddybear (dpnid 19586272 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering DBGetLoginTimeLoginState
+ 2:59:31.995 [StateMachine]: Player Teddybear (dpnid 19586272 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering DBWaitLoginTimeLoginState
+ 2:59:46.999 [StateMachine]: Player Teddybear (dpnid 19586272 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering DBGetCharacterLoginState
+ 2:59:47.21 [StateMachine]: Player Teddybear (dpnid 19586272 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering CreateNetObjectsLoginState
+ 2:59:47.35 [StateMachine]: Player Teddybear (dpnid 19586272 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering PreloadCamLoginState
+ 2:59:47.43 [StateMachine]: Player Teddybear (dpnid 19586272 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering WaitPreloadCamLoginState
+ 2:59:53.544 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "SurgicalGloves_White"
+ 2:59:53.652 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "SurgicalGloves_LightBlue"
+ 2:59:53.760 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "SurgicalGloves_Blue"
+ 2:59:53.870 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "TacticalGloves_Black"
+ 2:59:54.84 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "SurgicalGloves_Green"
+ 2:59:54.291 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "dzn_platecarriervest_nac"
+ 2:59:54.400 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "dzn_module_lantia"
+ 2:59:54.824 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "dzn_netanyas_log"
+ 2:59:55.496 [StateMachine]: Player Teddybear (dpnid 19586272 uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=) Entering GetLoadedCharLoginState
+ 3:00:12.166 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 19586272
+    uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=
+ 3:00:38.415 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "SurgicalGloves_White"
+ 3:00:38.524 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "SurgicalGloves_LightBlue"
+ 3:00:38.630 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "SurgicalGloves_Blue"
+ 3:00:38.831 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "SurgicalGloves_Green"
+ 3:00:38.935 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "dzn_platecarriervest_nac"
+ 3:00:39.41 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "dzn_module_lantia"
+ 3:00:39.151 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "dzn_netanyas_log"
+ 3:01:06.559 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "SurgicalGloves_White"
+ 3:01:06.667 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "SurgicalGloves_LightBlue"
+ 3:01:06.770 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "SurgicalGloves_Blue"
+ 3:01:06.874 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "SurgicalGloves_Green"
+ 3:01:06.976 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "dzn_platecarriervest_nac"
+ 3:01:32.480 Respawn: Add player Teddybear (19586272) to respawn machine
+ 3:01:32.480 [StateMachine]: Player Teddybear (dpnid 19586272 uid ) Entering GetCharacterRespawnState
+ 3:01:32.491 [StateMachine]: Player Teddybear (dpnid 19586272 uid ) Entering PreloadCamRespawnState
+ 3:01:32.502 [StateMachine]: Player Teddybear (dpnid 19586272 uid ) Entering WaitPreloadCamRespawnState
+ 3:01:34.707 [StateMachine]: Player Teddybear (dpnid 19586272 uid ) Entering GetNewCharRespawnState
+ 3:01:34.748 <RESPAWN NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 19586272
+    uid Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=
+ 3:07:45.522 [Disconnect]: Client 19586272 early disconnect
+ 3:07:46.115 [Disconnect]: Start script disconnect 19586272 (dbCharacterId 1 dbPlayerId 1) logoutTime 0
+ 3:07:46.618 [Disconnect]: Remove player info 19586272
+ 3:07:47.59 [Disconnect]: Finish script disconnect 19586272 (Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=)
+ 3:07:47.59 [Disconnect]: DisconnectPlayerFinish 19586272
+ 3:07:47.566 [Disconnect]: Player destroy 19586272 
+=======================================================
+-------------------------------------------------------
+Time:  3:07:50
+Exception code: C0000005 ACCESS_VIOLATION at 5671CCA3
+Allocator: system
+graphics:  No
+resolution:  160x120x32
+Addons:
+  ns_dayz_gear_tops in nst\ns_dayz\gear\tops\
+  DZ_Anims_Anm_Player in DZ\anims\anm\player\
+  NurseDress_retexture in civ_retextures\models\nursedress\
+  ns_water in nst\ns\water\, ns_build_lubjansk in nst\ns\build\lubjansk\
+  DZ_Weapons_Shotguns_MP133 in DZ\weapons\shotguns\mp133\
+  DZ_Weapons_Supports in DZ\weapons\attachments\support\
+  ns2_build_bar in nst\ns2\build\bar\, Smersh_Retex in clothing\smersh\
+  HikingBootsLow_retexture in civ_retextures\models\hikingbootslow\
+  DZ_Anims_Cfg in DZ\anims\cfg\, DZ_Sounds_Characters in DZ\sounds\Characters\
+  DZ_Scripts in scripts\, shade_clothing in clothing\pressvest\
+  DZ_Worlds_Enoch_Navmesh in DZ\worlds\enoch\navmesh\, JM_CF_GUI in JM\CF\GUI\
+  ns_build_chem in nst\ns\build\chem\
+  DZ_Weapons_Shotguns_Izh18Shotgun in DZ\weapons\shotguns\izh18shotgun\
+  DZ_Weapons_Firearms in DZ\weapons\firearms\
+  DZ_Weapons_Archery_Crossbow in DZ\weapons\archery\crossbow\
+  DZ_Weapons_Firearms_SaigaK in DZ\weapons\shotguns\saiga\
+  DZ_Animals_AnimConfig in DZ\animals\animconfig\
+  DZ_Pistols_mkii in DZ\weapons\pistols\mkii\
+  ns_dayz_gear_pants in nst\ns_dayz\gear\pants\
+  DZ_Gear_Consumables in DZ\gear\consumables\, DZ_Sounds_AI in DZ\sounds\ai\
+  DZ_Structures_Bliss_Specific in DZ\structures_bliss\specific\
+  ns_dayz_effects_visuals in nst\ns_dayz\effects\visual\, DZ_AI in DZ\AI\
+  DZ_Gear_Books in DZ\gear\books\, ns_dayz_gear_lehs in nst\ns_dayz\gear\lehs\
+  ns2_build_dam in nst\ns2\build\dam\, DZ_Data_Bliss in DZ\data_bliss\
+  DZ_Weapons_Launchers_RPG7 in DZ\weapons\launchers\rpg7\
+  DZ_Structures_Rail in DZ\structures\rail\
+  DZ_Characters_Vests in DZ\characters\vests\
+  DZ_Pistols_CZ75 in DZ\weapons\pistols\cz75\, DZ_Water in DZ\water\
+  ns2_build_brensk in nst\ns2\build\brensk\
+  ns_dayz_gear_head in nst\ns_dayz\gear\head\
+  DZ_Pistols_Flaregun in DZ\weapons\pistols\flaregun\
+  DZ_Structures_Bliss_Industrial in DZ\structures_bliss\industrial\
+  DZ_Vehicles_Wheeled in DZ\vehicles\wheeled\
+  DZ_Weapons_Firearms_M249Para in DZ\weapons\firearms\m249\
+  DZ_Weapons_Melee_Blunt in DZ\weapons\melee\blunt\
+  ns_dayz_gear_crafting in nst\ns_dayz\gear\crafting\, ns_sounds in nst\ns_sounds\
+  DZ_data_aiconfigs in DZ\data\aiconfigs\
+  DZ_Structures_BuildingParts in DZ\structures\Proxy_BuildingParts\
+  DZ_Sounds_Weapons in DZ\sounds\weapons\
+  DZ_Weapons_Firearms_M4 in DZ\weapons\firearms\m4\
+  DZ_Weapons_Firearms_VSS in DZ\weapons\firearms\vss\
+  DZ_Structures_Walls in DZ\structures\walls\
+  DZ_Weapons_Archery_Bow_pvc in DZ\weapons\archery\bow_pvc\
+  DZ_Animals_ovis_aries in DZ\animals\ovis_aries\
+  BoonieHat_retexture in civ_retextures\models\booniehat\
+  ns2_build_a1 in nst\ns2\build\a1\
+  DZ_Animals_ovis_aries_fem in DZ\animals\ovis_aries_fem\
+  ns_dayz_gear_navigation in nst\ns_dayz\gear\navigation\, ns2 in nst\ns2\
+  DZ_Characters_Glasses in DZ\characters\glasses\
+  DZ_Characters_Gloves in DZ\characters\gloves\
+  DZ_Animals_capra_hircus in DZ\animals\capra_hircus\
+  CargoP_retex in clothing\cargopants\
+  DZ_Pistols_pb6p9 in DZ\weapons\pistols\pb6p9\
+  DZ_Weapons_Firearms_CZ550 in DZ\weapons\firearms\cz550\
+  shd_weapons in shd_weapons\, DZ_Gear_Crafting in DZ\gear\crafting\
+  DZ_Gear_Camping in DZ\gear\camping\, ns2_build_a2 in nst\ns2\build\a2\
+  ns3 in nst\ns3\, DZ_AI_Bliss in DZ\AI_bliss\, Backpacks_Retex in clothing\hunting\
+  Beanie_retex in clothing\beaniehat\, DZ_Structures_Wrecks in DZ\structures\wrecks\
+  DZ_Weapons_Firearms_CZ527 in DZ\weapons\firearms\cz527\
+  DZ_Weapons_Firearms_AK74 in DZ\weapons\firearms\ak74\
+  DZ_Weapons_Firearms_SSG82 in DZ\weapons\firearms\ssg82\
+  DZ_Characters_Zombies in DZ\characters\zombies\, Hoodie_retex in clothing\hoodie\
+  ns2_build_a3 in nst\ns2\build\a3\
+  DZ_Structures_Bliss_Residential in DZ\structures_bliss\residential\
+  DZ_Data in DZ\data\, DZ_Animals_bos_taurus in DZ\animals\bos_taurus\
+  DZ_Sounds_Effects in DZ\sounds\hpp\
+  DZ_Weapons_Firearms_SKS in DZ\weapons\firearms\sks\
+  DZ_Weapons_Firearms_Winchester70 in DZ\weapons\firearms\winchester70\
+  DZ_Weapons_Muzzles in DZ\weapons\attachments\muzzle\
+  ns_dayz_infected in nst\ns_dayz\infected\, DZ_Water_Bliss in DZ\water_bliss\
+  DZ_Structures_Roads in DZ\structures\roads\
+  DZ_Animals_capreolus_capreolus_fem in DZ\animals\capreolus_capreolus_fem\
+  HuntingJacket_retexture in civ_retextures\models\huntingjacket\
+  DZ_Animals_gallus_gallus_domesticus in DZ\animals\gallus_gallus_domesticus\
+  DZ_Surfaces in DZ\surfaces\, Taloon_retex in clothing\taloonbag\
+  DZ_Gear_Cooking in DZ\gear\cooking\, BoonieHat_Retex in clothing\booniehat\
+  DZ_Weapons_Misc in DZ\weapons\misc\
+  DZ_Weapons_Firearms_Trumpet in DZ\weapons\firearms\trumpet\
+  Masks_Retex in clothing\masks\, ns_build_alakit in nst\ns\build\alakit\
+  ns_build_norinsk in nst\ns\build\norinsk\, RPC_Scripts in JM\CF\Legacy\
+  DZ_Weapons_Projectiles in DZ\weapons\projectiles\
+  HikingBootsLow_retex in clothing\hikingbootslow\
+  DZ_Structures_Industrial in DZ\structures\industrial\
+  DZ_Characters_Headgear in DZ\characters\headgear\
+  DZ_Weapons_Launchers_M203 in DZ\weapons\launchers\m203\
+  DZ_Rocks_Bliss in DZ\rocks_bliss\, ns_build_jalovisko in nst\ns\build\jalovisko\
+  namalsk_navmesh in nst\namalsk\navmesh\
+  DZ_Animals_bos_taurus_fem in DZ\animals\bos_taurus_fem\
+  namalsk_scripts in nst\namalsk\scripts\
+  ns_dayz_gear_tools in nst\ns_dayz\gear\tools\
+  DZ_Characters_Pants in DZ\characters\pants\, JM_COT_GUI in JM\COT\GUI\
+  BomberJacket_retexture in civ_retextures\models\bomberjacket\
+  DZ_Pistols_DE in DZ\weapons\pistols\de\
+  DZ_Weapons_Firearms_MosinNagant in DZ\weapons\firearms\mosin9130\
+  DZ_Weapons_Attachments_Data in DZ\weapons\attachments\data\
+  DZ_Weapons_Launchers_M79 in DZ\weapons\launchers\m79\
+  DZ_Spawn_Proxies in DZ\data\proxies\
+  ns_dayz_gear_backpacks in nst\ns_dayz\gear\backpacks\, DZ_UI in DZ\ui\
+  DZ_Structures_Military in DZ\structures\military\
+  Mountain_retexture in civ_retextures\models\mountain\, ns_ptcs in nst\ns\vfx\
+  DZ_Worlds_ChernarusPlus_CE in DZ\worlds\chernarusplus\ce\, DZ_Rocks in DZ\rocks\
+  ns_plants in nst\ns_plants\, DZ_Worlds_Enoch_Data in DZ\worlds\enoch\data\
+  DZ_Gear_Containers in DZ\gear\containers\
+  Gloves_Retex in clothing\tacticalgloves\
+  ns_build_village in nst\ns\build\village\
+  RidersJacket_retexture in civ_retextures\models\ridersjacket\
+  DZ_Structures in DZ\structures\data\
+  DZ_Structures_Bliss_Walls in DZ\structures_bliss\walls\
+  ns2_build_arma1 in nst\ns2\build\arma1\
+  DZ_Weapons_Firearms_aug in DZ\weapons\firearms\aug\
+  DZ_Weapons_Magazines in DZ\weapons\attachments\magazine\
+  DZ_Weapons_Melee_Blade in DZ\weapons\melee\blade\
+  ns_dayz_effects_sounds in nst\ns_dayz\effects\sounds\
+  DZ_Pistols_Red9 in DZ\weapons\pistols\red9\
+  DZ_Weapons_Archery_Bow_Recurve in DZ\weapons\archery\bow_recurve\
+  DZ_Surfaces_Bliss in DZ\surfaces_bliss\, DZ_Gear_Tools in DZ\gear\tools\
+  ns2_build_arma2 in nst\ns2\build\arma2\
+  DZ_Structures_Furniture in DZ\structures\furniture\
+  DZ_Sounds_Environment in DZ\sounds\environment\
+  DZ_Animals_capra_hircus_fem in DZ\animals\capra_hircus_fem\
+  DZ_Weapons_Firearms_SVD in DZ\weapons\firearms\svd\
+  DZ_Weapons_Firearms_groza in DZ\weapons\firearms\ots14\
+  DZ_Weapons_Firearms_AK101 in DZ\weapons\firearms\ak101\
+  DZ_Weapons_Archery in DZ\weapons\archery\
+  DZ_Structures_Bliss_Roads in DZ\structures_bliss\roads\
+  DZ_Structures_Ruins in DZ\structures\ruins\
+  DZ_Worlds_Enoch_CE in DZ\worlds\enoch\ce\
+  DZ_Structures_Bliss_Military in DZ\structures_bliss\military\
+  DZ_Weapons_Firearms_pm73rak in DZ\weapons\firearms\pm73rak\
+  DZ_Weapons_Firearms_Ruger1022 in DZ\weapons\firearms\ruger1022\
+  DZ_Weapons_Firearms_PP19 in DZ\weapons\firearms\pp19\
+  DZ_Server_Data in DZ\server\, JM_COT_Objects_Debug in JM\COT\Objects\Debug\
+  PCU5Jacket_retex in clothing\pcu5jacket\
+  DZ_Structures_Bliss_Rail in DZ\structures_bliss\rail\
+  DZ_Pistols_p1 in DZ\weapons\pistols\p1\, DZ_Gear_Optics in DZ\gear\optics\
+  DZ_Characters_Heads in DZ\characters\heads\
+  DZ_Weapons_Firearms_UMP in DZ\weapons\firearms\ump45\
+  PlateCarrier_retex in clothing\ballisticvest\
+  DZ_Worlds_Chernarusplus_World in DZ\worlds\chernarusplus\world\
+  ns_dayz_gear_lore in nst\ns_dayz\gear\lore\, JM_COT_Scripts in JM\COT\Scripts\
+  JM_COT_LanguageCore in JM\COT\languagecore\, namalsk_data in nst\namalsk\data\
+  JM_CF_Scripts in JM\CF\Scripts\, ns2_build_tunnel in nst\ns2\build\tunnel\
+  DZ_Gear_Medical in DZ\gear\medical\, DZ_Animals_Bliss in DZ\animals_bliss\
+  DZ_Weapons_Explosives in DZ\weapons\explosives\
+  DZ_Weapons_Firearms_Scout in DZ\weapons\firearms\scout\
+  DZ_Weapons_Archery_Bow_Quickie in DZ\weapons\archery\bow_quickie\
+  PlateCarrier_retexture in civ_retextures\models\ballisticvest\
+  HunterPants_retexture in civ_retextures\models\hunterpants\
+  DZ_Weapons_Animations in DZ\weapons\animations\, ns_music in nst\ns_music\
+  Gorka_Retex in clothing\gorka\
+  Beanie_retexture in civ_retextures\models\beaniehat\
+  TShirt_retexture in civ_retextures\models\tshirt\
+  DZ_Weapons_Shotguns in DZ\weapons\shotguns\, DZ_Radio in DZ\gear\radio\
+  DZ_Vehicles_Parts in DZ\vehicles\parts\, DZ_Gear_Drinks in DZ\gear\drinks\
+  DZ_Characters_Backpacks in DZ\characters\backpacks\
+  DZ_Structures_Signs in DZ\structures\signs\
+  Bandana_retexture in civ_retextures\models\bandana\
+  DZ_Gear_Traps in DZ\gear\traps\, ns2_build_ari in nst\ns2\build\ari\
+  DZ_Sounds_Bliss in DZ\sounds_bliss\, shd_retex in clothing\
+  ns_build_sebjan in nst\ns\build\sebjan\
+  Balaclava_retexture in clothing\balaclava\
+  DZ_Animals_cervus_elaphus in DZ\animals\cervus_elaphus\, ns_misc in nst\ns\misc\
+  DZ_Gear_Cultivation in DZ\gear\cultivation\
+  DZ_Pistols_1911 in DZ\weapons\pistols\1911\
+  Taloon_retexture in civ_retextures\models\taloonbag\
+  DZ_Gear_Navigation in DZ\gear\navigation\
+  DZ_Weapons_Firearms_FAL in DZ\weapons\firearms\fal\
+  DZ_Weapons_Launchers in DZ\weapons\launchers\
+  DZ_Structures_Bliss_Ruins in DZ\structures_bliss\ruins\
+  DZ_Pistols_FNX45 in DZ\weapons\pistols\fnx45\, DZ_Gear_Food in DZ\gear\food\
+  ns_build_vorkuta in nst\ns\build\vorkuta\
+  DZ_Pistols_Glock in DZ\weapons\pistols\glock\
+  DZ_data_trackingconfigs in DZ\data\trackingconfigs\
+  shd_Scripts in civ_retextures\, Mich2001_retex in clothing\mich2001\
+  DZ_Weapons_Firearms_AKM in DZ\weapons\firearms\akm\
+  DZ_Weapons_Firearms_M16A2 in DZ\weapons\firearms\m16a2\
+  DZ_Weapons_Firearms_IZH18 in DZ\weapons\firearms\izh18\
+  DZ_Weapons_Lights in DZ\weapons\attachments\light\
+  DZ_Weapons_Melee_Powered in DZ\weapons\melee\powered\, DZ_Animals in DZ\animals\
+  JM_CF_Defines in JM\CF\Defines\, ns_dayz_animals in nst\ns_dayz\animals\
+  ns in nst\ns\, DZ_Pistols_Derringer in DZ\weapons\pistols\derringer\
+  ns2_misc_containers in nst\ns2\misc\containers\
+  DZ_Weapons_Firearms_Famas in DZ\weapons\firearms\famas\
+  Hoodie_retexture in civ_retextures\models\hoodie\, DF_GUI in DabsFramework\GUI\
+  Custom_NBC in clothing\nbc\, DZ_Pistols_Magnum in DZ\weapons\pistols\magnum\
+  ns_dayz_gear_food in nst\ns_dayz\gear\food\
+  DZ_Animals_sus_scrofa in DZ\animals\sus_scrofa\
+  ns2_build_railway in nst\ns2\build\railway\
+  DZ_Structures_Bliss_Underground in DZ\structures_bliss\underground\
+  DZ_Sounds_Vehicles in DZ\sounds\vehicles\, DZ_ModuleZ in DZ\modulesDayz\
+  ns_dayz_gear_vests in nst\ns_dayz\gear\vests\
+  DZ_Structures_Data_Bliss in DZ\structures_bliss\data\
+  DZ_Animals_canis_lupus in DZ\animals\canis_lupus\
+  Bandana_retex in clothing\bandana\, DZ_Characters_Tops in DZ\characters\tops\
+  DZ_data_aiconfigs_bliss in DZ\data_bliss\aiconfigs\
+  DZ_Plants_Bliss in DZ\plants_bliss\
+  DZ_Animals_cervus_elaphus_feminam in DZ\animals\cervus_elaphus_fem\
+  DZ_Pistols in DZ\weapons\pistols\
+  DZ_Weapons_Firearms_MP5 in DZ\weapons\firearms\mp5\
+  DZ_Weapons_Launchers_LAW in DZ\weapons\launchers\law\
+  DZ_Weapons_Launchers_GP25 in DZ\weapons\launchers\gp25\
+  DZ_Weapons_Optics in DZ\weapons\attachments\optics\
+  namalsk_terrain in nst\namalsk\terrain\, ns2_build_mount in nst\ns2\build\mount\
+  namalsk_survival in nst\ns_dayz\
+  BaseballCap_retexture in civ_retextures\models\baseballcap\
+  DZ_Characters_Shoes in clothing\boots\, DF_Objects in DabsFramework\Objects\
+  DZ_Weapons_Ammunition in DZ\weapons\ammunition\
+  DZ_Animals_sus_domesticus in DZ\animals\sus_domesticus\
+  DZ_Data_Data_ParticleEffects in DZ\data\data\particleeffects\
+  DZ_Characters_Masks in DZ\characters\masks\
+  BaseballCap_retex in clothing\baseballcap\
+  DZ_Structures_Bliss_Wrecks in DZ\structures_bliss\wrecks\
+  DZ_Nonlethal in DZ\weapons\nonlethal\, DF_Scripts in DabsFramework\Scripts\
+  DZ_Worlds_Enoch in DZ\worlds\enoch\world\, DZ_Plants in DZ\plants\
+  DZ_Weapons_Firearms_Repeater in DZ\weapons\firearms\repeater\
+  DZ_Pistols_pmm in DZ\weapons\pistols\pmm\
+  ns_dayz_weapons_att_support in nst\ns_dayz\weapons\att\support\
+  DZ_Characters_Belts in DZ\characters\belts\
+  DZ_Weapons_Shotguns_Izh43 in DZ\weapons\shotguns\izh43\
+  ns2_build_sea in nst\ns2\build\sea\
+  DZ_weapons_nonlethal_DartGun in DZ\weapons\nonlethal\dartgun\
+  DZ_Animals_capreolus_capreolus in DZ\animals\capreolus_capreolus\
+  DZ_Structures_Residential in DZ\structures\residential\
+  DZ_Pistols_Encore in DZ\weapons\pistols\longhorn\
+  DZ_Animals_ursus_arctos in DZ\animals_bliss\ursus_arctos\
+  DZ_Animals_gallus_gallus_domesticus_feminam in DZ\animals\gallus_gallus_domesticus_feminam\
+  DZ_Structures_Bliss_Signs in DZ\structures_bliss\signs\
+  DZ_Weapons_Firearms_cz61 in DZ\weapons\firearms\cz61\
+  DZ_Nonlethal_Shockpistol in DZ\weapons\nonlethal\shockpistol\
+  ns2_build_seb in nst\ns2\build\seb\
+  DZ_Structures_Specific in DZ\structures\specific\
+  DZ_Characters in DZ\characters\data\
+  DZ_Weapons_Firearms_B95 in DZ\weapons\firearms\b95\
+  DZ_Weapons_Melee in DZ\weapons\melee\
+Mods: @shd_retextures
+Version 1.21.156243
+Fault address:  5671CCA3 00:5671CCA3 Unknown module
+file:     hardcore
+world:    namalsk
+Prev. code bytes: 48 8B CB EB 03 49 8B 0E 48 85 C9 74 0D 48 8B 01
+Fault code bytes: FF 50 20 48 8B 35 63 5E B2 00 48 8B CF E8 3B FD
+=======================================================
+note: Minidump has been generated into the file C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone/config\DayZServer_x64_2023-06-17_02-57-06_2023-06-17_03-07-50.mdmp

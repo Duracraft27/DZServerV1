@@ -1,0 +1,749 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\ted\153052\HostHavocDayZServer\script_2023-06-20_08-31-40.log started at 20.06. 08:31:41
+
+SCRIPT       : Registered 385 temporary action enum(s), UAN==385
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : VPPNotificationManager()
+SCRIPT       : [VPPAT] Internal VPPNotifications module loaded!
+SCRIPT       : [DayZ Game]:: DayZGame(): Initializing V++ Admin Tools.
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.chernarusplus exists!
+SCRIPT       : Default Mission: $saves:VPPDebugMissions/Debug.enoch exists!
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,36": Missing ';' at the end of line
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'title'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\webhookmessagebase.c,53": Possible variable name conflict 'color'
+SCRIPT    (W): @"AdvancedWeaponScopes/Scripts/4_World/actions\registeractions_playerbase.c,3": FIX-ME: Overriding function 'SetActions' but not marked as 'override'
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/eyepatch\eyepatch_dismantle.c,58": FIX-ME: Overriding function 'SetActions' but not marked as 'override'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,151": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,172": Possible variable name conflict 'url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,180": Possible variable name conflict 'url'
+SCRIPT    (W): @"PseudoGiant/PseudoGiant_Scripts/scripts/4_World/entities\creatures\infected\pseudogiant.c,347": FIX-ME: Overriding function 'EEOnDamageCalculated' but not marked as 'override'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'guid'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\webhooksmanager\classes\messagetypes\joinleavemessage.c,7": Possible variable name conflict 'details'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'username'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'avatar_url'
+SCRIPT    (W): @"JM/COT/Scripts/4_World/communityonlinetools\classes\webhook\jmwebhookdiscordmessage.c,19": Possible variable name conflict 'content'
+SCRIPT    (W): @"VPPAdminTools/4_World/vppadmintools\plugins\pluginbase\admintools\admintools.c,60": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,13": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,37": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,56": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,59": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,60": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,69": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,79": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"WindstrideClothing/scripts/4_World/playerbase.c,93": Unsafe down-casting, use 'ItemBase.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuobjectmanager\menuobjectmanager.c,203": Missing ';' at the end of line
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\vppadminhud.c,126": Unsafe down-casting, use 'MenuObjectManager.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuesptools\esptoolsmenu.c,580": Unsafe down-casting, use 'EntityAI.Cast' for safe down-casting
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\gui\submenus\menuplayermanager\menuplayermanager.c,71": FIX-ME: Callbacks do not properly support overloaded methods 'OnUpdate'
+SCRIPT    (W): @"VPPAdminTools/5_Mission/vppadmintools\missiondebug.c,38": Unsafe down-casting, use 'PlayerBase.Cast' for safe down-casting
+SCRIPT       : Vanilla++ AdminTools Plugins Registering..
+SCRIPT       : 15:31:52 [ii] ::SUserConfigConstraints::load : Loading SUserConfigConstraints_Gunplay
+SCRIPT       : 15:31:52 [ii] │	├ Done -> SUserConfigConstraints_Gunplay<389dba00>
+SCRIPT       : [MissionServer] OnInit - Server
+SCRIPT       : [ZenChickenCoopsConfig] Init
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 337 seconds
+SCRIPT       : [Namalsk][NamEventManager]: NamEventManager is now running
+SCRIPT       : [MissionServer] OnMissionStart - Server
+SCRIPT       : string dirtyName = 'HardcoreNamalskVanilla+NOBASES|NOTRADERS|1PPDayOneinspired'
+SCRIPT       : m_EventManager NamEventManager<394542f0>
+SCRIPT       : MaxEventCount 2
+SCRIPT       : [Drones] Found existing config. Loading config.json...
+SCRIPT       :  !!! OnError() 
+SCRIPT       : m_LoginTimeMs: 16200
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 927.068 (sec), end: 600 (sec), TempDrop: -17.714 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 766 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 927.068
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Snowfall because it conflicts with event Blizzard...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 551 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 992.523 (sec), end: 100 (sec), TempDrop: -13.2602 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 586 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 992.523
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 469 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1166.24 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 309 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 601 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 900.247
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1166.24
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 239 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Aurora as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 444 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 953.044 (sec), end: 100 (sec), TempDrop: -11.5593 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 537 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 953.044
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 717 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [VPPAT] Player "Teddybear" (steamId=76561198190486863) connected to server!
+SCRIPT       : [PlayerListManager] AddReceiver ► added: PlayerIdentity<4104ed70>
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Permissions Manager] Admin (Teddybear) (76561198190486863) Successfully Logged in!
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 941.717 (sec), end: 600 (sec), TempDrop: -13.7365 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 788 seconds
+SCRIPT       : [VPPAT] Player "Survivor" (steamId=76561199133162652) connected to server!
+SCRIPT    (E): 
+[wpnfsm] RecurveBow:08847 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=Archery_Base<bbef2590> type=RecurveBow
+Class:      'Archery_Base'
+Entity id:707699
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:503
+SCRIPT    (E): 
+[wpnfsm] RecurveBow:08847 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=Archery_Base<bbef2590> type=RecurveBow
+Class:      'Archery_Base'
+Entity id:707699
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:503
+SCRIPT    (E): NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:707699
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:261
+scripts/4_World/classes\weapons\weaponmanager.c:433
+scripts/4_World/entities\dayzplayerimplement.c:937
+scripts/4_World/entities\dayzplayerimplement.c:2005
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\dayzplayerimplement.c:29
+scripts/4_World/entities\manbase\playerbase.c:2704
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c:100
+nst/namalsk/scripts/4_World/namalskterrain\entities\manbase\playerbase.c:25
+nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c:223
+SCRIPT    (E): NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:707699
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:231
+scripts/4_World/classes\weapons\weaponmanager.c:1000
+scripts/4_World/classes\weapons\weaponmanager.c:859
+scripts/4_World/entities\manbase\playerbase.c:2758
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c:100
+nst/namalsk/scripts/4_World/namalskterrain\entities\manbase\playerbase.c:25
+nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c:223
+SCRIPT    (E): NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:707699
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:231
+scripts/4_World/classes\weapons\weaponmanager.c:1000
+scripts/4_World/entities\manbase\playerbase.c:3605
+SCRIPT    (E): NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:707699
+
+Function: 'ProcessWeaponEvent'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:261
+scripts/4_World/classes\weapons\weaponmanager.c:433
+scripts/4_World/entities\dayzplayerimplement.c:937
+scripts/4_World/entities\dayzplayerimplement.c:2005
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\dayzplayerimplement.c:29
+scripts/4_World/entities\manbase\playerbase.c:2704
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c:100
+nst/namalsk/scripts/4_World/namalskterrain\entities\manbase\playerbase.c:25
+nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c:223
+SCRIPT       : [Logout]: New player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= with logout time 15
+SCRIPT       : Player "Teddybear" (steamid=76561198190486863) initiated disconnect process...
+SCRIPT       : [emote] SurvivorM_Kaito:01 play emote id=14 IH=RecurveBow:08847
+SCRIPT       : [Logout]: Player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= cancelled
+SCRIPT       : [VPPAT] Player "Teddybear" (steamId=76561198190486863) aborted logout process [canceledLogout]
+SCRIPT       : [Logout]: Player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= cancelled
+SCRIPT       : [VPPAT] Player "Teddybear" (steamId=76561198190486863) aborted logout process [canceledLogout]
+SCRIPT       : [Logout]: New player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= with logout time 15
+SCRIPT       : Player "Teddybear" (steamid=76561198190486863) initiated disconnect process...
+SCRIPT       : [Logout]: Player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= finished
+SCRIPT       : Player "Teddybear" (steamid=76561198190486863) disconnected from server.
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= isn't in the players list! sending a remove.
+SCRIPT       : HandleOnPlayerDisconnected -> PlayerListManager.RemoveEntry ► Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc=
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT    (E): 
+[wpnfsm] RecurveBow:06525 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=Archery_Base<bbef39b0> type=RecurveBow
+Class:      'Archery_Base'
+Entity id:714418
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:503
+SCRIPT    (E): 
+[wpnfsm] RecurveBow:06525 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=Archery_Base<bbef39b0> type=RecurveBow
+Class:      'Archery_Base'
+Entity id:714418
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:503
+SCRIPT       : [VPPAT] Player "Teddybear" (steamId=76561198190486863) connected to server!
+SCRIPT       : [PlayerListManager] AddReceiver ► added: PlayerIdentity<50381d30>
+SCRIPT       : [Permissions Manager] Admin (Teddybear) (76561198190486863) Successfully Logged in!
+SCRIPT    (E): NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:714418
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:231
+scripts/4_World/classes\weapons\weaponmanager.c:1000
+scripts/4_World/classes\weapons\weaponmanager.c:859
+scripts/4_World/entities\manbase\playerbase.c:2758
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c:100
+nst/namalsk/scripts/4_World/namalskterrain\entities\manbase\playerbase.c:25
+nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c:223
+SCRIPT    (E): 
+[wpnfsm] RecurveBow:06525 Weapon.SaveCurrentFSMState: trying to save weapon without FSM (or uninitialized weapon) this=Archery_Base<bbef39b0> type=RecurveBow
+Class:      'Archery_Base'
+Entity id:714418
+
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+scripts/4_World/entities\firearms\weapon_base.c:503
+SCRIPT    (E): NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:714418
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:231
+scripts/4_World/classes\weapons\weaponmanager.c:1000
+scripts/4_World/entities\manbase\playerbase.c:3605
+SCRIPT    (E): NULL pointer to instance
+Class:      'Archery_Base'
+Entity id:714418
+
+Function: 'GetCurrentState'
+Stack trace:
+scripts/4_World/entities\firearms\weapon_base.c:231
+scripts/4_World/classes\weapons\weaponmanager.c:1000
+scripts/4_World/classes\weapons\weaponmanager.c:859
+scripts/4_World/entities\manbase\playerbase.c:2758
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c:100
+nst/namalsk/scripts/4_World/namalskterrain\entities\manbase\playerbase.c:25
+nst/ns_dayz/scripts/4_World/namalsksurvival\entities\manbase\playerbase.c:223
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 941.717
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [VPPAT] Player "Teddybear" (steamId=76561198190486863) connected to server!
+SCRIPT       : [PlayerListManager] AddReceiver ► added: PlayerIdentity<50384a30>
+SCRIPT       : [Permissions Manager] Admin (Teddybear) (76561198190486863) Successfully Logged in!
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 476 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1150.54
+SCRIPT       : [emote] SurvivorM_Cyril:03 play emote id=1 IH=null
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 202 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 559 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x54Tracer_20Rnd:012678 parent=SurvivorM_Cyril:03 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_762x54Tracer<c361bd80> count=20
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=LongWoodenStick:06032 parent=SurvivorM_Cyril:03 }
+SCRIPT       : [VPPAT] Player "macadilla" (steamId=76561198016086374) connected to server!
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 343 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1156.18 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 247 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 917.081 (sec), end: 100 (sec), TempDrop: -13.9039 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 658 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 917.081
+SCRIPT       : [emote] SurvivorM_Quinn:04 play emote id=1 IH=Repeater:012826
+SCRIPT       : [Logout]: New player Up8sW3ML37v4LDtdqyoexCxtDjmz5fFExiFIzkPKhSc= with logout time 15
+SCRIPT       : Player "Survivor" (steamid=76561199133162652) initiated disconnect process...
+SCRIPT       : [emote] SurvivorM_Quinn:04 play emote id=14 IH=Repeater:012826
+SCRIPT       : [Logout]: Player Up8sW3ML37v4LDtdqyoexCxtDjmz5fFExiFIzkPKhSc= finished
+SCRIPT       : Player "Survivor" (steamid=76561199133162652) disconnected from server.
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: Up8sW3ML37v4LDtdqyoexCxtDjmz5fFExiFIzkPKhSc= isn't in the players list! sending a remove.
+SCRIPT       : HandleOnPlayerDisconnected -> PlayerListManager.RemoveEntry ► Up8sW3ML37v4LDtdqyoexCxtDjmz5fFExiFIzkPKhSc=
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1156.18
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 306 seconds
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Shemagh_White:013299 parent=SurvivorM_Cyril:03 }
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Shemagh_Scarf_White:013802 parent=SurvivorM_Cyril:03 }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 394 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=AmmoBox_762x39_20Rnd:08485 parent=SurvivorM_Mirek:02 }
+SCRIPT       : UnboxLambda::SetupNewMagazine new_item=Ammo_762x39<bf294d00> count=20
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 1000.3 (sec), end: 100 (sec), TempDrop: -12.8246 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 779 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 1000.3
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][Blizzard]: init: 600 (sec), mid: 995.437 (sec), end: 600 (sec), TempDrop: -20.5757 (C)
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 562 seconds
+SCRIPT       : [Logout]: New player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= with logout time 15
+SCRIPT       : Player "Teddybear" (steamid=76561198190486863) initiated disconnect process...
+SCRIPT       : [emote] SurvivorF_Helga:04 play emote id=14 IH=null
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Logout]: Player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= cancelled
+SCRIPT       : [VPPAT] Player "Teddybear" (steamId=76561198190486863) aborted logout process [canceledLogout]
+SCRIPT       : [Logout]: Player Q74fxPdlRt8xzaRnXB-9fMyQ9RnGUPZVj3H_Kuu3Hsc= cancelled
+SCRIPT       : [VPPAT] Player "Teddybear" (steamId=76561198190486863) aborted logout process [canceledLogout]
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT    (E): NULL pointer to instance when trying to access variable 'm_Subtype' (Parent instance is null)
+Class:      'ZmbM_ruSoldier_normal_Woodland2'
+Entity id:904963
+
+Function: 'FightLogic'
+Stack trace:
+ZenZombieDoors/scripts/4_world/entities\creatures\infected\zombiebase.c:166
+scripts/4_World/entities\creatures\infected\zombiebase.c:257
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 814.478 (sec), end: 100 (sec), TempDrop: -9.94381 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 783 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 995.437
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [VPPAT] Player "Survivor" (steamId=76561199133162652) connected to server!
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 814.478
+SCRIPT       : [emote] SurvivorM_Quinn:01 play emote id=8 IH=Repeater:05431
+SCRIPT       : [emote] SurvivorM_Quinn:01 play emote id=40 IH=Repeater:05431
+SCRIPT       : [emote] SurvivorM_Quinn:01 play emote id=10 IH=Repeater:05431
+SCRIPT       : [emote] SurvivorM_Quinn:01 play emote id=11 IH=Repeater:05431
+SCRIPT       : [emote] SurvivorM_Quinn:01 play emote id=11 IH=Repeater:05431
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Fireplace:06366 parent=SurvivorM_Mirek:02 }
+SCRIPT       : 0x00000000c19b9c28 {<11.8215,0,0>}
+SCRIPT       : [Logout]: New player Up8sW3ML37v4LDtdqyoexCxtDjmz5fFExiFIzkPKhSc= with logout time 15
+SCRIPT       : Player "Survivor" (steamid=76561199133162652) initiated disconnect process...
+SCRIPT       : [emote] SurvivorM_Hassan:05 play emote id=14 IH=null
+SCRIPT       : [Logout]: Player Up8sW3ML37v4LDtdqyoexCxtDjmz5fFExiFIzkPKhSc= finished
+SCRIPT       : Player "Survivor" (steamid=76561199133162652) disconnected from server.
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: Up8sW3ML37v4LDtdqyoexCxtDjmz5fFExiFIzkPKhSc= isn't in the players list! sending a remove.
+SCRIPT       : HandleOnPlayerDisconnected -> PlayerListManager.RemoveEntry ► Up8sW3ML37v4LDtdqyoexCxtDjmz5fFExiFIzkPKhSc=
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 498 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 799 seconds
+SCRIPT       : [VPPAT] Player "FourAMbayBridge" (steamId=76561198859186484) connected to server!
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers:: ERROR! unable to fetch VPPUser ► 2lZIRlu82TXyIa-ApPPNvRmctrVcXPXiCr5N1k-jeoM=
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1030.35
+SCRIPT       : [Namalsk][NamEventManager]: Blizzard: Phase Length 0
+SCRIPT       : [inv] ReplaceItemWithNewLambdaBase Step B) remove OK, loc={ type=HANDS item=Torch:05977 parent=SurvivorM_Mirek:02 }
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Blizzard because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 622 seconds
+SCRIPT       : [Logout]: New player XRHSAhsE5XGVBLnO4GKboeZAxzOLJtz74b-WeUiIUMQ= with logout time 15
+SCRIPT       : Player "macadilla" (steamid=76561198016086374) initiated disconnect process...
+SCRIPT       : [emote] SurvivorM_Mirek:02 play emote id=14 IH=Hatchet:08659
+SCRIPT       : [Logout]: Player XRHSAhsE5XGVBLnO4GKboeZAxzOLJtz74b-WeUiIUMQ= finished
+SCRIPT       : Player "macadilla" (steamid=76561198016086374) disconnected from server.
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: XRHSAhsE5XGVBLnO4GKboeZAxzOLJtz74b-WeUiIUMQ= isn't in the players list! sending a remove.
+SCRIPT       : HandleOnPlayerDisconnected -> PlayerListManager.RemoveEntry ► XRHSAhsE5XGVBLnO4GKboeZAxzOLJtz74b-WeUiIUMQ=
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [VPPAT] Player "macadilla" (steamId=76561198016086374) connected to server!
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers:: ERROR! unable to fetch VPPUser ► XRHSAhsE5XGVBLnO4GKboeZAxzOLJtz74b-WeUiIUMQ=
+SCRIPT       : [Logout]: New player XRHSAhsE5XGVBLnO4GKboeZAxzOLJtz74b-WeUiIUMQ= with logout time 15
+SCRIPT       : Player "macadilla" (steamid=76561198016086374) initiated disconnect process...
+SCRIPT       : [emote] SurvivorM_Mirek:04 play emote id=14 IH=Hatchet:09568
+SCRIPT       : Player "macadilla" (steamid=76561198016086374) disconnected early from server (EXIT NOW).
+SCRIPT       : [Logout]: Player XRHSAhsE5XGVBLnO4GKboeZAxzOLJtz74b-WeUiIUMQ= finished
+SCRIPT       : [PlayerListManager] SyncEntryToReceivers ► uid: XRHSAhsE5XGVBLnO4GKboeZAxzOLJtz74b-WeUiIUMQ= isn't in the players list! sending a remove.
+SCRIPT       : PlayerDisconnected -> PlayerListManager.RemoveEntry ► XRHSAhsE5XGVBLnO4GKboeZAxzOLJtz74b-WeUiIUMQ=
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event EVRStorm
+SCRIPT       : [Namalsk][EVRStorm]: InitPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 1080
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 570 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 341 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 935.478
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 561 seconds
+SCRIPT       : [Namalsk][EVRStorm]: MidPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 90
+SCRIPT       : float m_Colour_SkyOrang = 0.23
+SCRIPT       : [Namalsk][EVRStorm]: EndPhaseServer
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 220
+SCRIPT       : [Namalsk][NamEventManager]: EVRStorm: Phase Length 0
+SCRIPT       : [Namalsk][EVRStorm]: ~EVRStorm
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Snowfall because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 743 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event EVRStorm as it is on cooldown for 486 more seconds
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 520 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 213 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1022.21
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Snowfall because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 266 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Aurora as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 731 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1025.7 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 470 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 663 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1089.77
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1025.7
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Snowfall as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 538 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Aurora as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 640 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 1095.2 (sec), end: 100 (sec), TempDrop: -8.20167 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 694 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 1095.2
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 911.655 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 602 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 911.655
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 644 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 995.383
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 555 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 202 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1058.52
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Snowfall as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 221 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 956.133 (sec), end: 100 (sec), TempDrop: -13.0848 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 492 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 956.133
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Aurora as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 465 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1174.42 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 293 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 669 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1175.52
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 1174.42
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start event as we reached the maximum event limit 2
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 491 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Snowfall as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 510 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Blizzard
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Blizzard because it conflicts with event Snowfall...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 330 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Could not start Snowfall as one is already active
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 491 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Aurora
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 631 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 1174.14
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][NamEventManager]: Could not run event Snowfall because it conflicts with event Aurora...
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 674 seconds
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 60
+SCRIPT       : [Namalsk][NamEventManager]: Aurora: Phase Length 0
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event ExtremeCold
+SCRIPT       : [Namalsk][ExtremeCold]: init: 100 (sec), mid: 965.142 (sec), end: 100 (sec), TempDrop: -9.93997 (C)
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 705 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 965.142
+SCRIPT       : [Namalsk][NamEventManager]: Trying to select a new event...
+SCRIPT       : [Namalsk][NamEventManager]: Starting event Snowfall
+SCRIPT       : [Namalsk][Snowfall]: init: 600 (sec), mid: 1121.27 (sec), end: 600 (sec)
+SCRIPT       : [Namalsk][NamEventManager]: Snowfall: Phase Length 600
+SCRIPT       : [Namalsk][NamEventManager]: Next selection will occur in 443 seconds
+SCRIPT       : [Namalsk][NamEventManager]: ExtremeCold: Phase Length 100
+SCRIPT       : [MissionServer] OnMissionFinish - Server
+SCRIPT       : ~DayZGame()

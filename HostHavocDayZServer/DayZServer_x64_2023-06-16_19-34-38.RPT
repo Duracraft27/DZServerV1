@@ -1,0 +1,315 @@
+
+
+=====================================================================
+== C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe
+== "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\DayZServer_x64.exe" -ip=37.10.124.137 -port=28000 -cpuCount=4 -limitFPS=100 -adminlog -config=serverDZ.cfg "-mod=@Lux" -profiles=C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone/config -BEPath=C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\battleye -noFilePatching -nologs -freezecheck
+=====================================================================
+Exe timestamp: 2023/06/06 04:56:18
+Current time:  2023/06/16 19:34:45
+
+Version 1.21.156243
+19:34:45.157 [Inputs] Loading inputs default "bin/constants.xml"
+19:34:45.173 [Inputs] Loading inputs default "bin/specific.xml"
+19:34:45.178 [Inputs] Loading inputs cfg "bin/core.xml"
+19:34:45.181 !!! [Inputs] Cannot load input preset "#STR_USER", file does not exist
+19:34:45.190 [Inputs] Exporting inputs cfg "C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone/config\Users\Survivor\Server.core.xml"
+19:35:20.468 [CE][Hive] :: Initializing OFFLINE
+19:35:20.471 [StorageDirs] :: Selected storage directory: C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\
+19:35:20.484 [CE][Hive] :: Loading core data ... 
+19:35:20.494 [CE][CoreData] :: 7 root classes, 19 defaults, 0 updaters...
+19:35:20.608 [CE][offlineDB] :: Conversion of characters started.
+19:35:20.663 [CE][offlineDB] :: Processing 0 players.
+19:35:20.663 [CE][offlineDB] :: Conversion of characters successfully completed.
+19:35:28.291 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+19:35:28.293 [CE][TypeSetup] :: 507 classes setuped...
+19:35:28.597 [CE][RegisterBind] :: 0 classes binded...
+19:35:28.597 [CE][RegisterConfig] :: 4863 config classes registered, 0 sub-counters...
+19:35:28.598 [CE][Hive] :: Loading map data ... 
+19:35:28.608 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+19:35:28.687 !!! [CE] :: Unknown category: 'bags'.
+19:35:28.702 !!! [CE] :: Unknown value: 'Unique'.
+19:35:28.702 !!! [CE] :: Unknown value: 'Unique'.
+19:35:28.703 [CE][LoadPrototype] :: loaded 434 prototypes
+19:35:28.703   821 containers, 10526 points
+19:35:28.703   49 dispatches, 205 proxies
+19:35:28.703 !!! [CE][LoadPrototype] 2 groups have no containers...
+19:35:28.703 !!! [CE][LoadPrototype] 4 groups have no points...
+19:35:28.703 !!! [CE][LoadPrototype] 1 groups have wrong points...
+19:35:28.703 [CE][LoadPrototype] :: last group name: Land_Wreck_Mining_Excavator...
+19:35:28.720 [CE][LoadPrototype] :: loaded 0 prototypes
+19:35:28.720   50 containers, 276 points
+19:35:28.720   0 dispatches, 0 proxies
+19:35:28.720 [CE][LoadPrototype] :: last group name: PathD_7100...
+19:35:31.951 [CE][LoadMap] "Group" :: loaded 3489 groups, groups failed: 14, largest group range: 26.7
+19:35:31.962 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 26.7
+19:35:31.991 [CE][Links] found 1348 total links between groups, of 3475
+19:35:31.991 [CE][LoadClusters] "Cluster" :: Loading files...
+19:35:32.03 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 1 types, 250 instances
+19:35:32.04 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\types.bin"
+19:35:32.05 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\types.001"
+19:35:32.06 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\types.002"
+19:35:32.17 !!! [CE][offlineDB] :: No Shutdown message present.
+19:35:32.39 [ERROR][DynEvent] :: StaticPoliceCar failed to chain events - "InfectedPoliceHard" not found?!
+19:35:32.39 [CE][offlineDB] :: Loaded 25 dynamic events 190 total types.
+19:35:32.86 !!! [CE][offlineDB] :: Type 'ChristmasTree_Green' will be ignored. (Not spawnable. (Scope is not public?))
+19:35:32.203 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+19:35:32.204 [CE][DE][SPAWNS] :: Total positions: 146
+19:35:32.204 [CE][DE][GROUPS] :: Total eventgroups defined: 61, Eventgroups in use: 0
+19:35:32.205 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\events.bin"
+19:35:32.206 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\events.001"
+19:35:32.207 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\events.002"
+19:35:32.208 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_000.bin"
+19:35:32.210 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_000.001"
+19:35:32.212 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_000.002"
+19:35:32.214 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_001.bin"
+19:35:32.214 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_001.001"
+19:35:32.215 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_001.002"
+19:35:32.217 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_002.bin"
+19:35:32.218 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_002.001"
+19:35:32.219 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_002.002"
+19:35:32.221 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_003.bin"
+19:35:32.221 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_003.001"
+19:35:32.222 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_003.002"
+19:35:32.224 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_004.bin"
+19:35:32.225 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_004.001"
+19:35:32.226 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_004.002"
+19:35:32.228 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_005.bin"
+19:35:32.229 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_005.001"
+19:35:32.230 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_005.002"
+19:35:32.231 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_006.bin"
+19:35:32.232 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_006.001"
+19:35:32.233 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_006.002"
+19:35:32.235 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_007.bin"
+19:35:32.235 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_007.001"
+19:35:32.236 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_007.002"
+19:35:32.238 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_008.bin"
+19:35:32.239 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_008.001"
+19:35:32.240 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_008.002"
+19:35:32.241 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_009.bin"
+19:35:32.242 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_009.001"
+19:35:32.243 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_009.002"
+19:35:32.245 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_010.bin"
+19:35:32.246 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_010.001"
+19:35:32.246 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_010.002"
+19:35:32.248 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_011.bin"
+19:35:32.249 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_011.001"
+19:35:32.250 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\dynamic_011.002"
+19:35:32.251 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\building.bin"
+19:35:32.252 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\building.001"
+19:35:32.253 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\building.002"
+19:35:32.255 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\vehicles.bin"
+19:35:32.256 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\vehicles.001"
+19:35:32.257 [CE][Storage] ver:0 stamp:0, valid:NO, name:"C:\SERVICES\ni9180513_1_SHARE\ftproot\dayzstandalone\mpmissions\dayz.Lux\storage_1\data\vehicles.002"
+19:35:32.257 [CE][Hive] :: Empty storage folder, reinitializing ... 
+19:35:32.296 [CE][Hive] :: Initializing ... 
+19:35:32.298 [CE][InitializeMap] :: initialized: 0
+19:35:32.298 [CE][Hive] :: Initializing spawners ... 
+19:35:34.154 !!! [CE][Point] Removing 271.496582, 279.299622 from Land_Wreck_Mining_HaulTruck
+19:35:34.396 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "FirefightersHelmet_Yellow"
+19:35:34.396 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "FirefightersHelmet_Yellow"
+19:35:34.525 !!! [CE][Point] Removing 192.004608, 209.058670 from Land_Wreck_truck01_aban1_orange
+19:35:34.770 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "CivSedanWheel"
+19:35:34.794 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "FirstAidKit"
+19:35:34.827 !!! [CE][Point] Removing 194.635880, 207.170914 from Land_Wreck_truck01_aban1_orange
+19:35:34.844 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "HuntingOptic"
+19:35:34.935 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "lux_CardEncoder"
+19:35:34.936 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "lux_CardEncoder"
+19:35:34.936 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "lux_CardEncoder"
+19:35:34.936 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "lux_CardEncoder"
+19:35:34.936 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "lux_CardEncoder"
+19:35:34.936 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "lux_CardEncoder"
+19:35:34.937 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "lux_CardEncoder"
+19:35:34.937 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "lux_CardEncoder"
+19:35:34.937 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "lux_CardEncoder"
+19:35:34.937 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "lux_CardEncoder"
+19:35:34.938 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "lux_CardEncoder"
+19:35:34.938 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "lux_CardEncoder"
+19:35:34.938 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "lux_CardEncoder"
+19:35:34.938 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "lux_CardEncoder"
+19:35:34.938 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "lux_CardEncoder"
+19:35:34.957 !!! [CE][Point] Removing 269.621490, 281.636017 from Land_Wreck_Mining_HaulTruck
+19:35:35.149 !!! [CE][Point] Removing 212.555939, 209.283890 from Land_Wreck_truck01_aban2_orange
+19:35:35.191 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "ParamedicPants_Green"
+19:35:35.196 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "ParamedicPants_Green"
+19:35:35.196 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "ParamedicPants_Green"
+19:35:35.196 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "ParamedicPants_Green"
+19:35:35.196 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "ParamedicPants_Green"
+19:35:35.196 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "ParamedicPants_Green"
+19:35:35.197 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "ParamedicPants_Green"
+19:35:35.371 !!! [CE][Point] Removing 319.786835, 209.885483 from Land_Wreck_offroad02_aban1
+19:35:35.498 !!! [CE][Point] Removing 328.927063, 210.044937 from Land_Wreck_offroad02_aban2
+19:35:35.684 !!! [CE][Point] Removing 215.803253, 210.039948 from Land_Wreck_truck01_aban2_orange
+19:35:35.711 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "ParamedicPants_Blue"
+19:35:35.711 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "ParamedicPants_Blue"
+19:35:35.711 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "ParamedicPants_Blue"
+19:35:35.712 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "ParamedicPants_Blue"
+19:35:35.712 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "ParamedicPants_Blue"
+19:35:35.712 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "ParamedicPants_Blue"
+19:35:35.718 !!! [CE][Point] Removing 238.751297, 374.307953 from Land_Slum_House4
+19:35:35.817 !!! [CE][Point] Removing 225.541489, 150.165527 from Land_Boat_Small3
+19:35:35.849 !!! [CE][Point] Removing 262.600952, 275.636200 from Land_Wreck_Mining_HaulTruck
+19:35:35.917 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "CZ61"
+19:35:36.46 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "NurseDress_White"
+19:35:36.46 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "NurseDress_White"
+19:35:36.46 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "NurseDress_White"
+19:35:36.46 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "NurseDress_White"
+19:35:36.46 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "NurseDress_White"
+19:35:36.46 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "NurseDress_White"
+19:35:36.51 !!! [CE][Point] Removing 224.201202, 150.109940 from Land_Boat_Small3
+19:35:36.166 !!! [CE][Point] Removing 200.670425, 206.609146 from Land_Wreck_truck01_aban2_blue
+19:35:36.307 !!! [CE][Point] Removing 186.028564, 204.825958 from Land_Wreck_truck01_aban1_green
+19:35:36.308 !!! [CE][Point] Removing 192.086716, 186.329971 from Land_Wreck_hb01_aban1_police
+19:35:36.358 !!! [CE][Point] Removing 181.306046, 205.078430 from Land_Wreck_truck01_aban1_blue
+19:35:36.478 !!! [CE][Point] Removing 198.039154, 208.496902 from Land_Wreck_truck01_aban2_blue
+19:35:36.601 !!! [CE][Point] Removing 10251.231445, 434.271240 from Land_Boat_Small1
+19:35:36.671 !!! [CE][Point] Removing 216.124573, 373.484833 from Land_Slum_House2
+19:35:36.707 !!! [CE][Point] Removing 213.171982, 211.927704 from Land_Wreck_truck01_aban2_orange
+19:35:36.883 !!! [CE][Point] Removing 197.423111, 205.853088 from Land_Wreck_truck01_aban2_blue
+19:35:36.981 !!! [CE][Point] Removing 271.555420, 285.468140 from Land_Wreck_Mining_HaulTruck
+19:35:36.984 !!! [CE][Point] Removing 260.701813, 284.593597 from Land_Wreck_Mining_HaulTruck
+19:35:37.30 !!! [CE][Point] Removing 261.257202, 279.891296 from Land_Wreck_Mining_HaulTruck
+19:35:37.32 !!! [CE][Point] Removing 261.807587, 287.463837 from Land_Wreck_Mining_HaulTruck
+19:35:37.33 !!! [CE][Point] Removing 214.073547, 371.859589 from Land_Slum_House2
+19:35:37.216 !!! [CE][Point] Removing 223.279099, 151.780853 from Land_Boat_Small3
+19:35:37.360 !!! [CE][Point] Removing 241.243240, 374.269501 from Land_Slum_House4
+19:35:37.378 !!! [CE][Point] Removing 222.735382, 153.794525 from Land_Boat_Small2
+19:35:37.386 !!! [CE][Point] Removing 236.441238, 374.356903 from Land_Slum_House4
+19:35:37.401 !!! [CE][Point] Removing 239.819168, 372.359711 from Land_Slum_House4
+19:35:37.433 !!! [CE][Point] Removing 237.360428, 372.474945 from Land_Slum_House4
+19:35:37.612 !!! [CE][Point] Removing 223.912811, 151.906052 from Land_Boat_Small3
+19:35:37.612 !!! [CE][Point] Removing 224.719864, 152.422241 from Land_Boat_Small2
+19:35:37.675 !!! [CE][Point] Removing 190.150146, 186.166321 from Land_Wreck_hb01_aban1_police
+19:35:37.967 !!! [CE][Point] Removing 186.644608, 207.469772 from Land_Wreck_truck01_aban1_green
+19:35:38.126 !!! [CE][Point] Removing 269.128693, 275.694489 from Land_Wreck_Mining_HaulTruck
+19:35:38.126 !!! [CE][Point] Removing 265.760925, 286.352600 from Land_Wreck_Mining_HaulTruck
+19:35:38.126 !!! [CE][Point] Removing 265.931915, 273.604462 from Land_Wreck_Mining_HaulTruck
+19:35:38.334 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:9553, Nominal:9573, Total in Map: 9528 at 4 (sec)
+19:35:38.334   tests:9864, repeats:74 fails:237, overtime:251
+19:35:38.334 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:35:38.341 [CE][Links] found 0 total links between groups, of 1
+19:35:38.341 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_Mi8_Crashed, lootmin: 10, lootmax: 15, wanted: 11, deloot: 2, containermaxsum: 15
+19:35:38.348 [CE][Links] found 0 total links between groups, of 2
+19:35:38.348 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+19:35:39.137 [CE][Links] found 0 total links between groups, of 3
+19:35:39.137 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_hb01_aban1_police, lootmin: 3, lootmax: 5, wanted: 4, deloot: 2, containermaxsum: 6
+19:35:39.138 	!!! (child) Land_Wreck_hb01_aban1_police spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+19:35:39.143 [CE][Links] found 0 total links between groups, of 4
+19:35:39.143 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_hb01_aban1_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+19:35:39.145 	!!! (child) Land_Wreck_hb01_aban1_police spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+19:35:39.159 [CE][Links] found 0 total links between groups, of 5
+19:35:39.159 [CE][SpawnRandomLoot] (StaticPoliceCar) :: Type: Land_Wreck_hb01_aban2_police, lootmin: 3, lootmax: 5, wanted: 3, deloot: 2, containermaxsum: 6
+19:35:39.160 	!!! (child) Land_Wreck_hb01_aban2_police spawns loot or dispatch but can not be saved because of non-saveable StorageCategory.
+19:35:39.346 !!! [CE][VehicleRespawner] (PRIOffroad02) :: Init: "VehicleOffroad02" - Failed to spawn the requested amount (1 < 4) within 12 attempts.
+19:35:39.506 !!! [CE][VehicleRespawner] (PRITruck01) :: Init: "VehicleTruck01" - Failed to spawn the requested amount (3 < 5) within 15 attempts.
+19:35:39.506 [CE][DynEvent] :: 25 types
+19:35:39.506 [00] AmbientHen
+19:35:39.506   Primary Spawner: "Ambient", active: yes, repeat: 1
+19:35:39.506 [01] AnimalBear
+19:35:39.506   Primary Spawner: "Animal", active: yes, repeat: 1
+19:35:39.506 [02] AnimalGoat
+19:35:39.506   Primary Spawner: "Animal", active: yes, repeat: 1
+19:35:39.506 [03] AnimalPig
+19:35:39.506   Primary Spawner: "Animal", active: yes, repeat: 1
+19:35:39.506 [04] AnimalWildBoar
+19:35:39.506   Primary Spawner: "Animal", active: yes, repeat: 1
+19:35:39.506 [05] AnimalWolf
+19:35:39.506   Primary Spawner: "Animal", active: yes, repeat: 1
+19:35:39.506 [06] InfectedArmy
+19:35:39.506   Primary Spawner: "Infected", active: yes, repeat: 1
+19:35:39.506 [07] InfectedArmyHard
+19:35:39.506   Primary Spawner: "Infected", active: yes, repeat: 1
+19:35:39.506 [08] InfectedCity
+19:35:39.506   Primary Spawner: "Infected", active: yes, repeat: 1
+19:35:39.506 [09] InfectedFirefighter
+19:35:39.506   Primary Spawner: "Infected", active: yes, repeat: 1
+19:35:39.506 [10] InfectedIndustrial
+19:35:39.506   Primary Spawner: "Infected", active: yes, repeat: 1
+19:35:39.506 [11] InfectedMedic
+19:35:39.506   Primary Spawner: "Infected", active: yes, repeat: 1
+19:35:39.506 [12] InfectedPolice
+19:35:39.506   Primary Spawner: "Infected", active: yes, repeat: 1
+19:35:39.506 [13] InfectedVillage
+19:35:39.506   Primary Spawner: "Infected", active: yes, repeat: 1
+19:35:39.506 [14] ItemPlanks
+19:35:39.506   Primary Spawner: "Item", active: yes, repeat: 1
+19:35:39.506 [15] Loot
+19:35:39.506   Primary Spawner: "Loot", active: yes, repeat: 2
+19:35:39.506 [16] StaticContaminatedArea
+19:35:39.506   Primary Spawner: "Static", active: yes, repeat: 1
+19:35:39.506 [17] StaticHeliCrash
+19:35:39.506   Primary Spawner: "Static", active: yes, repeat: 1
+19:35:39.506   Secondary Spawner: "Infected", active: yes, repeat: 1
+19:35:39.506 [18] StaticPoliceCar
+19:35:39.506   Primary Spawner: "Static", active: yes, repeat: 1
+19:35:39.506 [19] VehicleCivilianSedan
+19:35:39.506   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:35:39.506 [20] VehicleHatchback02
+19:35:39.506   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:35:39.506 [21] VehicleOffroad02
+19:35:39.506   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:35:39.506 [22] VehicleOffroadHatchback
+19:35:39.506   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:35:39.506 [23] VehicleSedan02
+19:35:39.506   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:35:39.506 [24] VehicleTruck01
+19:35:39.506   Primary Spawner: "Vehicle", active: yes, repeat: 1
+19:35:39.506 [CE][Hive] :: Initializing of spawners done.
+19:35:39.513 [CE][Hive] :: Init sequence finished.
+19:35:39.513 Player connect enabled
+19:35:40.40 [IdleMode] Entering IN - save processed
+19:37:18.802 [Login]: Adding player Teddybear (27121133) to login queue at position 0
+19:37:18.803 [LoginMachine]: Add player Teddybear (27121133 71.1.247.249:28002)
+19:37:18.803 [StateMachine]: Player Teddybear (dpnid 27121133 uid ) Entering AuthPlayerLoginState
+19:37:19.442 [StateMachine]: Player Teddybear (dpnid 27121133 uid ) State Error (AuthPlayerLoginState)
+19:37:19.442 Player Unknown (27121133) kicked from server: 115 (Client is missing a mod which is on the server. (Lux)  (Missing PBO. (D:\SteamLibrary\steamapps\common\DayZ\!Workshop\@Namalsk Survival\addons\ns_dayz.pbo)))
+19:37:19.442 [StateMachine]: Kick player Teddybear (dpnid 27121133 uid ) State AuthPlayerLoginState
+19:37:19.446 [Disconnect]: Client 27121133 early disconnect
+19:37:19.452 [Disconnect]: No identity -> remove player info 27121133 
+19:37:19.452 [Disconnect]: DisconnectPlayerFinish 27121133
+19:37:19.452 [Disconnect]: Remove player info 27121133
+19:37:19.457 [Disconnect]: Player destroy 27121133 
+19:38:53.501 [Login]: Adding player Teddybear (18334773) to login queue at position 0
+19:38:53.502 [LoginMachine]: Add player Teddybear (18334773 71.1.247.249:28002)
+19:38:53.502 [StateMachine]: Player Teddybear (dpnid 18334773 uid ) Entering AuthPlayerLoginState
+19:38:54.272 [StateMachine]: Player Teddybear (dpnid 18334773 uid ) Entering WaitAuthPlayerLoginState
+19:38:56.858 Player Teddybear connected (id=seiDIHZyX9mTlCPzNvXvMvYDJ1Ov68SU90br7Xpnuqw=).
+19:38:56.858 Player "Teddybear" is connected (steamID=76561199353350440)
+19:38:56.867 [StateMachine]: Player Teddybear (dpnid 18334773 uid ) Entering WaitPlayerAssignedLoginState
+19:38:57.554 [StateMachine]: Player Teddybear (dpnid 18334773 uid seiDIHZyX9mTlCPzNvXvMvYDJ1Ov68SU90br7Xpnuqw=) Entering DBGetLoginTimeLoginState
+19:38:57.638 [StateMachine]: Player Teddybear (dpnid 18334773 uid seiDIHZyX9mTlCPzNvXvMvYDJ1Ov68SU90br7Xpnuqw=) Entering DBWaitLoginTimeLoginState
+19:38:57.780 [IdleMode] Leaving OUT
+19:39:12.639 [StateMachine]: Player Teddybear (dpnid 18334773 uid seiDIHZyX9mTlCPzNvXvMvYDJ1Ov68SU90br7Xpnuqw=) Entering DBGetCharacterLoginState
+19:39:12.671 [StateMachine]: Player Teddybear (dpnid 18334773 uid seiDIHZyX9mTlCPzNvXvMvYDJ1Ov68SU90br7Xpnuqw=) Entering CreateNetObjectsLoginState
+19:39:12.688 [StateMachine]: Player Teddybear (dpnid 18334773 uid seiDIHZyX9mTlCPzNvXvMvYDJ1Ov68SU90br7Xpnuqw=) Entering PreloadCamLoginState
+19:39:12.693 [StateMachine]: Player Teddybear (dpnid 18334773 uid seiDIHZyX9mTlCPzNvXvMvYDJ1Ov68SU90br7Xpnuqw=) Entering WaitPreloadCamLoginState
+19:39:15.929 [StateMachine]: Player Teddybear (dpnid 18334773 uid seiDIHZyX9mTlCPzNvXvMvYDJ1Ov68SU90br7Xpnuqw=) Entering GetNewCharLoginState
+19:39:29.148 <CREATE NEW CHAR>:
+    charID 1
+    playerID 1
+    dpnid 18334773
+    uid seiDIHZyX9mTlCPzNvXvMvYDJ1Ov68SU90br7Xpnuqw=
+19:39:38.484 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:40:05.128 !!! [CE][VehicleRespawner] (PRIOffroad02) :: Respawning: "VehicleOffroad02" - Failed to spawn the requested amount (0 < 3) within 9 attempts.
+19:40:06.71 !!! [CE][VehicleRespawner] (PRITruck01) :: Respawning: "VehicleTruck01" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+19:40:33.603 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:40:35.177 !!! [CE][VehicleRespawner] (PRIOffroad02) :: Respawning: "VehicleOffroad02" - Failed to spawn the requested amount (0 < 3) within 9 attempts.
+19:41:01.162 !!! [CE][VehicleRespawner] (PRITruck01) :: Respawning: "VehicleTruck01" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+19:41:03.678 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:41:30.276 !!! [CE][VehicleRespawner] (PRIOffroad02) :: Respawning: "VehicleOffroad02" - Failed to spawn the requested amount (0 < 3) within 9 attempts.
+19:41:31.224 !!! [CE][VehicleRespawner] (PRITruck01) :: Respawning: "VehicleTruck01" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+19:41:58.751 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:42:15.171 [Disconnect]: Start script disconnect 18334773 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+19:42:16.234 [Disconnect]: Client 18334773 disconnecting
+19:42:16.234 [Disconnect]: Client 18334773 early disconnect
+19:42:16.241 [Disconnect]: Start script disconnect 18334773 (dbCharacterId 1 dbPlayerId 1) logoutTime 15
+19:42:16.891 [Disconnect]: Remove player info 18334773
+19:42:16.902 [Disconnect]: Player destroy 18334773 
+19:42:25.407 !!! [CE][VehicleRespawner] (PRIOffroad02) :: Respawning: "VehicleOffroad02" - Failed to spawn the requested amount (0 < 3) within 9 attempts.
+19:42:26.361 !!! [CE][VehicleRespawner] (PRITruck01) :: Respawning: "VehicleTruck01" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+19:42:30.171 [Disconnect]: Finish script disconnect -1 (seiDIHZyX9mTlCPzNvXvMvYDJ1Ov68SU90br7Xpnuqw=)
+19:42:54.148 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:42:55.741 !!! [CE][VehicleRespawner] (PRIOffroad02) :: Respawning: "VehicleOffroad02" - Failed to spawn the requested amount (0 < 3) within 9 attempts.
+19:42:56.680 !!! [CE][VehicleRespawner] (PRITruck01) :: Respawning: "VehicleTruck01" - Failed to spawn the requested amount (0 < 2) within 6 attempts.
+19:43:24.484 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+19:43:32.117 [IdleMode] Entering IN - save processed
+ 2:45:15.80  --- Termination successfully completed --- 
